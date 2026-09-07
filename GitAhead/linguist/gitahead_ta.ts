@@ -3781,169 +3781,169 @@ Ejemplos
     </message>
     <message>
         <source>Downloading %1...</source>
-        <translation>Descargando %1...</translation>
+        <translation>%1-ஐப் பதிவிறக்குகிறது...</translation>
     </message>
     <message>
         <source>Update %1</source>
-        <translation>Actualizar %1</translation>
+        <translation>%1-ஐப் புதுப்பி</translation>
     </message>
 </context>
 <context>
     <name>UpToDateDialog</name>
     <message>
         <source>Already Up-to-date</source>
-        <translation>Ya está actualizado</translation>
+        <translation>ஏற்கனவே புதுப்பிக்கப்பட்டுள்ளது</translation>
     </message>
     <message>
         <source>%1 is already up-to-date. You have version %2.</source>
-        <translation>%1 ya está actualizado. Tienes la versión %2.</translation>
+        <translation>%1 ஏற்கனவே புதுப்பிக்கப்பட்டுள்ளது. உங்களிடம் %2 பதிப்பு உள்ளது.</translation>
     </message>
 </context>
 <context>
     <name>Reference</name>
     <message>
         <source>HEAD detached at %1</source>
-        <translation>HEAD separado en %1</translation>
+        <translation>தலை %1-இல் பிரிக்கப்பட்டுள்ளது</translation>
     </message>
 </context>
 <context>
     <name>Popup</name>
     <message>
         <source>Show Advanced Search</source>
-        <translation>Mostrar Búsqueda Avanzada</translation>
+        <translation>மேம்பட்ட தேடலைக் காட்டு</translation>
     </message>
 </context>
 <context>
     <name>PullRequestButton</name>
     <message>
         <source>Create Pull Request</source>
-        <translation>Crear Solicitud de Integración</translation>
+        <translation>இழு கோரிக்கையை உருவாக்கு</translation>
     </message>
 </context>
 <context>
     <name>UpdatePanel</name>
     <message>
         <source>Software Update:</source>
-        <translation>Actualización de Software:</translation>
+        <translation>மென்பொருள் புதுப்பிப்பு:</translation>
     </message>
     <message>
         <source>Automatically download and install updates</source>
-        <translation>Descargar e instalar actualizaciones automáticamente</translation>
+        <translation>புதுப்பிப்புகளைத் தானாகப் பதிவிறக்கி நிறுவு</translation>
     </message>
     <message>
         <source>Check Now</source>
-        <translation>Revisar Ahora</translation>
+        <translation>இப்போது சரிபார்</translation>
     </message>
     <message>
         <source>Check for updates automatically</source>
-        <translation>Revisar por actualizaciones automáticamente</translation>
+        <translation>புதுப்பிப்புகளைத் தானாகச் சரிபார்</translation>
     </message>
 </context>
 <context>
     <name>EditorWindow</name>
     <message>
         <source>Save Changes?</source>
-        <translation>¿Guardar Cambios?</translation>
+        <translation>மாற்றங்களைச் சேமிக்கவா?</translation>
     </message>
     <message>
         <source>&apos;%1&apos; has been modified. Do you want to save your changes?</source>
-        <translation>&apos;%1&apos; ha sido modificado. ¿Quieres guardar tus cambios?</translation>
+        <translation>&apos;%1&apos; திருத்தப்பட்டுள்ளது. உங்கள் மாற்றங்களைச் சேமிக்க விரும்புகிறீர்களா?</translation>
     </message>
 </context>
 <context>
     <name>RefreshButton</name>
     <message>
         <source>Refresh</source>
-        <translation>Refrescar</translation>
+        <translation>புதுப்பி</translation>
     </message>
 </context>
 <context>
     <name>EditTool</name>
     <message>
         <source>Edit in External Editor</source>
-        <translation>Editar en Editor Externo</translation>
+        <translation>வெளிப்புற திருத்தியில் திருத்து</translation>
     </message>
 </context>
 <context>
     <name>DiffView</name>
     <message>
         <source>Add new file</source>
-        <translation>Añadir nuevo archivo</translation>
+        <translation>புதிய கோப்பைச் சேர்</translation>
     </message>
     <message>
         <source>Or drag files here to copy into the repository</source>
-        <translation>O arrastra archivos aquí para copiarlos al repositorio</translation>
+        <translation>அல்லது கோப்புகளை இங்கே இழுத்து களஞ்சியத்தில் நகலெடு</translation>
     </message>
 </context>
 <context>
     <name>CheckoutDialog</name>
     <message>
         <source>References:</source>
-        <translation>Referencias:</translation>
+        <translation>குறிப்புகள்:</translation>
     </message>
     <message>
         <source>Detach HEAD</source>
-        <translation>Separar HEAD</translation>
+        <translation>துண்டிக்கப்பட்ட தலை</translation>
     </message>
     <message>
         <source>Checkout</source>
-        <translation>Revisar</translation>
+        <translation>சரிபார்</translation>
     </message>
 </context>
 <context>
     <name>AdvancedButton</name>
     <message>
         <source>Advanced Search</source>
-        <translation>Búsqueda Avanzada</translation>
+        <translation>மேம்பட்ட தேடல்</translation>
     </message>
 </context>
 <context>
     <name>TreeModel</name>
     <message>
         <source>Submodule</source>
-        <translation>Submódulo</translation>
+        <translation>துணைத்தொகுதி</translation>
     </message>
 </context>
 <context>
     <name>ShowTool</name>
     <message>
         <source>Show in %1</source>
-        <translation>Mostrar en %1</translation>
+        <translation>%1-இல் காட்டு</translation>
     </message>
 </context>
 <context>
     <name>PathspecWidget</name>
     <message>
         <source>Filter by Path</source>
-        <translation>Filtrar por Ruta</translation>
+        <translation>பாதையின்படி வடிகட்டு</translation>
     </message>
 </context>
 <context>
     <name>DiffTool</name>
     <message>
         <source>External Diff</source>
-        <translation>Diff externo</translation>
+        <translation>வெளிப்புற வேறுபாடு</translation>
     </message>
 </context>
 <context>
     <name>Beanstalk</name>
     <message>
         <source>Connection failed</source>
-        <translation>Conexión fallida</translation>
+        <translation>இணைப்பு தோல்வியடைந்தது</translation>
     </message>
 </context>
 <context>
     <name>Bitbucket</name>
     <message>
         <source>Connection failed</source>
-        <translation>Conexión fallida</translation>
+        <translation>இணைப்பு தோல்வியடைந்தது</translation>
     </message>
 </context>
 <context>
     <name>Images</name>
     <message>
         <source>&lt;b&gt;Size:&lt;/b&gt; %1</source>
-        <translation>&lt;b&gt;Tamaño:&lt;/b&gt; %1</translation>
+        <translation>&lt;b&gt;அளவு:&lt;/b&gt; %1</translation>
     </message>
 </context>
 </TS>
