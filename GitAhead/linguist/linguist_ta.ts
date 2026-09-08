@@ -447,9 +447,9 @@
     </message>
     <message numerus="yes">
         <source>Translated %n entry(s)</source>
-        <translation>மொழிபெயர்க்கப்பட்டது %n நுழைவு(கள்)<numerusform>Traducidas %n entrada</numerusform>
-            <numerusform>Traducidas %n entradas</numerusform>
-        </translation>
+        <translation><numerusform>மொழிபெயர்க்கப்பட்டது %n நுழைவு</numerusform>
+		<numerusform>மொழிபெயர்க்கப்பட்டது %n நுழைவுகள்</numerusform>
+		</translation>
     </message>
     <message>
         <source>Search And &amp;Translate in '%1'...</source>
