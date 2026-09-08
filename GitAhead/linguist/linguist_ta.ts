@@ -637,8 +637,8 @@ All files (*)</source>
     </message>
     <message numerus="yes">
         <source>%n translation unit(s) loaded.</source>
-        <translation>%n மொழிபெயர்ப்பு அலகு(கள்) ஏற்றப்பட்டது.<numerusform>%n unidad de traducción cargada.</numerusform>
-            <numerusform>%n unidades de traducción cargadas.</numerusform>
+        <translation><numerusform>%n மொழிபெயர்ப்பு அலகு ஏற்றப்பட்டது.</numerusform>
+            <numerusform>%n மொழிபெயர்ப்பு அலகுகள் ஏற்றப்பட்டன.</numerusform>
         </translation>
     </message>
     <message>
@@ -763,8 +763,8 @@ Close the open file(s) first?</source>
     </message>
     <message numerus="yes">
         <source>%n phrase(s) loaded.</source>
-        <translation>%n சொற்றொடர்(கள்) ஏற்றப்பட்டது.<numerusform>%n frase cargada.</numerusform>
-            <numerusform>%n frases cargadas.</numerusform>
+        <translation><numerusform>%n சொற்றொடர் ஏற்றப்பட்டது.</numerusform>
+            <numerusform>%n சொற்றொடர்கள் ஏற்றப்பட்டன.</numerusform>
         </translation>
     </message>
     <message>
@@ -1039,8 +1039,8 @@ Close the open file(s) first?</source>
     </message>
     <message numerus="yes">
         <source>Batch translated %n entries</source>
-        <translation>தொகுதி மொழிபெயர்க்கப்பட்டது %n உள்ளீடுகள்<numerusform>Traducida por lotes %n entrada</numerusform>
-            <numerusform>Traducidas por lotes %n entradas</numerusform>
+        <translation><numerusform>தொகுதி மொழிபெயர்க்கப்பட்டது %n உள்ளீடு</numerusform>
+            <numerusform>தொகுதி மொழிபெயர்க்கப்பட்டது %n உள்ளீடுகள்</numerusform>
         </translation>
     </message>
 </context>
@@ -1574,26 +1574,26 @@ Line: %2</source>
     <name>LRelease</name>
     <message numerus="yes">
         <source>    Generated %n translation(s) (%1 finished and %2 unfinished)</source>
-        <translation>உருவாக்கப்பட்ட %n மொழிபெயர்ப்பு(கள்) (%1 முடிந்தது மற்றும் %2 முடிக்கப்படவில்லை)<numerusform>    Generadas %n traducción (%1 terminado y %2 no finalizado)</numerusform>
-            <numerusform>    Generadas %n traducciones (%1 terminados y %2 no finalizados)</numerusform>
+        <translation><numerusform>    உருவாக்கப்பட்ட %n மொழிபெயர்ப்பு(கள்) (%1 முடிந்தது மற்றும் %2 முடிக்கப்படவில்லை)</numerusform>
+            <numerusform>    உருவாக்கப்பட்ட %n மொழிபெயர்ப்பு(கள்) (%1 முடிந்தது மற்றும் %2 முடிக்கப்படவில்லை)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Dropped %n message(s) which had no ID.</source>
-        <translation>ஐடி இல்லாத %n செய்தி(கள்) கைவிடப்பட்டது.<numerusform>Eliminado %n mensaje el cuál no contenía un identificador.</numerusform>
-            <numerusform>Eliminados %n mensajes los cuales no contenían un identificador.</numerusform>
+        <translation><numerusform>ஐடி இல்லாத %n செய்தி(கள்) கைவிடப்பட்டது.</numerusform>
+            <numerusform>ஐடி இல்லாத %n செய்தி(கள்) கைவிடப்பட்டது.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Excess context/disambiguation dropped from %n message(s).</source>
-        <translation>%n செய்தி(கள்) இலிருந்து அதிகப்படியான சூழல்/தெளிவு நீக்கம் கைவிடப்பட்டது.<numerusform>Contexto/desambiaguación excesiva eliminada de %n mensaje.</numerusform>
-            <numerusform>Contexto/desambiaguación excesiva eliminada de %n mensajes.</numerusform>
+        <translation><numerusform>%n செய்தி(கள்) இலிருந்து அதிகப்படியான சூழல்/தெளிவு நீக்கம் கைவிடப்பட்டது.</numerusform>
+            <numerusform>%n செய்தி(கள்) இலிருந்து அதிகப்படியான சூழல்/தெளிவு நீக்கம் கைவிடப்பட்டது.</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>    Ignored %n untranslated source text(s)</source>
-        <translation>புறக்கணிக்கப்பட்டது %n மொழிபெயர்க்கப்படாத மூல உரை(கள்)<numerusform>    Ignorado %n texto original no traducido</numerusform>
-            <numerusform>    Ignorados %n textos originales no traducidos</numerusform>
+        <translation><numerusform>    புறக்கணிக்கப்பட்டது %n மொழிபெயர்க்கப்படாத மூல உரை</numerusform>
+            <numerusform>    புறக்கணிக்கப்பட்டது %n மொழிபெயர்க்கப்படாத மூல உரைகள்</numerusform>
         </translation>
     </message>
 </context>
