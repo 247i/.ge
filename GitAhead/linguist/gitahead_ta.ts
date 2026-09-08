@@ -3631,7 +3631,7 @@ Examples
     </message>
     <message>
         <source>Initialize new repository</source>
-        <translation>புதிய களஞ்சியத்தை துவக்கவும்</translation>
+        <translation>புதிய களஞ்சியத்தை துவக்கு</translation>
     </message>
     <message>
         <source>Open Repository</source>
