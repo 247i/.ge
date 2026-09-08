@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>Choose protocol to authenticate with the remote.</source>
-        <translation>ரிமோட் மூலம் அங்கீகரிக்க நெறிமுறையைத் தேர்ந்தெடுக்கவும்.</translation>
+        <translation>தொலை மூலம் அங்கீகரிக்க நெறிமுறையைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <source>Protocol:</source>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>Amend Commit</source>
-        <translation>கமிட்டினை திருத்தவும்</translation>
+        <translation>உறுதிமொழிடினை திருத்தவும்</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>Stash</source>
-        <translation>ஸ்டாஷ்</translation>
+        <translation>பதுக்கிவை</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -221,7 +221,7 @@
     </message>
     <message>
         <source>Pop Stash</source>
-        <translation>பாப் ஸ்டாஷ்</translation>
+        <translation>பாப் பதுக்கிவை</translation>
     </message>
     <message>
         <source>Show Previous Tab</source>
@@ -277,7 +277,7 @@
     </message>
     <message>
         <source>Remote</source>
-        <translation>ரிமோட்</translation>
+        <translation>தொலை</translation>
     </message>
     <message>
         <source>Revert</source>
@@ -317,7 +317,7 @@
     </message>
     <message>
         <source>Log Remote Connection</source>
-        <translation>ரிமோட் இணைப்பை பதிவு செய்யவும்</translation>
+        <translation>தொலை இணைப்பை பதிவு செய்யவும்</translation>
     </message>
     <message>
         <source>Stage All</source>
@@ -333,7 +333,7 @@
     </message>
     <message>
         <source>Configure Remotes...</source>
-        <translation>ரிமோட்களை உள்ளமைக்கவும்...</translation>
+        <translation>தொலைகளை உள்ளமைக்கவும்...</translation>
     </message>
     <message>
         <source>Update All</source>
@@ -405,7 +405,7 @@
     </message>
     <message>
         <source>Cherry-pick</source>
-        <translation>செர்ரி-எடு</translation>
+        <translation>கனி-எடு</translation>
     </message>
     <message>
         <source>Push To...</source>
@@ -417,7 +417,7 @@
     </message>
     <message>
         <source>Stash...</source>
-        <translation>ஸ்டாஷ்...</translation>
+        <translation>பதுக்கிவை...</translation>
     </message>
     <message>
         <source>Update...</source>
@@ -509,7 +509,7 @@
     </message>
     <message>
         <source>Walk Commits</source>
-        <translation>வாக் கமிட்கள்</translation>
+        <translation>வாக் உறுதிமொழிகள்</translation>
     </message>
     <message>
         <source>Git LFS</source>
@@ -533,7 +533,7 @@
     </message>
     <message>
         <source>Show Stashes</source>
-        <translation>ஸ்டாஷ்களைக் காட்டு</translation>
+        <translation>பதுக்கிவைகளைக் காட்டு</translation>
     </message>
     <message>
         <source>Show Log</source>
@@ -580,7 +580,7 @@
     </message>
     <message>
         <source>Remotes</source>
-        <translation>ரிமோட்டுகள்</translation>
+        <translation>தொலைடுகள்</translation>
     </message>
     <message>
         <source>General</source>
@@ -697,7 +697,7 @@
     </message>
     <message>
         <source>&lt;p&gt;Some commits may become unreachable from the current branch.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;தற்போதைய கிளையிலிருந்து சில கமிட்கள் கிடைக்காமல் போகலாம்.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;தற்போதைய கிளையிலிருந்து சில உறுதிமொழிகள் கிடைக்காமல் போகலாம்.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Lock</source>
@@ -761,7 +761,7 @@
     </message>
     <message>
         <source>Stash</source>
-        <translation>ஸ்டாஷ்</translation>
+        <translation>பதுக்கிவை</translation>
     </message>
     <message>
         <source>Stage Large File?</source>
@@ -805,7 +805,7 @@
     </message>
     <message>
         <source>Pop Stash</source>
-        <translation>பாப் ஸ்டாஷ்</translation>
+        <translation>பாப் பதுக்கிவை</translation>
     </message>
     <message>
         <source>Drop Stash</source>
@@ -813,11 +813,11 @@
     </message>
     <message>
         <source>pop stash</source>
-        <translation>பாப் ஸ்டாஷ்</translation>
+        <translation>பாப் பதுக்கிவை</translation>
     </message>
     <message>
         <source>drop stash</source>
-        <translation>சொட்டு ஸ்டாஷ்</translation>
+        <translation>சொட்டு பதுக்கிவை</translation>
     </message>
     <message>
         <source>Consider setting the user name and email in &lt;a href='action:config?global=true'&gt;global settings&lt;/a&gt;.</source>
@@ -833,7 +833,7 @@
     </message>
     <message>
         <source>If you really want the remote to lose commits, you may be able to &lt;a href='action:push?force=true'&gt;force push&lt;/a&gt;.</source>
-        <translation>ரிமோட் கமிட்களை இழக்க வேண்டும் என நீங்கள் விரும்பினால், நீங்கள் &lt;a href='action:push?force=true'&gt;force push&lt;/a&gt; செய்யலாம்.</translation>
+        <translation>தொலை உறுதிமொழிகளை இழக்க வேண்டும் என நீங்கள் விரும்பினால், நீங்கள் &lt;a href='action:push?force=true'&gt;force push&lt;/a&gt; செய்யலாம்.</translation>
     </message>
     <message>
         <source>You can &lt;a href='action:abort'&gt;abort&lt;/a&gt; the %1 to return the repository to its previous state.</source>
@@ -865,7 +865,7 @@
     </message>
     <message>
         <source>&lt;i&gt;no remote&lt;/i&gt;</source>
-        <translation>&lt;i&gt;ரிமோட் இல்லை&lt;/i&gt;</translation>
+        <translation>&lt;i&gt;தொலை இல்லை&lt;/i&gt;</translation>
     </message>
     <message>
         <source>You may be able to rebase by &lt;a href='action:stash'&gt;stashing&lt;/a&gt; before trying to &lt;a href='action:rebase'&gt;rebase&lt;/a&gt;. Then &lt;a href='action:unstash'&gt;unstash&lt;/a&gt; to restore your changes.</source>
@@ -981,7 +981,7 @@
     </message>
     <message>
         <source>You may want to &lt;a href='action:add-remote?name=origin'&gt;add a remote named 'origin'&lt;/a&gt;. Then &lt;a href='action:push?set-upstream=true'&gt;push and set the current branch's upstream&lt;/a&gt; to begin tracking a remote branch called 'origin/%1'.</source>
-        <translation>நீங்கள் &lt;a href='action:add-remote?name=origin'&gt;'origin' என்ற ரிமோட்டைச் சேர்க்க விரும்பலாம்&lt;/a&gt;. பின்னர், 'origin/%1' எனப்படும் தொலைநிலைக் கிளையைக் கண்காணிக்கத் தொடங்க, &lt;a href='action:push?set-upstream=true'&gt;புஷ் மற்றும் தற்போதைய கிளையின் அப்ஸ்ட்ரீமை அமைக்கவும்&lt;/a&gt;.</translation>
+        <translation>நீங்கள் &lt;a href='action:add-remote?name=origin'&gt;'origin' என்ற தொலையைச் சேர்க்க விரும்பலாம்&lt;/a&gt;. பின்னர், 'origin/%1' எனப்படும் தொலைநிலைக் கிளையைக் கண்காணிக்கத் தொடங்க, &lt;a href='action:push?set-upstream=true'&gt;புஷ் மற்றும் தற்போதைய கிளையின் அப்ஸ்ட்ரீமை அமைக்கவும்&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>You are not currently on a branch.</source>
@@ -1029,7 +1029,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>The current branch '%1' has no default remote.</source>
-        <translation>தற்போதைய கிளை '%1' இல் இயல்புநிலை ரிமோட் இல்லை.</translation>
+        <translation>தற்போதைய கிளை '%1' இல் இயல்புநிலை தொலை இல்லை.</translation>
     </message>
     <message>
         <source>push to</source>
@@ -1061,7 +1061,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>The tag update may cause the remote to lose commits.</source>
-        <translation>டேக் புதுப்பிப்பு ரிமோட் கமிட்களை இழக்க நேரிடலாம்.</translation>
+        <translation>டேக் புதுப்பிப்பு தொலை உறுதிமொழிகளை இழக்க நேரிடலாம்.</translation>
     </message>
     <message>
         <source>Resolve conflicts in each conflicted (!) file in one of the following ways:</source>
@@ -1073,7 +1073,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>%1 remotes</source>
-        <translation>%1 ரிமோட்டுகள்</translation>
+        <translation>%1 தொலைடுகள்</translation>
     </message>
     <message>
         <source>Checking out remote branch '%1' will result in a detached HEAD state. Do you want to create a new local branch called '%2' to track it instead?</source>
@@ -1097,7 +1097,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>If you want to risk the remote losing commits, you can &lt;a href='action:push?ref=%1&amp;to=%2&amp;force=true'&gt;force push&lt;/a&gt;.</source>
-        <translation>ரிமோட் இழக்கும் கமிட்களை நீங்கள் ஆபத்தில் வைக்க விரும்பினால், நீங்கள் &lt;a href='action:push?ref=%1&amp;to=%2&amp;force=true'&gt;force push&lt;/a&gt;.</translation>
+        <translation>தொலை இழக்கும் உறுதிமொழிகளை நீங்கள் ஆபத்தில் வைக்க விரும்பினால், நீங்கள் &lt;a href='action:push?ref=%1&amp;to=%2&amp;force=true'&gt;force push&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Force Push</source>
@@ -1121,11 +1121,11 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>cherry-pick</source>
-        <translation>செர்ரி-எடு</translation>
+        <translation>கனி-எடு</translation>
     </message>
     <message>
         <source>Cherry-pick</source>
-        <translation>செர்ரி-எடு</translation>
+        <translation>கனி-எடு</translation>
     </message>
     <message>
         <source>Unable to %1 - %2</source>
@@ -1181,7 +1181,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>apply stash</source>
-        <translation>ஸ்டாஷ் விண்ணப்பிக்கவும்</translation>
+        <translation>பதுக்கிவை விண்ணப்பிக்கவும்</translation>
     </message>
     <message>
         <source>Create Local Branch</source>
@@ -1249,7 +1249,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Create a local branch to start tracking remote changes and make new commits. Check out the detached HEAD to temporarily put your working directory into the state of the remote branch.</source>
-        <translation>தொலைநிலை மாற்றங்களைக் கண்காணிக்கத் தொடங்கவும், புதிய பொறுப்புகளைச் செய்யவும் உள்ளூர் கிளையை உருவாக்கவும். உங்கள் வேலை செய்யும் கோப்பகத்தை ரிமோட் கிளையின் நிலைக்குத் தற்காலிகமாக வைக்க, பிரிக்கப்பட்ட HEAD ஐப் பார்க்கவும்.</translation>
+        <translation>தொலைநிலை மாற்றங்களைக் கண்காணிக்கத் தொடங்கவும், புதிய பொறுப்புகளைச் செய்யவும் உள்ளூர் கிளையை உருவாக்கவும். உங்கள் வேலை செய்யும் கோப்பகத்தை தொலை கிளையின் நிலைக்குத் தற்காலிகமாக வைக்க, பிரிக்கப்பட்ட HEAD ஐப் பார்க்கவும்.</translation>
     </message>
     <message>
         <source>untracked files</source>
@@ -1565,7 +1565,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Cherry-pick</source>
-        <translation>செர்ரி-எடு</translation>
+        <translation>கனி-எடு</translation>
     </message>
     <message>
         <source>Remove Untracked Files</source>
@@ -1646,7 +1646,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Remote</source>
-        <translation>ரிமோட்</translation>
+        <translation>தொலை</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -2001,7 +2001,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Theme Name</source>
-        <translation>தீம் பெயர்</translation>
+        <translation>கருப்பொருள் பெயர்</translation>
     </message>
     <message>
         <source>Create Theme</source>
@@ -2017,7 +2017,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Theme:</source>
-        <translation>தீம்:</translation>
+        <translation>கருப்பொருள்:</translation>
     </message>
     <message>
         <source>Title:</source>
@@ -2033,7 +2033,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Edit Current Theme</source>
-        <translation>தற்போதைய தீம் திருத்தவும்</translation>
+        <translation>தற்போதைய கருப்பொருள் திருத்தவும்</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -2041,7 +2041,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>The application must be restarted for the theme change to take effect.</source>
-        <translation>தீம் மாற்றம் நடைமுறைக்கு வர, பயன்பாடு மறுதொடக்கம் செய்யப்பட வேண்டும்.</translation>
+        <translation>கருப்பொருள் மாற்றம் நடைமுறைக்கு வர, பயன்பாடு மறுதொடக்கம் செய்யப்பட வேண்டும்.</translation>
     </message>
     <message>
         <source>Restart?</source>
@@ -2053,7 +2053,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Add New Theme</source>
-        <translation>புதிய தீம் சேர்க்கவும்</translation>
+        <translation>புதிய கருப்பொருள் சேர்க்கவும்</translation>
     </message>
     <message>
         <source>Show full repository path</source>
@@ -2212,7 +2212,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Pop Stash</source>
-        <translation>பாப் ஸ்டாஷ்</translation>
+        <translation>பாப் பதுக்கிவை</translation>
     </message>
     <message>
         <source>Rebase</source>
@@ -2287,7 +2287,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>&lt;p&gt;Are you sure you want to remove the remote repository association for %1?&lt;/p&gt;&lt;p&gt;The local clone itself will not be affected.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;%1க்கான ரிமோட் ரெபோசிட்டரி சங்கத்தை நிச்சயமாக அகற்ற விரும்புகிறீர்களா?&lt;/p&gt;&lt;p&gt;உள்ளூர் குளோன் பாதிக்கப்படாது.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;%1க்கான தொலை ரெபோசிட்டரி சங்கத்தை நிச்சயமாக அகற்ற விரும்புகிறீர்களா?&lt;/p&gt;&lt;p&gt;உள்ளூர் குளோன் பாதிக்கப்படாது.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Remove Repository Association?</source>
@@ -2303,7 +2303,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Remote:</source>
-        <translation>ரிமோட்:</translation>
+        <translation>தொலை:</translation>
     </message>
     <message>
         <source>Initialize New Repository</source>
@@ -2441,7 +2441,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Also delete the upstream branch from its remote</source>
-        <translation>அதன் ரிமோட்டில் இருந்து அப்ஸ்ட்ரீம் கிளையையும் நீக்கவும்</translation>
+        <translation>அதன் தொலைடில் இருந்து அப்ஸ்ட்ரீம் கிளையையும் நீக்கவும்</translation>
     </message>
     <message>
         <source>The branch is not fully merged. Deleting it may cause some commits to be lost.</source>
@@ -2558,7 +2558,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Add Remote</source>
-        <translation>ரிமோட்டைச் சேர்க்கவும்</translation>
+        <translation>தொலையைச் சேர்க்கவும்</translation>
     </message>
 </context>
 <context>
@@ -2612,7 +2612,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Remotes</source>
-        <translation>ரிமோட்டுகள்</translation>
+        <translation>தொலைடுகள்</translation>
     </message>
 </context>
 <context>
@@ -2831,7 +2831,7 @@ Examples
     </message>
     <message>
         <source>CHERRY-PICKING</source>
-        <translation>செர்ரி-பிக்கிங்</translation>
+        <translation>கனி-பிக்கிங்</translation>
     </message>
     <message>
         <source>REBASING</source>
@@ -2890,7 +2890,7 @@ Examples
     </message>
     <message>
         <source>Cherry-pick</source>
-        <translation>செர்ரி-எடு</translation>
+        <translation>கனி-எடு</translation>
     </message>
     <message>
         <source>Cherry-pick commit message</source>
@@ -3393,7 +3393,7 @@ Examples
     </message>
     <message>
         <source>&lt;b&gt;Commit Message:&lt;/b&gt;</source>
-        <translation>&lt;b&gt;கமிட் செய்தி:&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;உறுதிமொழி செய்தி:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Commit Merge</source>
@@ -3548,22 +3548,22 @@ Examples
     </message>
     <message>
         <source>SSL Errors</source>
-        <translation>SSL Errors</translation>
+        <translation>SSL பிழைகள்</translation>
     </message>
 </context>
 <context>
     <name>ToolsPanel</name>
     <message>
         <source>External diff:</source>
-        <translation>External diff:</translation>
+        <translation>வெளிப்புற வேறு:</translation>
     </message>
     <message>
         <source>Configure</source>
-        <translation>Configure</translation>
+        <translation>அமை</translation>
     </message>
     <message>
         <source>External editor:</source>
-        <translation>External editor:</translation>
+        <translation>வெளிப்புறத் தொகுப்பி:</translation>
     </message>
     <message>
         <source>Keep backup of merge files (.orig)</source>
@@ -3571,18 +3571,18 @@ Examples
     </message>
     <message>
         <source>External merge:</source>
-        <translation>External merge:</translation>
+        <translation>வெளிப்புற இணைப்பு:</translation>
     </message>
     <message>
         <source>Backup files:</source>
-        <translation>Backup files:</translation>
+        <translation>காப்புப்பிரதி கோப்புகள்:</translation>
     </message>
 </context>
 <context>
     <name>RemotesPanel</name>
     <message>
-        <source>Are you sure you want to delete '%1'?</source>
-        <translation>Are you sure you want to delete '%1'?</translation>
+        <source>Are you sure you want to delete &apos;%1&apos;?</source>
+        <translation>&apos;%1&apos;-ஐ நீக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3590,7 +3590,7 @@ Examples
     </message>
     <message>
         <source>Delete Remote?</source>
-        <translation>ரிமோட்டை நீக்கவா?</translation>
+        <translation>தொலையை நீக்கவா?</translation>
     </message>
 </context>
 <context>
@@ -3604,7 +3604,7 @@ Examples
     <name>ThemeDialog</name>
     <message>
         <source>Native Theme</source>
-        <translation>பூர்வீக தீம்</translation>
+        <translation>இயல்பான கருப்பொருள்</translation>
     </message>
     <message>
         <source>A consistent look optimal for reducing eye strain</source>
@@ -3612,22 +3612,22 @@ Examples
     </message>
     <message>
         <source>A flexible look matching system colors</source>
-        <translation>A flexible look matching system colors</translation>
+        <translation>கணினி வண்ணங்களுக்கு ஏற்றவாறு அமையும் நெகிழ்வான தோற்றம்</translation>
     </message>
     <message>
         <source>Dark Theme</source>
-        <translation>இருண்ட தீம்</translation>
+        <translation>இருண்ட கருப்பொருள்</translation>
     </message>
 </context>
 <context>
     <name>DefaultWidget</name>
     <message>
         <source>Clone repository</source>
-        <translation>குளோன் களஞ்சியம்</translation>
+        <translation>களஞ்சியத்தை நகலெடு</translation>
     </message>
     <message>
         <source>Contact us for support</source>
-        <translation>Contact us for support</translation>
+        <translation>ஆதரவிற்கு எங்களைத் தொடர்பு கொள்ளவும்</translation>
     </message>
     <message>
         <source>Initialize new repository</source>
@@ -3635,52 +3635,52 @@ Examples
     </message>
     <message>
         <source>Open Repository</source>
-        <translation>Open Repository</translation>
+        <translation>களஞ்சியத்தைத் திற</translation>
     </message>
     <message>
         <source>View getting started videos</source>
-        <translation>தொடங்கும் வீடியோக்களைப் பார்க்கவும்</translation>
+        <translation>தொடங்கும் வீடியோக்களைப் பார்</translation>
     </message>
     <message>
         <source>Open existing repository</source>
-        <translation>Open existing repository</translation>
+        <translation>ஏற்கனவே உள்ள களஞ்சியத்தைத் திற</translation>
     </message>
     <message>
         <source>Add %1 account</source>
-        <translation>%1 கணக்கைச் சேர்க்கவும்</translation>
+        <translation>%1 கணக்கைச் சேர்</translation>
     </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
         <source>Prompt to edit commit message before merging</source>
-        <translation>Prompt to edit commit message before merging</translation>
+        <translation>இணைப்பதற்கு முன் உறுதிமொழி செய்தியைத் திருத்தக் கேட்கவும்</translation>
     </message>
     <message>
         <source>Prompt to edit commit message before cherry-picking</source>
-        <translation>செர்ரி எடுப்பதற்கு முன் கமிட் மெசேஜைத் திருத்தும்படி கேட்கவும்</translation>
+        <translation>கனி எடுப்பதற்கு முன் உறுதிமொழி செய்தியைத் திருத்தும்படி கேட்கவும்</translation>
     </message>
     <message>
         <source>Prompt to edit commit message before reverting</source>
-        <translation>Prompt to edit commit message before reverting</translation>
+        <translation>மீளமைப்பதற்கு முன் உறுதிமொழி செய்தியைத் திருத்தக் கேட்கவும்</translation>
     </message>
     <message>
         <source>Prompt to edit stash message before stashing</source>
-        <translation>ஸ்டாஷ் செய்தியை ஸ்டாஷிங் செய்வதற்கு முன் திருத்தும்படி கேட்கவும்</translation>
+        <translation>பதுக்கிவை செய்தியை பதுக்கிவைபதற்கு முன் திருத்தும்படி கேட்கவும்</translation>
     </message>
 </context>
 <context>
     <name>Header</name>
     <message>
         <source>Filter %1</source>
-        <translation>Filter %1</translation>
+        <translation>%1-ஐ வடிகட்டு</translation>
     </message>
 </context>
 <context>
     <name>ReferenceList</name>
     <message>
         <source>Commit</source>
-        <translation>Commit</translation>
+        <translation>உறுதிமொழி</translation>
     </message>
 </context>
 <context>
@@ -3694,11 +3694,11 @@ Examples
     <name>CommitModel</name>
     <message>
         <source>Checking for uncommitted changes</source>
-        <translation>Checking for uncommitted changes</translation>
+        <translation>உறுதிமொழி செய்யப்படாத மாற்றங்கள் உள்ளனவா எனச் சரிபார்க்கப்படுகிறது</translation>
     </message>
     <message>
         <source>Uncommitted changes</source>
-        <translation>Uncommitted changes</translation>
+        <translation>உறுதிமொழி செய்யப்படாத மாற்றங்கள்</translation>
     </message>
 </context>
 <context>
@@ -3720,18 +3720,18 @@ Examples
     <name>Repository</name>
     <message>
         <source>git-lfs not found</source>
-        <translation>git-lfs not found</translation>
+        <translation>git-lfs காணப்படவில்லை</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Unknown error</translation>
+        <translation>தெரியாத பிழை</translation>
     </message>
 </context>
 <context>
     <name>TextEdit</name>
     <message>
         <source>Ignore</source>
-        <translation>புறக்கணிக்கவும்</translation>
+        <translation>புறக்கணி</translation>
     </message>
 </context>
 <context>
@@ -3753,14 +3753,14 @@ Examples
     </message>
     <message>
         <source>&lt;b&gt;Note:&lt;/b&gt; Basic authentication is not supported. Use a &lt;a href='https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html'&gt;personal access token&lt;/a&gt; in the password field instead.</source>
-        <translation>&lt;b&gt;Note:&lt;/b&gt; Basic authentication is not supported. Use a &lt;a href='https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html'&gt;personal access token&lt;/a&gt; in the password field instead.</translation>
+        <translation>&lt;b&gt;குறிப்பு:&lt;/b&gt; அடிப்படை அங்கீகாரம் ஆதரிக்கப்படாது. அதற்குப் பதிலாக கடவுச்சொல் புலத்தில் &lt;a href=&apos;https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html&apos;&gt;தனிப்பட்ட அணுகல் டோக்கனை&lt;/a&gt; பயன்படுத்தவும்.</translation>
     </message>
 </context>
 <context>
     <name>GitLab</name>
     <message>
         <source>Authentication failed</source>
-        <translation>Authentication failed</translation>
+        <translation>அங்கீகாரம் தோல்வியடைந்தது</translation>
     </message>
     <message>
         <source>Connection failed</source>
@@ -3771,11 +3771,11 @@ Examples
     <name>DownloadDialog</name>
     <message>
         <source>Download Complete!</source>
-        <translation>Download Complete!</translation>
+        <translation>பதிவிறக்கம் நிறைவடைந்தது!</translation>
     </message>
     <message>
         <source>Install and Restart</source>
-        <translation>Install and Restart</translation>
+        <translation>நிறுவி மறுதொடக்கம் செய்</translation>
     </message>
     <message>
         <source>Downloading %1...</source>
@@ -3794,28 +3794,28 @@ Examples
     </message>
     <message>
         <source>%1 is already up-to-date. You have version %2.</source>
-        <translation>%1 is already up-to-date. You have version %2.</translation>
+        <translation>%1 ஏற்கனவே புதுப்பித்த நிலையில் உள்ளது. உங்களிடம் %2 பதிப்பு உள்ளது.</translation>
     </message>
 </context>
 <context>
     <name>Reference</name>
     <message>
         <source>HEAD detached at %1</source>
-        <translation>%1 இல் HEAD பிரிக்கப்பட்டது</translation>
+        <translation>%1 இல் தலை பிரிக்கப்பட்டது</translation>
     </message>
 </context>
 <context>
     <name>Popup</name>
     <message>
         <source>Show Advanced Search</source>
-        <translation>Show Advanced Search</translation>
+        <translation>மேம்பட்ட தேடலைக் காட்டு</translation>
     </message>
 </context>
 <context>
     <name>PullRequestButton</name>
     <message>
         <source>Create Pull Request</source>
-        <translation>இழுக்கும் கோரிக்கையை உருவாக்கவும்</translation>
+        <translation>இழுக்கும் கோரிக்கையை உருவாக்கு</translation>
     </message>
 </context>
 <context>
@@ -3826,15 +3826,15 @@ Examples
     </message>
     <message>
         <source>Automatically download and install updates</source>
-        <translation>Automatically download and install updates</translation>
+        <translation>புதுப்பிப்புகளைத் தானாகவே பதிவிறக்கி நிறுவவும்</translation>
     </message>
     <message>
         <source>Check Now</source>
-        <translation>இப்போது சரிபார்க்கவும்</translation>
+        <translation>இப்போது சரிபார்</translation>
     </message>
     <message>
         <source>Check for updates automatically</source>
-        <translation>Check for updates automatically</translation>
+        <translation>தானாகவே புதுப்பிப்புகளைச் சரிபார்</translation>
     </message>
 </context>
 <context>
@@ -3845,7 +3845,7 @@ Examples
     </message>
     <message>
         <source>'%1' has been modified. Do you want to save your changes?</source>
-        <translation>'%1' has been modified. Do you want to save your changes?</translation>
+        <translation>'%1' மாற்றப்பட்டுள்ளது. உங்கள் மாற்றங்களைச் சேமிக்க விரும்புகிறீர்களா?</translation>
     </message>
 </context>
 <context>
