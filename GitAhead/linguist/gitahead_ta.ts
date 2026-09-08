@@ -3506,14 +3506,14 @@ Examples
     </message>
     <message>
         <source>Compact Mode</source>
-        <translation>காம்பாக்ட் பயன்முறை</translation>
+        <translation>இறுக்கம் பயன்முறை</translation>
     </message>
 </context>
 <context>
     <name>AboutDialog</name>
     <message>
         <source>Understand your history!</source>
-        <translation>Understand your history!</translation>
+        <translation>உங்கள் வரலாற்றைப் புரிந்து கொள்ளுங்கள்!</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -3521,19 +3521,19 @@ Examples
     </message>
     <message>
         <source>Changelog</source>
-        <translation>சேஞ்ச்லாக்</translation>
+        <translation>மாற்றங்களின் பதிவு</translation>
     </message>
     <message>
         <source>Acknowledgments</source>
-        <translation>அங்கீகாரங்கள்</translation>
+        <translation>நன்றிகள்</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation>About %1</translation>
+        <translation>%1 பற்றி</translation>
     </message>
     <message>
         <source>Usage reporting has been disabled. Restart the application for changes to take effect.</source>
-        <translation>Usage reporting has been disabled. Restart the application for changes to take effect.</translation>
+        <translation>பயன்பாட்டு அறிக்கை உருவாக்கம் முடக்கப்பட்டுள்ளது. மாற்றங்கள் நடைமுறைக்கு வரச் செயலியை மறுதொடக்கம் செய்யவும்.</translation>
     </message>
     <message>
         <source>Usage Reporting Disabled</source>
