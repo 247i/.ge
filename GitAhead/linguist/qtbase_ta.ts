@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
+<?xml version='1.0' encoding='utf-8'?>
 <TS version="2.1" language="es_ES">
 <context>
     <name>QWidget</name>
@@ -16,19 +15,19 @@
     </message>
     <message>
         <source>CD</source>
-        <translation>CD</translation>
+        <translation>குறுவட்டு</translation>
     </message>
     <message>
         <source>Go</source>
-        <translation>Ir</translation>
+        <translation>போ</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation>இல்லை</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Arriba</translation>
+        <translation>மேலே</translation>
     </message>
     <message>
         <source>Alt</source>
@@ -40,43 +39,43 @@
     </message>
     <message>
         <source>DOS</source>
-        <translation>DOS</translation>
+        <translation>டாஸ்</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation>Suprimir</translation>
+        <translation>டெல்</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Cortar</translation>
+        <translation>வெட்டு</translation>
     </message>
     <message>
         <source>End</source>
-        <translation>Fin</translation>
+        <translation>முடிவு</translation>
     </message>
     <message>
         <source>Esc</source>
-        <translation>Escape</translation>
+        <translation>Esc</translation>
     </message>
     <message>
         <source>Ins</source>
-        <translation>Insertar</translation>
+        <translation>இன்ஸ்</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>Nuevo</translation>
+        <translation>புதியது</translation>
     </message>
     <message>
         <source>Num</source>
-        <translation>Núm</translation>
+        <translation>எண்</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation>Rojo</translation>
+        <translation>சிவப்பு</translation>
     </message>
     <message>
         <source>Tab</source>
-        <translation>Tabulador</translation>
+        <translation>தாவல்</translation>
     </message>
     <message>
         <source>WWW</source>
@@ -84,75 +83,75 @@
     </message>
     <message>
         <source>Yes</source>
-        <translation>Sí</translation>
+        <translation>ஆம்</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Anterior</translation>
+        <translation>மீண்டும்</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation>Ausente</translation>
+        <translation>தொலைவில்</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Azul</translation>
+        <translation>நீலம்</translation>
     </message>
     <message>
         <source>Book</source>
-        <translation>Libro</translation>
+        <translation>புத்தகம்</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation>Llamar</translation>
+        <translation>Call</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation>நகலெடுக்கவும்</translation>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation>Control</translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Abajo</translation>
+        <translation>கீழே</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Salir</translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation>Buscar</translation>
+        <translation>கண்டுபிடி</translation>
     </message>
     <message>
         <source>Flip</source>
-        <translation>Voltear</translation>
+        <translation>புரட்டவும்</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Juego</translation>
+        <translation>விளையாட்டு</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Ayuda</translation>
+        <translation>உதவி</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>Inicio</translation>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Información</translation>
+        <translation>தகவல்</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Izquierda</translation>
+        <translation>விட்டு</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation>Menú</translation>
+        <translation>மெனு</translation>
     </message>
     <message>
         <source>Meta</source>
@@ -160,47 +159,47 @@
     </message>
     <message>
         <source>News</source>
-        <translation>Noticias</translation>
+        <translation>செய்தி</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Abrir</translation>
+        <translation>திற</translation>
     </message>
     <message>
         <source>PgUp</source>
-        <translation>Re Pág</translation>
+        <translation>PgUp</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation>Reproducir</translation>
+        <translation>விளையாடு</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Rehacer</translation>
+        <translation>மீண்டும் செய்</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Guardar</translation>
+        <translation>சேமிக்கவும்</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Enviar</translation>
+        <translation>அனுப்பு</translation>
     </message>
     <message>
         <source>Shop</source>
-        <translation>Tienda</translation>
+        <translation>கடை</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Detener</translation>
+        <translation>நிறுத்து</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Hora</translation>
+        <translation>நேரம்</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Deshacer</translation>
+        <translation>செயல்தவிர்</translation>
     </message>
     <message>
         <source>XFer</source>
@@ -208,431 +207,431 @@
     </message>
     <message>
         <source>View</source>
-        <translation>Vista</translation>
+        <translation>காண்க</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Acercar</translation>
+        <translation>பெரிதாக்கு</translation>
     </message>
     <message>
         <source>Split Screen</source>
-        <translation>Pantalla partida</translation>
+        <translation>பிளவு திரை</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Limpiar</translation>
+        <translation>தெளிவு</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>மூடு</translation>
     </message>
     <message>
         <source>Eject</source>
-        <translation>Expulsar</translation>
+        <translation>வெளியேற்று</translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation>Intro</translation>
+        <translation>உள்ளிடவும்</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Verde</translation>
+        <translation>பச்சை</translation>
     </message>
     <message>
         <source>Guide</source>
-        <translation>Guía</translation>
+        <translation>வழிகாட்டி</translation>
     </message>
     <message>
         <source>Kanji</source>
-        <translation>Kanji</translation>
+        <translation>காஞ்சி</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation>Música</translation>
+        <translation>இசை</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation>ஒட்டவும்</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation>Pausa</translation>
+        <translation>இடைநிறுத்தம்</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation>Teléfono</translation>
+        <translation>தொலைபேசி</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>Imprimir pantalla</translation>
+        <translation>அச்சிடுக</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation>Responder</translation>
+        <translation>பதில்</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Derecha</translation>
+        <translation>சரி</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation>Mayúsculas</translation>
+        <translation>ஷிப்ட்</translation>
     </message>
     <message>
         <source>Sleep</source>
-        <translation>Dormir</translation>
+        <translation>தூங்கு</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation>Espacio</translation>
+        <translation>விண்வெளி</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Herramientas</translation>
+        <translation>கருவிகள்</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation>Vídeo</translation>
+        <translation>வீடியோ</translation>
     </message>
     <message>
         <source>Hiragana</source>
-        <translation>Hiragana</translation>
+        <translation>ஹிரகனா</translation>
     </message>
     <message>
         <source>Wireless</source>
-        <translation>Conexión inalámbrica</translation>
+        <translation>வயர்லெஸ்</translation>
     </message>
     <message>
         <source>Media Record</source>
-        <translation>Grabar medio</translation>
+        <translation>ஊடக பதிவு</translation>
     </message>
     <message>
         <source>Media Rewind</source>
-        <translation>Rebobinar medio</translation>
+        <translation>மீடியா ரிவைண்ட்</translation>
     </message>
     <message>
         <source>Multiple Candidate</source>
-        <translation>Candidatos Múltiples</translation>
+        <translation>பல வேட்பாளர்</translation>
     </message>
     <message>
         <source>Zenkaku</source>
-        <translation>Zenkaku</translation>
+        <translation>ஜென்காகு</translation>
     </message>
     <message>
         <source>Print Screen</source>
-        <translation>Imprimir pantalla</translation>
+        <translation>அச்சுத் திரை</translation>
     </message>
     <message>
         <source>Audio Repeat</source>
-        <translation>Repetición de audio</translation>
+        <translation>ஆடியோ ரிபீட்</translation>
     </message>
     <message>
         <source>Toggle Call/Hangup</source>
-        <translation>Alternar llamar/colgar</translation>
+        <translation>அழைப்பு/ஹேங்கப் என்பதை நிலைமாற்று</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Acercar</translation>
+        <translation>Zoom In</translation>
     </message>
     <message>
         <source>Camera Shutter</source>
-        <translation>Obturador de cámara</translation>
+        <translation>கேமரா ஷட்டர்</translation>
     </message>
     <message>
         <source>Ultra Wide Band</source>
-        <translation>Ultra banda ancha</translation>
+        <translation>அல்ட்ரா வைட் பேண்ட்</translation>
     </message>
     <message>
         <source>Hangul Special</source>
-        <translation>Hangul Especial</translation>
+        <translation>ஹங்குல் சிறப்பு</translation>
     </message>
     <message>
         <source>Treble Down</source>
-        <translation>Bajar los agudos</translation>
+        <translation>ட்ரெபிள் டவுன்</translation>
     </message>
     <message>
         <source>Scroll Lock</source>
-        <translation>Bloqueo del desplazamiento</translation>
+        <translation>உருள் பூட்டு</translation>
     </message>
     <message>
         <source>Media Pause</source>
-        <translation>Pausar Medio</translation>
+        <translation>மீடியா இடைநிறுத்தம்</translation>
     </message>
     <message>
         <source>Word Processor</source>
-        <translation>Procesador de textos</translation>
+        <translation>சொல் செயலி</translation>
     </message>
     <message>
         <source>Volume Down</source>
-        <translation>Bajar el volumen</translation>
+        <translation>வால்யூம் டவுன்</translation>
     </message>
     <message>
         <source>Volume Mute</source>
-        <translation>Silenciar</translation>
+        <translation>வால்யூம் மியூட்</translation>
     </message>
     <message>
         <source>Kana Shift</source>
-        <translation>Cambio Kana</translation>
+        <translation>கனா ஷிப்ட்</translation>
     </message>
     <message>
         <source>Media Previous</source>
-        <translation>Medio anterior</translation>
+        <translation>மீடியா முந்தையது</translation>
     </message>
     <message>
         <source>Home Page</source>
-        <translation>Página de inicio</translation>
+        <translation>முகப்பு பக்கம்</translation>
     </message>
     <message>
         <source>Meeting</source>
-        <translation>Reunión</translation>
+        <translation>கூட்டம்</translation>
     </message>
     <message>
         <source>Touchpad Off</source>
-        <translation>Apagar teclado táctil</translation>
+        <translation>டச்பேட் ஆஃப்</translation>
     </message>
     <message>
         <source>Volume Up</source>
-        <translation>Subir el volumen</translation>
+        <translation>வால்யூம் அப்</translation>
     </message>
     <message>
         <source>Menu PB</source>
-        <translation>Menú PB</translation>
+        <translation>மெனு பிபி</translation>
     </message>
     <message>
         <source>Keyboard Brightness Up</source>
-        <translation>Subir brillo del teclado</translation>
+        <translation>விசைப்பலகை பிரகாசம்</translation>
     </message>
     <message>
         <source>Hangul PostHanja</source>
-        <translation>Hangul PostHanja</translation>
+        <translation>ஹங்குல் போஸ்ட் ஹஞ்சா</translation>
     </message>
     <message>
         <source>Kana Lock</source>
-        <translation>Bloqueo Kana</translation>
+        <translation>கானா பூட்டு</translation>
     </message>
     <message>
         <source>Community</source>
-        <translation>Comunidad</translation>
+        <translation>சமூகம்</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Launch (6)</source>
-        <translation>Lanzar (6)</translation>
+        <translation>துவக்கு (6)</translation>
     </message>
     <message>
         <source>Launch (7)</source>
-        <translation>Lanzar (7)</translation>
+        <translation>துவக்கு (7)</translation>
     </message>
     <message>
         <source>Launch (8)</source>
-        <translation>Lanzar (8)</translation>
+        <translation>துவக்கு (8)</translation>
     </message>
     <message>
         <source>Launch (9)</source>
-        <translation>Lanzar (9)</translation>
+        <translation>துவக்கு (9)</translation>
     </message>
     <message>
         <source>Launch (2)</source>
-        <translation>Lanzar (2)</translation>
+        <translation>துவக்கு (2)</translation>
     </message>
     <message>
         <source>Launch (3)</source>
-        <translation>Lanzar (3)</translation>
+        <translation>துவக்கு (3)</translation>
     </message>
     <message>
         <source>Launch (4)</source>
-        <translation>Lanzar (4)</translation>
+        <translation>துவக்கு (4)</translation>
     </message>
     <message>
         <source>Launch (5)</source>
-        <translation>Lanzar (5)</translation>
+        <translation>துவக்கு (5)</translation>
     </message>
     <message>
         <source>Launch (0)</source>
-        <translation>Lanzar (0)</translation>
+        <translation>துவக்கு (0)</translation>
     </message>
     <message>
         <source>Launch (1)</source>
-        <translation>Lanzar (1)</translation>
+        <translation>துவக்கு (1)</translation>
     </message>
     <message>
         <source>Launch (F)</source>
-        <translation>Lanzar (F)</translation>
+        <translation>துவக்கு (F)</translation>
     </message>
     <message>
         <source>Launch (B)</source>
-        <translation>Lanzar (B)</translation>
+        <translation>துவக்கு (பி)</translation>
     </message>
     <message>
         <source>Launch (C)</source>
-        <translation>Lanzar (C)</translation>
+        <translation>துவக்கு (சி)</translation>
     </message>
     <message>
         <source>Launch (D)</source>
-        <translation>Lanzar (D)</translation>
+        <translation>துவக்கு (D)</translation>
     </message>
     <message>
         <source>Launch (E)</source>
-        <translation>Lanzar (E)</translation>
+        <translation>துவக்கு (இ)</translation>
     </message>
     <message>
         <source>Launch (A)</source>
-        <translation>Lanzar (A)</translation>
+        <translation>துவக்கு (A)</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>நீக்கு</translation>
     </message>
     <message>
         <source>Escape</source>
-        <translation>Escape</translation>
+        <translation>எஸ்கேப்</translation>
     </message>
     <message>
         <source>Audio Random Play</source>
-        <translation>Reproducción aleatoria de audio</translation>
+        <translation>ஆடியோ ரேண்டம் ப்ளே</translation>
     </message>
     <message>
         <source>Hangul</source>
-        <translation>Hangul</translation>
+        <translation>ஹங்குல்</translation>
     </message>
     <message>
         <source>Hangup</source>
-        <translation>Descolgar</translation>
+        <translation>ஹேங்கப்</translation>
     </message>
     <message>
         <source>Henkan</source>
-        <translation>Henkan</translation>
+        <translation>ஹென்கன்</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Insertar</translation>
+        <translation>செருகு</translation>
     </message>
     <message>
         <source>Home Office</source>
-        <translation>Oficina en casa</translation>
+        <translation>உள்துறை அலுவலகம்</translation>
     </message>
     <message>
         <source>Last Number Redial</source>
-        <translation>Re-llamar último número</translation>
+        <translation>கடைசி எண் மறுபதிப்பு</translation>
     </message>
     <message>
         <source>Logoff</source>
-        <translation>Cerrar sesión</translation>
+        <translation>வெளியேறுதல்</translation>
     </message>
     <message>
         <source>Market</source>
-        <translation>Mercado</translation>
+        <translation>சந்தை</translation>
     </message>
     <message>
         <source>Massyo</source>
-        <translation>Massyo</translation>
+        <translation>மாஸ்யோ</translation>
     </message>
     <message>
         <source>Bass Boost</source>
-        <translation>Potenciar los graves</translation>
+        <translation>பாஸ் பூஸ்ட்</translation>
     </message>
     <message>
         <source>Channel Up</source>
-        <translation>Canal arriba</translation>
+        <translation>சேனல் அப்</translation>
     </message>
     <message>
         <source>Option</source>
-        <translation>Opción</translation>
+        <translation>விருப்பம்</translation>
     </message>
     <message>
         <source>PgDown</source>
-        <translation>Av Pág</translation>
+        <translation>PgDown</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Recargar</translation>
+        <translation>மீண்டும் ஏற்றவும்</translation>
     </message>
     <message>
         <source>Return</source>
-        <translation>Retorno</translation>
+        <translation>திரும்பு</translation>
     </message>
     <message>
         <source>Romaji</source>
-        <translation>Romaji</translation>
+        <translation>ரோமாஜி</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Búsqueda</translation>
+        <translation>தேடு</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Seleccionar</translation>
+        <translation>தேர்ந்தெடு</translation>
     </message>
     <message>
         <source>SysReq</source>
-        <translation>PetSis</translation>
+        <translation>SysReq</translation>
     </message>
     <message>
         <source>Travel</source>
-        <translation>Viajar</translation>
+        <translation>பயணம்</translation>
     </message>
     <message>
         <source>NumLock</source>
-        <translation>Bloqueo Numérico</translation>
+        <translation>NumLock</translation>
     </message>
     <message>
         <source>WebCam</source>
-        <translation>Cámara web</translation>
+        <translation>வெப்கேம்</translation>
     </message>
     <message>
         <source>Hiragana Katakana</source>
-        <translation>Hiragana Katakana</translation>
+        <translation>ஹிரகனா கடகனா</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>Amarillo</translation>
+        <translation>மஞ்சள்</translation>
     </message>
     <message>
         <source>Top Menu</source>
-        <translation>Menú Superior</translation>
+        <translation>மேல் மெனு</translation>
     </message>
     <message>
         <source>ScrollLock</source>
-        <translation>Bloqueo Desplazamiento</translation>
+        <translation>ஸ்க்ரோல்லாக்</translation>
     </message>
     <message>
         <source>Hot Links</source>
-        <translation>Enlaces directos</translation>
+        <translation>சூடான இணைப்புகள்</translation>
     </message>
     <message>
         <source>Audio Cycle Track</source>
-        <translation>Repetir pistas de audio</translation>
+        <translation>ஆடியோ சைக்கிள் டிராக்</translation>
     </message>
     <message>
         <source>Context1</source>
-        <translation>Contexto1</translation>
+        <translation>சூழல்1</translation>
     </message>
     <message>
         <source>Context2</source>
-        <translation>Contexto2</translation>
+        <translation>சூழல்2</translation>
     </message>
     <message>
         <source>Context3</source>
-        <translation>Contexto3</translation>
+        <translation>சூழல்3</translation>
     </message>
     <message>
         <source>Context4</source>
-        <translation>Contexto4</translation>
+        <translation>சூழல்4</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Alejar</translation>
+        <translation>பெரிதாக்கவும்</translation>
     </message>
     <message>
         <source>Page Up</source>
-        <translation>Retroceder página</translation>
+        <translation>பக்கம் மேலே</translation>
     </message>
     <message>
         <source>Open URL</source>
-        <translation>Abrir URL</translation>
+        <translation>URLஐத் திறக்கவும்</translation>
     </message>
     <message>
         <source>iTouch</source>
@@ -640,303 +639,303 @@
     </message>
     <message>
         <source>Previous Candidate</source>
-        <translation>Candidato Anterior</translation>
+        <translation>முந்தைய வேட்பாளர்</translation>
     </message>
     <message>
         <source>Toggle Media Play/Pause</source>
-        <translation>Reproducir/Pausar Medio</translation>
+        <translation>மீடியா ப்ளே/இடைநிறுத்தத்தை நிலைமாற்று</translation>
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation>Bloqueo de mayúsculas</translation>
+        <translation>கேப்ஸ் லாக்</translation>
     </message>
     <message>
         <source>Eisu Shift</source>
-        <translation>Cambio Eisu</translation>
+        <translation>ஈசு ஷிப்ட்</translation>
     </message>
     <message>
         <source>Code input</source>
-        <translation>Introducción de Código</translation>
+        <translation>குறியீடு உள்ளீடு</translation>
     </message>
     <message>
         <source>Printer</source>
-        <translation>Impresora</translation>
+        <translation>பிரிண்டர்</translation>
     </message>
     <message>
         <source>Camera Focus</source>
-        <translation>Enfoque de cámara</translation>
+        <translation>கேமரா ஃபோகஸ்</translation>
     </message>
     <message>
         <source>Adjust Brightness</source>
-        <translation>Ajustar brillo</translation>
+        <translation>பிரகாசத்தை சரிசெய்யவும்</translation>
     </message>
     <message>
         <source>Spreadsheet</source>
-        <translation>Hoja de Cálculo</translation>
+        <translation>விரிதாள்</translation>
     </message>
     <message>
         <source>Eisu toggle</source>
-        <translation>Alternar Eisu</translation>
+        <translation>ஈசு மாறு</translation>
     </message>
     <message>
         <source>Keyboard Brightness Down</source>
-        <translation>Bajar brillo del teclado</translation>
+        <translation>விசைப்பலகை பிரகாசம் குறைவு</translation>
     </message>
     <message>
         <source>Clear Grab</source>
-        <translation>Eliminar Bloqueo</translation>
+        <translation>தெளிவான கிராப்</translation>
     </message>
     <message>
         <source>Monitor Brightness Up</source>
-        <translation>Subir brillo del monitor</translation>
+        <translation>பிரகாசத்தை கண்காணிக்கவும்</translation>
     </message>
     <message>
         <source>System Request</source>
-        <translation>Petición del sistema</translation>
+        <translation>கணினி கோரிக்கை</translation>
     </message>
     <message>
         <source>Microphone Volume Up</source>
-        <translation>Subir volumen del micrófono</translation>
+        <translation>மைக்ரோஃபோன் ஒலியளவை அதிகரிக்கும்</translation>
     </message>
     <message>
         <source>CapsLock</source>
-        <translation>Bloq Mayús</translation>
+        <translation>கேப்ஸ்லாக்</translation>
     </message>
     <message>
         <source>Backtab</source>
-        <translation>Tabulador hacia atrás</translation>
+        <translation>Backtab</translation>
     </message>
     <message>
         <source>Bass Up</source>
-        <translation>Subir los graves</translation>
+        <translation>பாஸ் அப்</translation>
     </message>
     <message>
         <source>Battery</source>
-        <translation>Batería</translation>
+        <translation>பேட்டரி</translation>
     </message>
     <message>
         <source>Katakana</source>
-        <translation>Katakana</translation>
+        <translation>கடகனா</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Actualizar</translation>
+        <translation>புதுப்பிக்கவும்</translation>
     </message>
     <message>
         <source>Hibernate</source>
-        <translation>Hibernar</translation>
+        <translation>உறக்கநிலை</translation>
     </message>
     <message>
         <source>Application Left</source>
-        <translation>Aplicación izquierda</translation>
+        <translation>விண்ணப்பம் இடது</translation>
     </message>
     <message>
         <source>Voice Dial</source>
-        <translation>Marcación por voz</translation>
+        <translation>குரல் டயல்</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Navegador</translation>
+        <translation>Browser</translation>
     </message>
     <message>
         <source>Keyboard Menu</source>
-        <translation>Menú de teclado</translation>
+        <translation>Keyboard Menu</translation>
     </message>
     <message>
         <source>Back Forward</source>
-        <translation>De vuelta atrás</translation>
+        <translation>பின்னோக்கி முன்னோக்கி</translation>
     </message>
     <message>
         <source>Launch Mail</source>
-        <translation>Lanzar correo</translation>
+        <translation>அஞ்சலை இயக்கவும்</translation>
     </message>
     <message>
         <source>Keyboard Light On/Off</source>
-        <translation>Luces del teclado encendidas/apagadas</translation>
+        <translation>கீபோர்டு லைட் ஆன்/ஆஃப்</translation>
     </message>
     <message>
         <source>Backspace</source>
-        <translation>Borrar</translation>
+        <translation>பேக்ஸ்பேஸ்</translation>
     </message>
     <message>
         <source>Bass Down</source>
-        <translation>Bajar los graves</translation>
+        <translation>பாஸ் டவுன்</translation>
     </message>
     <message>
         <source>Mail Forward</source>
-        <translation>Reenviar correo</translation>
+        <translation>அஞ்சல் அனுப்பவும்</translation>
     </message>
     <message>
         <source>Messenger</source>
-        <translation>Mensajero</translation>
+        <translation>தூதுவர்</translation>
     </message>
     <message>
         <source>Hangul Banja</source>
-        <translation>Hangul Banja</translation>
+        <translation>ஹங்குல் பஞ்சா</translation>
     </message>
     <message>
         <source>Hangul Hanja</source>
-        <translation>Hangul Hanga</translation>
+        <translation>ஹங்குல் ஹன்ஜா</translation>
     </message>
     <message>
         <source>Standby</source>
-        <translation>Reposo</translation>
+        <translation>காத்திருப்பு</translation>
     </message>
     <message>
         <source>Hangul Start</source>
-        <translation>Inicio Hangul</translation>
+        <translation>ஹங்குல் தொடக்கம்</translation>
     </message>
     <message>
         <source>Rotation KB</source>
-        <translation>Rotar KB</translation>
+        <translation>சுழற்சி KB</translation>
     </message>
     <message>
         <source>Rotation PB</source>
-        <translation>Rotar PB</translation>
+        <translation>சுழற்சி PB</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation>Documentos</translation>
+        <translation>ஆவணங்கள்</translation>
     </message>
     <message>
         <source>Calculator</source>
-        <translation>Calculadora</translation>
+        <translation>கால்குலேட்டர்</translation>
     </message>
     <message>
         <source>Support</source>
-        <translation>Soporte</translation>
+        <translation>ஆதரவு</translation>
     </message>
     <message>
         <source>Suspend</source>
-        <translation>Suspender</translation>
+        <translation>சஸ்பெண்ட்</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation>Monitor</translation>
+        <translation>காட்சி</translation>
     </message>
     <message>
         <source>Hangul Romaja</source>
-        <translation>Hangul Romaja</translation>
+        <translation>ஹங்குல் ரோமாஜா</translation>
     </message>
     <message>
         <source>My Sites</source>
-        <translation>Mis Sitios</translation>
+        <translation>எனது தளங்கள்</translation>
     </message>
     <message>
         <source>Rotate Windows</source>
-        <translation>Rotar ventanas</translation>
+        <translation>விண்டோஸ் சுழற்று</translation>
     </message>
     <message>
         <source>Touroku</source>
-        <translation>Touroku</translation>
+        <translation>டூரோகு</translation>
     </message>
     <message>
         <source>Zenkaku Hankaku</source>
-        <translation>Zenkaku Hankaku</translation>
+        <translation>ஜென்காகு ஹன்காகு</translation>
     </message>
     <message>
         <source>Hangul Jeonja</source>
-        <translation>Hangul Jeonja</translation>
+        <translation>ஹங்குல் ஜியோன்ஜா</translation>
     </message>
     <message>
         <source>Treble Up</source>
-        <translation>Subir los agudos</translation>
+        <translation>ட்ரெபிள் அப்</translation>
     </message>
     <message>
         <source>Subtitle</source>
-        <translation>Subtítulos</translation>
+        <translation>வசனம்</translation>
     </message>
     <message>
         <source>Hangul Jamo</source>
-        <translation>Hangul Jamo</translation>
+        <translation>ஹங்குல் ஜமோ</translation>
     </message>
     <message>
         <source>Bluetooth</source>
-        <translation>Bluetooth</translation>
+        <translation>புளூடூத்</translation>
     </message>
     <message>
         <source>Muhenkan</source>
-        <translation>Muhenkan</translation>
+        <translation>முஹென்கான்</translation>
     </message>
     <message>
         <source>Num Lock</source>
-        <translation>Bloqueo numérico</translation>
+        <translation>எண் பூட்டு</translation>
     </message>
     <message>
         <source>Screensaver</source>
-        <translation>Salvapantallas</translation>
+        <translation>ஸ்கிரீன்சேவர்</translation>
     </message>
     <message>
         <source>Number Lock</source>
-        <translation>Bloqueo numérico</translation>
+        <translation>எண் பூட்டு</translation>
     </message>
     <message>
         <source>Power Down</source>
-        <translation>Apagar</translation>
+        <translation>பவர் டவுன்</translation>
     </message>
     <message>
         <source>Spellchecker</source>
-        <translation>Corrector ortográfico</translation>
+        <translation>எழுத்துப்பிழை சரிபார்ப்பவர்</translation>
     </message>
     <message>
         <source>Hangul PreHanja</source>
-        <translation>Hangul PreHanja</translation>
+        <translation>ஹங்குல் ப்ரீஹஞ்சா</translation>
     </message>
     <message>
         <source>Terminal</source>
-        <translation>Terminal</translation>
+        <translation>முனையம்</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Ajustes</translation>
+        <translation>அமைப்புகள்</translation>
     </message>
     <message>
         <source>Add Favorite</source>
-        <translation>Añadir favorito</translation>
+        <translation>பிடித்ததைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation>Ejecutar</translation>
+        <translation>செயல்படுத்து</translation>
     </message>
     <message>
         <source>Finance</source>
-        <translation>Finanzas</translation>
+        <translation>நிதி</translation>
     </message>
     <message>
         <source>Microphone Volume Down</source>
-        <translation>Bajar volumen del micrófono</translation>
+        <translation>மைக்ரோஃபோனின் ஒலி அளவு குறைந்தது</translation>
     </message>
     <message>
         <source>Task Panel</source>
-        <translation>Panel de tareas</translation>
+        <translation>பணி குழு</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation>Favoritos</translation>
+        <translation>பிடித்தவை</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Siguiente</translation>
+        <translation>முன்னோக்கி</translation>
     </message>
     <message>
         <source>Page Down</source>
-        <translation>Avanzar página</translation>
+        <translation>பக்கம் கீழே</translation>
     </message>
     <message>
         <source>Wake Up</source>
-        <translation>Despertar</translation>
+        <translation>எழுந்திரு</translation>
     </message>
     <message>
         <source>Power Off</source>
-        <translation>Apagar</translation>
+        <translation>பவர் ஆஃப்</translation>
     </message>
     <message>
         <source>LightBulb</source>
-        <translation>Bombilla</translation>
+        <translation>LightBulb</translation>
     </message>
     <message>
         <source>Touchpad Toggle</source>
-        <translation>Alternar teclado táctil</translation>
+        <translation>டச்பேட் மாற்று</translation>
     </message>
     <message>
         <source>Hankaku</source>
@@ -944,55 +943,55 @@
     </message>
     <message>
         <source>Media Fast Forward</source>
-        <translation>Avance rápido el medio</translation>
+        <translation>மீடியா ஃபாஸ்ட் ஃபார்வர்டு</translation>
     </message>
     <message>
         <source>Hangul End</source>
-        <translation>Final Hangul</translation>
+        <translation>ஹங்குல் முடிவு</translation>
     </message>
     <message>
         <source>Monitor Brightness Down</source>
-        <translation>Bajar brillo del monitor</translation>
+        <translation>பிரகாசம் குறைவதைக் கண்காணிக்கவும்</translation>
     </message>
     <message>
         <source>Microphone Mute</source>
-        <translation>Silenciar micrófono</translation>
+        <translation>மைக்ரோஃபோனை முடக்கு</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Historial</translation>
+        <translation>வரலாறு</translation>
     </message>
     <message>
         <source>Media Play</source>
-        <translation>Reproducir el medio</translation>
+        <translation>மீடியா ப்ளே</translation>
     </message>
     <message>
         <source>Media Stop</source>
-        <translation>Detener el medio</translation>
+        <translation>ஊடக நிறுத்தம்</translation>
     </message>
     <message>
         <source>Media Next</source>
-        <translation>Siguiente medio</translation>
+        <translation>மீடியா அடுத்து</translation>
     </message>
     <message>
         <source>Touchpad On</source>
-        <translation>Encender teclado táctil</translation>
+        <translation>டச்பேட் ஆன்</translation>
     </message>
     <message>
         <source>Channel Down</source>
-        <translation>Canal abajo</translation>
+        <translation>Channel Down</translation>
     </message>
     <message>
         <source>Launch Media</source>
-        <translation>Lanzar medio</translation>
+        <translation>மீடியாவை துவக்கவும்</translation>
     </message>
     <message>
         <source>Application Right</source>
-        <translation>Aplicación derecha</translation>
+        <translation>விண்ணப்ப உரிமை</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>Fotos</translation>
+        <translation>படங்கள்</translation>
     </message>
 </context>
 <context>
@@ -1087,179 +1086,179 @@
     </message>
     <message>
         <source>Note</source>
-        <translation>Nota</translation>
+        <translation>குறிப்பு</translation>
     </message>
     <message>
         <source>Letter / ANSI A</source>
-        <translation>Carta / ANSI A</translation>
+        <translation>கடிதம் / ANSI ஏ</translation>
     </message>
     <message>
         <source>Legal</source>
-        <translation>Legal</translation>
+        <translation>சட்டபூர்வமானது</translation>
     </message>
     <message>
         <source>Envelope Monarch</source>
-        <translation>Sobre Monarca</translation>
+        <translation>உறை மன்னர்</translation>
     </message>
     <message>
         <source>Architect A</source>
-        <translation>Arquitecto A</translation>
+        <translation>கட்டிடக் கலைஞர் ஏ</translation>
     </message>
     <message>
         <source>Architect B</source>
-        <translation>Arquitecto B</translation>
+        <translation>கட்டிடக் கலைஞர் பி</translation>
     </message>
     <message>
         <source>Architect C</source>
-        <translation>Arquitecto C</translation>
+        <translation>கட்டிடக் கலைஞர் சி</translation>
     </message>
     <message>
         <source>Architect D</source>
-        <translation>Arquitecto C</translation>
+        <translation>கட்டிடக் கலைஞர் டி</translation>
     </message>
     <message>
         <source>Architect E</source>
-        <translation>Arquitecto E</translation>
+        <translation>கட்டிடக் கலைஞர் ஈ</translation>
     </message>
     <message>
         <source>Letter Extra</source>
-        <translation>Carta extra</translation>
+        <translation>கூடுதல் கடிதம்</translation>
     </message>
     <message>
         <source>Letter Small</source>
-        <translation>Carta pequeña</translation>
+        <translation>சிறிய எழுத்து</translation>
     </message>
     <message>
         <source>Envelope You 4</source>
-        <translation>Sobre You 4</translation>
+        <translation>உங்களை உறை 4</translation>
     </message>
     <message>
         <source>Envelope US 10</source>
-        <translation>Sobre EEUU 10</translation>
+        <translation>உறை US 10</translation>
     </message>
     <message>
         <source>Envelope US 11</source>
-        <translation>Sobre EEUU 11</translation>
+        <translation>உறை US 11</translation>
     </message>
     <message>
         <source>Envelope US 12</source>
-        <translation>Sobre EEUU 12</translation>
+        <translation>உறை US 12</translation>
     </message>
     <message>
         <source>Envelope US 14</source>
-        <translation>Sobre EEUU 14</translation>
+        <translation>உறை US 14</translation>
     </message>
     <message>
         <source>Envelope PRC 1</source>
-        <translation>Sobre PRC 1</translation>
+        <translation>உறை PRC 1</translation>
     </message>
     <message>
         <source>Envelope PRC 2</source>
-        <translation>Sobre PRC 2</translation>
+        <translation>Envelope PRC 2</translation>
     </message>
     <message>
         <source>Envelope PRC 3</source>
-        <translation>Sobre PRC 3</translation>
+        <translation>Envelope PRC 3</translation>
     </message>
     <message>
         <source>Envelope PRC 4</source>
-        <translation>Sobre PRC 4</translation>
+        <translation>உறை PRC 4</translation>
     </message>
     <message>
         <source>Envelope PRC 5</source>
-        <translation>Sobre PRC 5</translation>
+        <translation>உறை PRC 5</translation>
     </message>
     <message>
         <source>Envelope PRC 6</source>
-        <translation>Sobre PRC 6</translation>
+        <translation>உறை PRC 6</translation>
     </message>
     <message>
         <source>Envelope PRC 7</source>
-        <translation>Sobre PRC 7</translation>
+        <translation>உறை PRC 7</translation>
     </message>
     <message>
         <source>Envelope PRC 8</source>
-        <translation>Sobre PRC 8</translation>
+        <translation>உறை PRC 8</translation>
     </message>
     <message>
         <source>Envelope PRC 9</source>
-        <translation>Sobre PRC 9</translation>
+        <translation>உறை PRC 9</translation>
     </message>
     <message>
         <source>Envelope C65</source>
-        <translation>Sobre C65</translation>
+        <translation>உறை C65</translation>
     </message>
     <message>
         <source>Envelope DL</source>
-        <translation>Sobre DL</translation>
+        <translation>உறை டி.எல்</translation>
     </message>
     <message>
         <source>Envelope B4</source>
-        <translation>Sobre B4</translation>
+        <translation>உறை B4</translation>
     </message>
     <message>
         <source>Envelope B5</source>
-        <translation>Sobre B5</translation>
+        <translation>உறை B5</translation>
     </message>
     <message>
         <source>Envelope B6</source>
-        <translation>Sobre B6</translation>
+        <translation>உறை B6</translation>
     </message>
     <message>
         <source>Envelope C0</source>
-        <translation>Sobre C0</translation>
+        <translation>உறை C0</translation>
     </message>
     <message>
         <source>Envelope C1</source>
-        <translation>Sobre C1</translation>
+        <translation>உறை C1</translation>
     </message>
     <message>
         <source>Envelope C2</source>
-        <translation>Sobre C2</translation>
+        <translation>உறை C2</translation>
     </message>
     <message>
         <source>Envelope C3</source>
-        <translation>Sobre C3</translation>
+        <translation>உறை C3</translation>
     </message>
     <message>
         <source>Envelope C4</source>
-        <translation>Sobre C4</translation>
+        <translation>உறை C4</translation>
     </message>
     <message>
         <source>Envelope C5</source>
-        <translation>Sobre C5</translation>
+        <translation>உறை C5</translation>
     </message>
     <message>
         <source>Envelope C6</source>
-        <translation>Sobre C6</translation>
+        <translation>உறை C6</translation>
     </message>
     <message>
         <source>Envelope C7</source>
-        <translation>Sobre C7</translation>
+        <translation>உறை C7</translation>
     </message>
     <message>
         <source>Executive (7.5 x 10 in)</source>
-        <translation>Ejecutivo (7.5 x 10 in)</translation>
+        <translation>நிர்வாகி (7.5 x 10 அங்குலம்)</translation>
     </message>
     <message>
         <source>ANSI C</source>
-        <translation>ANSI C</translation>
+        <translation>ஏஎன்எஸ்ஐ சி</translation>
     </message>
     <message>
         <source>ANSI D</source>
-        <translation>ANSI D</translation>
+        <translation>ஏஎன்எஸ்ஐ டி</translation>
     </message>
     <message>
         <source>ANSI E</source>
-        <translation>ANSI E</translation>
+        <translation>ANSI ஈ</translation>
     </message>
     <message>
         <source>A4 Plus</source>
-        <translation>A4 Plus</translation>
+        <translation>ஏ4 பிளஸ்</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Personalizado</translation>
+        <translation>தனிப்பயன்</translation>
     </message>
     <message>
         <source>JIS B0</source>
@@ -1267,7 +1266,7 @@
     </message>
     <message>
         <source>JIS B1</source>
-        <translation>JIS B1</translation>
+        <translation>ஜிஐஎஸ் பி1</translation>
     </message>
     <message>
         <source>JIS B2</source>
@@ -1303,7 +1302,7 @@
     </message>
     <message>
         <source>A3 Extra</source>
-        <translation>A3 Extra</translation>
+        <translation>A3 கூடுதல்</translation>
     </message>
     <message>
         <source>PRC 16K</source>
@@ -1315,147 +1314,147 @@
     </message>
     <message>
         <source>Quarto</source>
-        <translation>Quarto</translation>
+        <translation>குவார்ட்டோ</translation>
     </message>
     <message>
         <source>PRC 32K Big</source>
-        <translation>PRC 32K grande</translation>
+        <translation>PRC 32K பெரியது</translation>
     </message>
     <message>
         <source>A4 Extra</source>
-        <translation>A4 Extra</translation>
+        <translation>A4 கூடுதல்</translation>
     </message>
     <message>
         <source>A4 Small</source>
-        <translation>A4 Pequeño</translation>
+        <translation>A4 சிறியது</translation>
     </message>
     <message>
         <source>Executive (7.25 x 10.5 in)</source>
-        <translation>Ejecutivo (7.25 x 10.5 in)</translation>
+        <translation>நிர்வாகி (7.25 x 10.5 அங்குலம்)</translation>
     </message>
     <message>
         <source>Postcard</source>
-        <translation>Tarjeta postal</translation>
+        <translation>அஞ்சல் அட்டை</translation>
     </message>
     <message>
         <source>Tabloid / ANSI B</source>
-        <translation>Tabloide / ANSI B</translation>
+        <translation>டேப்ளாய்டு / ஏஎன்எஸ்ஐ பி</translation>
     </message>
     <message>
         <source>A5 Extra</source>
-        <translation>A5 Extra</translation>
+        <translation>A5 கூடுதல்</translation>
     </message>
     <message>
         <source>B5 Extra</source>
-        <translation>B5 Extra</translation>
+        <translation>B5 கூடுதல்</translation>
     </message>
     <message>
         <source>Envelope Invite</source>
-        <translation>Sobre invitación</translation>
+        <translation>உறை அழைப்பு</translation>
     </message>
     <message>
         <source>Envelope Chou 3</source>
-        <translation>Sobre Cho 3</translation>
+        <translation>உறை சௌ 3</translation>
     </message>
     <message>
         <source>Envelope Chou 4</source>
-        <translation>Sobre Cho 4</translation>
+        <translation>உறை சௌ 4</translation>
     </message>
     <message>
         <source>Statement</source>
-        <translation>Declaración</translation>
+        <translation>அறிக்கை</translation>
     </message>
     <message>
         <source>Fan-fold German (8.5 x 12 in)</source>
-        <translation>Pliegue de ventilador Alemán (8.5 x 12 in)</translation>
+        <translation>ஃபேன்-ஃபோல்ட் ஜெர்மன் (8.5 x 12 அங்குலம்)</translation>
     </message>
     <message>
         <source>Envelope PRC 10</source>
-        <translation>Sobre PRC 10</translation>
+        <translation>உறை PRC 10</translation>
     </message>
     <message>
         <source>Envelope Kaku 2</source>
-        <translation>Sobre Kaku 2</translation>
+        <translation>உறை காக்கு 2</translation>
     </message>
     <message>
         <source>Envelope Kaku 3</source>
-        <translation>Sobre Kaku 3</translation>
+        <translation>உறை காக்கு 3</translation>
     </message>
     <message>
         <source>Envelope US 9</source>
-        <translation>Sobre EEUU 9</translation>
+        <translation>உறை US 9</translation>
     </message>
     <message>
         <source>%1 x %2 in</source>
-        <translation>%1 x %2 in</translation>
+        <translation>%1 x %2 இல்</translation>
     </message>
     <message>
         <source>Super A</source>
-        <translation>Super A</translation>
+        <translation>சூப்பர் ஏ</translation>
     </message>
     <message>
         <source>Super B</source>
-        <translation>Super B</translation>
+        <translation>சூப்பர் பி</translation>
     </message>
     <message>
         <source>Fan-fold US (14.875 x 11 in)</source>
-        <translation>Pliegue de ventilador EEUU (14.875 x 11 in)</translation>
+        <translation>ஃபேன்-ஃபோல்டு யுஎஸ் (14.875 x 11 அங்குலம்)</translation>
     </message>
     <message>
         <source>Fan-fold German Legal (8.5 x 13 in)</source>
-        <translation>Pliegue de ventilador Alemán Legal (8.5 x 13 in)</translation>
+        <translation>ஃபேன்-ஃபோல்டு ஜெர்மன் லீகல் (8.5 x 13 அங்குலம்)</translation>
     </message>
     <message>
         <source>Custom (%1in x %2in)</source>
-        <translation>Personalizado (%1mm x %2mm)</translation>
+        <translation>தனிப்பயன் (%1in x %2in)</translation>
     </message>
     <message>
         <source>Custom (%1mm x %2mm)</source>
-        <translation>Personalizado (%1mm x %2mm)</translation>
+        <translation>தனிப்பயன் (%1mm x %2mm)</translation>
     </message>
     <message>
         <source>Custom (%1CC x %2CC)</source>
-        <translation>Personalizado (%1CC x %2CC)</translation>
+        <translation>தனிப்பயன் (%1CC x %2CC)</translation>
     </message>
     <message>
         <source>Custom (%1DD x %2DD)</source>
-        <translation>Personalizado (%1DD x %2DD)</translation>
+        <translation>தனிப்பயன் (%1DD x %2DD)</translation>
     </message>
     <message>
         <source>Custom (%1pc x %2pc)</source>
-        <translation>Personalizado (%1pc x %2pc)</translation>
+        <translation>தனிப்பயன் (%1pc x %2pc)</translation>
     </message>
     <message>
         <source>Custom (%1pt x %2pt)</source>
-        <translation>Personalizado (%1pt x %2pt)</translation>
+        <translation>தனிப்பயன் (%1pt x %2pt)</translation>
     </message>
     <message>
         <source>Letter Plus</source>
-        <translation>Carta plus</translation>
+        <translation>லெட்டர் பிளஸ்</translation>
     </message>
     <message>
         <source>Tabloid Extra</source>
-        <translation>Tabloide extra</translation>
+        <translation>டேப்ளாய்ட் எக்ஸ்ட்ரா</translation>
     </message>
     <message>
         <source>Envelope Italian</source>
-        <translation>Sobre Italiano</translation>
+        <translation>உறை இத்தாலிய</translation>
     </message>
     <message>
         <source>Double Postcard</source>
-        <translation>Tarjeta postal doble</translation>
+        <translation>இரட்டை அஞ்சல் அட்டை</translation>
     </message>
     <message>
         <source>Legal Extra</source>
-        <translation>Legal extra</translation>
+        <translation>சட்ட கூடுதல்</translation>
     </message>
     <message>
         <source>Folio (8.27 x 13 in)</source>
-        <translation>Folio (8.27 x 13 in)</translation>
+        <translation>ஃபோலியோ (8.27 x 13 அங்குலம்)</translation>
     </message>
     <message>
         <source>Ledger / ANSI B</source>
-        <translation>Libro mayor / ANSI B</translation>
+        <translation>லெட்ஜர் / ஏஎன்எஸ்ஐ பி</translation>
     </message>
     <message>
         <source>JIS B10</source>
@@ -1463,7 +1462,7 @@
     </message>
     <message>
         <source>Envelope Personal</source>
-        <translation>Sobre Personal</translation>
+        <translation>தனிப்பட்ட உறை</translation>
     </message>
 </context>
 <context>
@@ -1474,34 +1473,34 @@
     </message>
     <message>
         <source>PM</source>
-        <translation>PM</translation>
+        <translation>பி.எம்</translation>
     </message>
     <message>
         <source>am</source>
-        <translation>am</translation>
+        <translation>காலை</translation>
     </message>
     <message>
         <source>pm</source>
-        <translation>pm</translation>
+        <translation>மாலை</translation>
     </message>
 </context>
 <context>
     <name>QPageSetupWidget</name>
     <message>
         <source>CC</source>
-        <translation>CC</translation>
+        <translation>சிசி</translation>
     </message>
     <message>
         <source>DD</source>
-        <translation>DD</translation>
+        <translation>டிடி</translation>
     </message>
     <message>
         <source>in</source>
-        <translation>in</translation>
+        <translation>உள்ளே</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation>mm</translation>
+        <translation>மிமீ</translation>
     </message>
     <message>
         <source>pt</source>
@@ -1513,282 +1512,282 @@
     </message>
     <message>
         <source>Form</source>
-        <translation>Formulario</translation>
+        <translation>படிவம்</translation>
     </message>
     <message>
         <source>bottom margin</source>
-        <translation>Margen inferior</translation>
+        <translation>கீழ் விளிம்பு</translation>
     </message>
     <message>
         <source>Paper</source>
-        <translation>Papel</translation>
+        <translation>காகிதம்</translation>
     </message>
     <message>
         <source>Paper source:</source>
-        <translation>Fuente del papel:</translation>
+        <translation>காகித ஆதாரம்:</translation>
     </message>
     <message>
         <source>right margin</source>
-        <translation>Margen derecho</translation>
+        <translation>வலது ஓரம்</translation>
     </message>
     <message>
         <source>Pica (P̸)</source>
-        <translation>Picas (P̸)</translation>
+        <translation>பிகா (P̸)</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation>Márgenes</translation>
+        <translation>விளிம்புகள்</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Personalizado</translation>
+        <translation>தனிப்பயன்</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>Apaisado</translation>
+        <translation>நிலப்பரப்பு</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation>Diseño de página</translation>
+        <translation>பக்க தளவமைப்பு</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation>Ancho:</translation>
+        <translation>அகலம்:</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Orientación</translation>
+        <translation>நோக்குநிலை</translation>
     </message>
     <message>
         <source>Didot (DD)</source>
-        <translation>Didot (DD)</translation>
+        <translation>டிடோட் (டிடி)</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Vertical</translation>
+        <translation>உருவப்படம்</translation>
     </message>
     <message>
         <source>Page order:</source>
-        <translation>Orden de páginas:</translation>
+        <translation>பக்க வரிசை:</translation>
     </message>
     <message>
         <source>top margin</source>
-        <translation>Margen superior</translation>
+        <translation>மேல் விளிம்பு</translation>
     </message>
     <message>
         <source>left margin</source>
-        <translation>Margen izquierdo</translation>
+        <translation>இடது ஓரம்</translation>
     </message>
     <message>
         <source>Page size:</source>
-        <translation>Tamaño de página:</translation>
+        <translation>பக்க அளவு:</translation>
     </message>
     <message>
         <source>Cicero (CC)</source>
-        <translation>Cicero (CC)</translation>
+        <translation>சிசரோ (சிசி)</translation>
     </message>
     <message>
         <source>Reverse portrait</source>
-        <translation>Vertical invertido</translation>
+        <translation>தலைகீழ் உருவப்படம்</translation>
     </message>
     <message>
         <source>Millimeters (mm)</source>
-        <translation>Milímetros (mm)</translation>
+        <translation>மில்லிமீட்டர்கள் (மிமீ)</translation>
     </message>
     <message>
         <source>Points (pt)</source>
-        <translation>Puntos (pt)</translation>
+        <translation>புள்ளிகள் (pt)</translation>
     </message>
     <message>
         <source>Pages per sheet:</source>
-        <translation>Páginas por hoja:</translation>
+        <translation>ஒரு தாளின் பக்கங்கள்:</translation>
     </message>
     <message>
         <source>Inches (in)</source>
-        <translation>Pulgadas (in)</translation>
+        <translation>அங்குலம் (உள்)</translation>
     </message>
     <message>
         <source>Reverse landscape</source>
-        <translation>Apaisado invertido</translation>
+        <translation>தலைகீழ் நிலப்பரப்பு</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation>Alto:</translation>
+        <translation>உயரம்:</translation>
     </message>
 </context>
 <context>
     <name>QDBusTrayIcon</name>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation>சரி</translation>
     </message>
 </context>
 <context>
     <name>QDialogButtonBox</name>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation>சரி</translation>
     </message>
 </context>
 <context>
     <name>QMessageBox</name>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation>சரி</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Ayuda</translation>
+        <translation>உதவி</translation>
     </message>
     <message>
         <source>Show Details...</source>
-        <translation>Mostrar los detalles...</translation>
+        <translation>விவரங்களைக் காட்டு...</translation>
     </message>
     <message>
-        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 3 or GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 3 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 3 or GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 3 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://%2/&quot;&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href=&quot;http://%3/&quot;&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</translation>
+        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across all major desktop operating systems. It is also available for embedded Linux and other embedded and mobile operating systems.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 3 or GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 3 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 3.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt&amp;nbsp;applications provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Please see &lt;a href="http://%2/"&gt;%2&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) %1 The Qt Company Ltd and other contributors.&lt;/p&gt;&lt;p&gt;Qt and the Qt logo are trademarks of The Qt Company Ltd.&lt;/p&gt;&lt;p&gt;Qt is The Qt Company Ltd product developed as an open source project. See &lt;a href="http://%3/"&gt;%3&lt;/a&gt; for more information.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Qt என்பது கிராஸ்-பிளாட்ஃபார்ம் அப்ளிகேஷன் மேம்பாட்டிற்கான C++ டூல்கிட் ஆகும்.&lt;/p&gt;&lt;p&gt;Qt அனைத்து முக்கிய டெஸ்க்டாப் இயக்க முறைமைகளிலும் ஒற்றை-மூல பெயர்வுத்திறனை வழங்குகிறது. இது உட்பொதிக்கப்பட்ட லினக்ஸ் மற்றும் பிற உட்பொதிக்கப்பட்ட மற்றும் மொபைல் இயங்குதளங்களுக்கும் கிடைக்கிறது.&lt;/p&gt;&lt;p&gt;எங்கள் பல்வேறு பயனர்களின் தேவைகளுக்கு ஏற்ப வடிவமைக்கப்பட்ட மூன்று வெவ்வேறு உரிம விருப்பங்களின் கீழ் Qt கிடைக்கிறது.&lt;/p&gt;&lt;p&gt;எங்கள் வணிக உரிம ஒப்பந்தத்தின் கீழ் உரிமம் பெற்ற Qt, தனியுரிம/வணிக மென்பொருளை உருவாக்குவதற்கு பொருத்தமானது. 3 அல்லது GNU LGPL பதிப்பு 2.1.&lt;/p&gt;&lt;p&gt;Qt&amp;nbsp;பயன்பாடுகளின் மேம்பாட்டிற்கு GNU LGPL பதிப்பு 3 இன் கீழ் உரிமம் பெற்ற Qt பொருத்தமானது. GNU LGPL பதிப்பு 2.1 இன் விதிமுறைகள் மற்றும் நிபந்தனைகளுடன்.&lt;/p&gt;&lt;p&gt;Qt உரிமம் பற்றிய மேலோட்டப் பார்வைக்கு &lt;a href="http://%2/"&gt;%2&lt;/a&gt; ஐப் பார்க்கவும்.&lt;/p&gt;&lt;p&gt;பதிப்புரிமை (C) __HOQTDERLA பங்களிப்பாளர்கள்.&lt;/p&gt;&lt;p&gt;Qt மற்றும் Qt லோகோ ஆகியவை The Qt Company Ltd இன் வர்த்தக முத்திரைகள் ஆகும். மேலும் தகவலுக்கு &lt;a href="http://%3/"&gt;%3&lt;/a&gt; ஐப் பார்க்கவும்.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>Acerca de Qt</translation>
+        <translation>Qt பற்றி</translation>
     </message>
     <message>
         <source>Hide Details...</source>
-        <translation>Ocultar los detalles...</translation>
+        <translation>விவரங்களை மறை...</translation>
     </message>
     <message>
         <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Acerca de Qt&lt;/h3&gt;&lt;p&gt;Este programa usa Qt versión %1.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Qt பற்றி&lt;/h3&gt;&lt;p&gt;இந்த நிரல் Qt பதிப்பைப் பயன்படுத்துகிறது %1.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>QPlatformTheme</name>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation>சரி</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation>&amp;இல்லை</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Sí</translation>
+        <translation>&amp;ஆம்</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Ayuda</translation>
+        <translation>உதவி</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Abrir</translation>
+        <translation>திற</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Guardar</translation>
+        <translation>சேமிக்கவும்</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Interrumpir</translation>
+        <translation>கைவிடு</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Aplicar</translation>
+        <translation>விண்ணப்பிக்கவும்</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>மூடு</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Reinicializar</translation>
+        <translation>மீட்டமை</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation>Reintentar</translation>
+        <translation>மீண்டும் முயற்சிக்கவும்</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation>Restaurar los valores predeterminados</translation>
+        <translation>இயல்புநிலைகளை மீட்டமை</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>Ignorar</translation>
+        <translation>புறக்கணிக்கவும்</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation>N&amp;o a todo</translation>
+        <translation>அனைவருக்கும் இல்லை</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation>Guardar todo</translation>
+        <translation>அனைத்தையும் சேமிக்கவும்</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation>Descartar</translation>
+        <translation>நிராகரி</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation>Sí a &amp;todo</translation>
+        <translation>ஆம் &amp; அனைத்திற்கும்</translation>
     </message>
 </context>
 <context>
     <name>QPrintDialog</name>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation>சரி</translation>
     </message>
     <message>
         <source>Even Pages</source>
-        <translation>Páginas pares</translation>
+        <translation>கூட பக்கங்கள்</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>Imprimir</translation>
+        <translation>அச்சிடுக</translation>
     </message>
     <message>
         <source>&amp;Options &lt;&lt;</source>
-        <translation>&amp;Opciones &lt;&lt;</translation>
+        <translation>&amp;விருப்பங்கள் &lt;&lt;</translation>
     </message>
     <message>
         <source>&amp;Options &gt;&gt;</source>
-        <translation>&amp;Opciones &gt;&gt;</translation>
+        <translation>&amp;விருப்பங்கள் &gt;&gt;</translation>
     </message>
     <message>
         <source>Left to Right, Top to Bottom</source>
-        <translation>Izquierda a derecha, arriba a abajo</translation>
+        <translation>இடமிருந்து வலமாக, மேலிருந்து கீழாக</translation>
     </message>
     <message>
         <source>Right to Left, Bottom to Top</source>
-        <translation>Derecha a izquierda, abajo a arriba</translation>
+        <translation>வலமிருந்து இடமாக, கீழிருந்து மேல்</translation>
     </message>
     <message>
         <source>Write PDF file</source>
-        <translation>Escribir archivo PDF</translation>
+        <translation>PDF கோப்பை எழுதவும்</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation>Im&amp;primir</translation>
+        <translation>&amp;அச்சிடு</translation>
     </message>
     <message>
         <source>1 (1x1)</source>
         <translation>1 (1x1)</translation>
     </message>
     <message>
-        <source>Options &apos;Pages Per Sheet&apos; and &apos;Page Set&apos; cannot be used together.
+        <source>Options 'Pages Per Sheet' and 'Page Set' cannot be used together.
 Please turn one of those options off.</source>
-        <translation>Opciones «Páginas por Hoja» y «Set de Páginas» No pueden ser usadas a la vez.
-Por favor desactiva una de las opciones.</translation>
+        <translation>'Pages Per Sheet' மற்றும் 'Page Set' ஆகிய விருப்பங்களை ஒன்றாகப் பயன்படுத்த முடியாது.
+அந்த விருப்பங்களில் ஒன்றை அணைக்கவும்.</translation>
     </message>
     <message>
         <source>%1 already exists.
 Do you want to overwrite it?</source>
-        <translation>%1 ya existe.
-¿Desea sobrescribirlo?</translation>
+        <translation>%1 ஏற்கனவே உள்ளது.
+நீங்கள் அதை மேலெழுத விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <source>2 (2x1)</source>
@@ -1796,7 +1795,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Left to Right, Bottom to Top</source>
-        <translation>Izquierda a derecha, abajo a arriba</translation>
+        <translation>இடமிருந்து வலமாக, கீழிருந்து மேல்</translation>
     </message>
     <message>
         <source>4 (2x2)</source>
@@ -1804,11 +1803,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Odd Pages</source>
-        <translation>Páginas impares</translation>
+        <translation>ஒற்றைப்படை பக்கங்கள்</translation>
     </message>
     <message>
         <source>Local file</source>
-        <translation>Archivo local</translation>
+        <translation>உள்ளூர் கோப்பு</translation>
     </message>
     <message>
         <source>6 (2x3)</source>
@@ -1820,11 +1819,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Print to File (PDF)</source>
-        <translation>Imprimir a archivo (PDF)</translation>
+        <translation>கோப்பில் அச்சிடுக (PDF)</translation>
     </message>
     <message>
         <source>Print To File ...</source>
-        <translation>Imprimir a fichero...</translation>
+        <translation>கோப்பிற்கு அச்சிடுக...</translation>
     </message>
     <message>
         <source>9 (3x3)</source>
@@ -1832,153 +1831,153 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Automático</translation>
+        <translation>தானியங்கி</translation>
     </message>
     <message>
         <source>Right to Left, Top to Bottom</source>
-        <translation>Derecha A izquierda, arriba a abajo</translation>
+        <translation>வலமிருந்து இடமாக, மேலிருந்து கீழாக</translation>
     </message>
     <message>
         <source>Bottom to Top, Left to Right</source>
-        <translation>Abajo a arriba, izquierda a derecha</translation>
+        <translation>கீழிருந்து மேல், இடமிருந்து வலமாக</translation>
     </message>
     <message>
-        <source>The &apos;From&apos; value cannot be greater than the &apos;To&apos; value.</source>
-        <translation>El campo «De» no puede ser mayor que el valor del campo «A».</translation>
+        <source>The 'From' value cannot be greater than the 'To' value.</source>
+        <translation>'From' மதிப்பு 'To' மதிப்பை விட அதிகமாக இருக்கக்கூடாது.</translation>
     </message>
     <message>
         <source>All Pages</source>
-        <translation>Todas las páginas</translation>
+        <translation>அனைத்து பக்கங்களும்</translation>
     </message>
     <message>
         <source>%1 is a directory.
 Please choose a different file name.</source>
-        <translation>%1 es un directorio.
-Elija un nombre de fichero diferente.</translation>
+        <translation>%1 என்பது ஒரு அடைவு.
+வேறு கோப்பு பெயரைத் தேர்வு செய்யவும்.</translation>
     </message>
     <message>
         <source>File %1 is not writable.
 Please choose a different file name.</source>
-        <translation>No se puede escribir en el fichero %1.
-Elija un nombre de fichero diferente.</translation>
+        <translation>கோப்பு %1 எழுத முடியாது.
+வேறு கோப்பு பெயரைத் தேர்வு செய்யவும்.</translation>
     </message>
     <message>
         <source>Bottom to Top, Right to Left</source>
-        <translation>Abajo a arriba, derecha a izquierda</translation>
+        <translation>கீழிருந்து மேல், வலமிருந்து இடமாக</translation>
     </message>
     <message>
         <source>Top to Bottom, Left to Right</source>
-        <translation>Arriba a abajo, izquierda a derecha</translation>
+        <translation>மேலிருந்து கீழாக, இடமிருந்து வலமாக</translation>
     </message>
     <message>
         <source>Top to Bottom, Right to Left</source>
-        <translation>Arriba a abajo, derecha a izquierda</translation>
+        <translation>மேலிருந்து கீழாக, வலமிருந்து இடமாக</translation>
     </message>
 </context>
 <context>
     <name>QAndroidPlatformTheme</name>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation>இல்லை</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Sí</translation>
+        <translation>ஆம்</translation>
     </message>
     <message>
         <source>No to All</source>
-        <translation>No a todo</translation>
+        <translation>அனைவருக்கும் இல்லை</translation>
     </message>
     <message>
         <source>Yes to All</source>
-        <translation>Sí a todo</translation>
+        <translation>அனைவருக்கும் ஆம்</translation>
     </message>
 </context>
 <context>
     <name>QPrintSettingsOutput</name>
     <message>
         <source>to</source>
-        <translation>a</translation>
+        <translation>செய்ய</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation>Formulario</translation>
+        <translation>படிவம்</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ninguno</translation>
+        <translation>இல்லை</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Color</translation>
+        <translation>நிறம்</translation>
     </message>
     <message>
         <source>Print all</source>
-        <translation>Imprimir todo</translation>
+        <translation>அனைத்தையும் அச்சிடுங்கள்</translation>
     </message>
     <message>
         <source>Current Page</source>
-        <translation>Página Actual</translation>
+        <translation>தற்போதைய பக்கம்</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>Selección</translation>
+        <translation>தேர்வு</translation>
     </message>
     <message>
         <source>Long side</source>
-        <translation>Lado largo</translation>
+        <translation>நீண்ட பக்கம்</translation>
     </message>
     <message>
         <source>Copies</source>
-        <translation>Copias</translation>
+        <translation>பிரதிகள்</translation>
     </message>
     <message>
         <source>Print range</source>
-        <translation>Imprimir el intervalo</translation>
+        <translation>அச்சு வரம்பு</translation>
     </message>
     <message>
         <source>Color Mode</source>
-        <translation>Modo de color</translation>
+        <translation>வண்ண முறை</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Opciones</translation>
+        <translation>விருப்பங்கள்</translation>
     </message>
     <message>
         <source>Output Settings</source>
-        <translation>Configuración de salida</translation>
+        <translation>வெளியீட்டு அமைப்புகள்</translation>
     </message>
     <message>
         <source>Reverse</source>
-        <translation>Inverso</translation>
+        <translation>தலைகீழ்</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>Escala de grises</translation>
+        <translation>கிரேஸ்கேல்</translation>
     </message>
     <message>
         <source>Short side</source>
-        <translation>Lado corto</translation>
+        <translation>குறுகிய பக்கம்</translation>
     </message>
     <message>
         <source>Collate</source>
-        <translation>Recopilar</translation>
+        <translation>தொகுக்கவும்</translation>
     </message>
     <message>
         <source>Copies:</source>
-        <translation>Copias:</translation>
+        <translation>பிரதிகள்:</translation>
     </message>
     <message>
         <source>Pages from</source>
-        <translation>Páginas desde</translation>
+        <translation>பக்கங்கள்</translation>
     </message>
     <message>
         <source>Page Set:</source>
-        <translation>Set de páginas:</translation>
+        <translation>பக்க தொகுப்பு:</translation>
     </message>
     <message>
         <source>Duplex Printing</source>
-        <translation>Impresión a doble cara</translation>
+        <translation>இரட்டை அச்சிடுதல்</translation>
     </message>
 </context>
 <context>
@@ -1989,121 +1988,121 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Previsualizar impresión</translation>
+        <translation>Print Preview</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>Imprimir</translation>
+        <translation>அச்சிடுக</translation>
     </message>
     <message>
         <source>Fit page</source>
-        <translation>Ajustar página</translation>
+        <translation>பொருத்தம் பக்கம்</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Acercar</translation>
+        <translation>பெரிதாக்கவும்</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>Apaisado</translation>
+        <translation>நிலப்பரப்பு</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Alejar</translation>
+        <translation>பெரிதாக்கவும்</translation>
     </message>
     <message>
         <source>Fit width</source>
-        <translation>Ajustar ancho</translation>
+        <translation>பொருத்தப்பட்ட அகலம்</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Vertical</translation>
+        <translation>உருவப்படம்</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Configuración de página</translation>
+        <translation>பக்க அமைப்பு</translation>
     </message>
     <message>
         <source>Page setup</source>
-        <translation>Configuración de página</translation>
+        <translation>பக்க அமைப்பு</translation>
     </message>
     <message>
         <source>Show overview of all pages</source>
-        <translation>Mostrar una vista de todas las páginas</translation>
+        <translation>எல்லா பக்கங்களின் மேலோட்டத்தையும் காட்டு</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Primera página</translation>
+        <translation>முதல் பக்கம்</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Última página</translation>
+        <translation>கடைசி பக்கம்</translation>
     </message>
     <message>
         <source>Show single page</source>
-        <translation>Mostrar página única</translation>
+        <translation>ஒற்றைப் பக்கத்தைக் காட்டு</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>PDFக்கு ஏற்றுமதி செய்யவும்</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Página anterior</translation>
+        <translation>முந்தைய பக்கம்</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Página siguiente</translation>
+        <translation>அடுத்த பக்கம்</translation>
     </message>
     <message>
         <source>Show facing pages</source>
-        <translation>Mostrar páginas enfrentadas</translation>
+        <translation>எதிர்கொள்ளும் பக்கங்களைக் காட்டு</translation>
     </message>
 </context>
 <context>
     <name>QErrorMessage</name>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Aceptar</translation>
+        <translation>&amp;சரி</translation>
     </message>
     <message>
         <source>Fatal Error:</source>
-        <translation>Error fatal:</translation>
+        <translation>அபாயகரமான பிழை:</translation>
     </message>
     <message>
         <source>&amp;Show this message again</source>
-        <translation>Mo&amp;strar este mensaje de nuevo</translation>
+        <translation>&amp;இந்தச் செய்தியை மீண்டும் காட்டு</translation>
     </message>
     <message>
         <source>Debug Message:</source>
-        <translation>Mensaje de depuración:</translation>
+        <translation>பிழைத்திருத்த செய்தி:</translation>
     </message>
     <message>
         <source>Warning:</source>
-        <translation>Aviso:</translation>
+        <translation>எச்சரிக்கை:</translation>
     </message>
 </context>
 <context>
     <name>QGnomeTheme</name>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Aceptar</translation>
+        <translation>&amp;சரி</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;Guardar</translation>
+        <translation>&amp;சேமி</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Cerrar</translation>
+        <translation>&amp;மூடு</translation>
     </message>
     <message>
         <source>Close without Saving</source>
-        <translation>Cerrar sin guardar</translation>
+        <translation>சேமிக்காமல் மூடு</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Cancelar</translation>
+        <translation>&amp;ரத்துசெய்</translation>
     </message>
 </context>
 <context>
@@ -2114,1163 +2113,1163 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation>Formulario</translation>
+        <translation>படிவம்</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Tipo:</translation>
+        <translation>வகை:</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp;Nombre:</translation>
+        <translation>&amp;பெயர்:</translation>
     </message>
     <message>
         <source>Output &amp;file:</source>
-        <translation>&amp;Fichero de salida:</translation>
+        <translation>வெளியீடு &amp;கோப்பு:</translation>
     </message>
     <message>
         <source>P&amp;roperties</source>
-        <translation>P&amp;ropiedades</translation>
+        <translation>பி&amp;பண்புகள்</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Previsualización</translation>
+        <translation>முன்னோட்டம்</translation>
     </message>
     <message>
         <source>Printer</source>
-        <translation>Impresora</translation>
+        <translation>பிரிண்டர்</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation>Ubicación:</translation>
+        <translation>இடம்:</translation>
     </message>
 </context>
 <context>
     <name>QFontDatabase</name>
     <message>
         <source>Any</source>
-        <translation>Cualquiera</translation>
+        <translation>ஏதேனும்</translation>
     </message>
     <message>
         <source>Lao</source>
-        <translation>Lao</translation>
+        <translation>லாவோ</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Negrita</translation>
+        <translation>தடித்த</translation>
     </message>
     <message>
         <source>Demi</source>
-        <translation>Semi</translation>
+        <translation>டெமி</translation>
     </message>
     <message>
-        <source>N&apos;Ko</source>
-        <translation>N&apos;Ko</translation>
+        <source>N'Ko</source>
+        <translation>என்'கோ</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation>Tailandés</translation>
+        <translation>தாய்</translation>
     </message>
     <message>
         <source>Thin</source>
-        <translation>Delgada</translation>
+        <translation>மெல்லிய</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Negra</translation>
+        <translation>கருப்பு</translation>
     </message>
     <message>
         <source>Extra</source>
-        <translation>Extra</translation>
+        <translation>கூடுதல்</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation>Griego</translation>
+        <translation>கிரேக்கம்</translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation>Jemer</translation>
+        <translation>கெமர்</translation>
     </message>
     <message>
         <source>Latin</source>
-        <translation>Latín</translation>
+        <translation>லத்தீன்</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Ligera</translation>
+        <translation>ஒளி</translation>
     </message>
     <message>
         <source>Ogham</source>
-        <translation>Ogam</translation>
+        <translation>ஓகம்</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation>Oriya</translation>
+        <translation>ஒரியா</translation>
     </message>
     <message>
         <source>Runic</source>
-        <translation>Rúnico</translation>
+        <translation>Runic</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation>Tamil</translation>
+        <translation>தமிழ்</translation>
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation>Cirílico</translation>
+        <translation>சிரிலிக்</translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation>Canarés</translation>
+        <translation>கன்னடம்</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation>Malabar</translation>
+        <translation>மலையாளம்</translation>
     </message>
     <message>
         <source>Extra Light</source>
-        <translation>ExtraDelgada</translation>
+        <translation>கூடுதல் ஒளி</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
-        <translation>Chino Simplificado</translation>
+        <translation>எளிமைப்படுத்தப்பட்ட சீனம்</translation>
     </message>
     <message>
         <source>Demi Bold</source>
-        <translation>Seminegrita</translation>
+        <translation>டெமி போல்ட்</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation>Árabe</translation>
+        <translation>அரபு</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>Hebreo</translation>
+        <translation>Hebrew</translation>
     </message>
     <message>
         <source>Myanmar</source>
-        <translation>Birmano</translation>
+        <translation>மியான்மர்</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Cursiva</translation>
+        <translation>சாய்வு</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation>Coreano</translation>
+        <translation>கொரியன்</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation>Mediana</translation>
+        <translation>நடுத்தர</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normal</translation>
+        <translation>இயல்பானது</translation>
     </message>
     <message>
         <source>Oblique</source>
-        <translation>Oblǐcua</translation>
+        <translation>சாய்ந்த</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation>Telugu</translation>
+        <translation>தெலுங்கு</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation>Thaana</translation>
+        <translation>தானா</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>Símbolo</translation>
+        <translation>சின்னம்</translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation>Siríaco</translation>
+        <translation>சிரியாக்</translation>
     </message>
     <message>
         <source>Extra Bold</source>
-        <translation>ExtraNegrita</translation>
+        <translation>கூடுதல் தடித்த</translation>
     </message>
     <message>
         <source>Devanagari</source>
-        <translation>Devanagari</translation>
+        <translation>தேவநாகரி</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation>Japonés</translation>
+        <translation>ஜப்பானியர்</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation>Bengali</translation>
+        <translation>பெங்காலி</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation>Armenio</translation>
+        <translation>ஆர்மேனியன்</translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation>Cingalés</translation>
+        <translation>சிங்களம்</translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation>Tibetano</translation>
+        <translation>திபெத்தியன்</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation>Vietnamita</translation>
+        <translation>வியட்நாமியர்</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation>Gujarati</translation>
+        <translation>குஜராத்தி</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
-        <translation>Chino Tradicional</translation>
+        <translation>பாரம்பரிய சீன</translation>
     </message>
     <message>
         <source>Georgian</source>
-        <translation>Georgiano</translation>
+        <translation>ஜார்ஜியன்</translation>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation>Gurmukhi</translation>
+        <translation>குருமுகி</translation>
     </message>
 </context>
 <context>
     <name>QCocoaMenuItem</name>
     <message>
         <source>Cut</source>
-        <translation>Cortar</translation>
+        <translation>வெட்டு</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation>நகலெடுக்கவும்</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Salir</translation>
+        <translation>வெளியேறு</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Salir</translation>
+        <translation>வெளியேறு</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Acerca de</translation>
+        <translation>பற்றி</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation>ஒட்டவும்</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation>Configuración</translation>
+        <translation>அமைவு</translation>
     </message>
     <message>
         <source>Config</source>
-        <translation>Configuración</translation>
+        <translation>கட்டமைப்பு</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Opciones</translation>
+        <translation>விருப்பங்கள்</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>Acerca de Qt</translation>
+        <translation>Qt பற்றி</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation>Ajuste</translation>
+        <translation>அமைத்தல்</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Seleccionar todo</translation>
+        <translation>அனைத்தையும் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <source>Preference</source>
-        <translation>Preferencia</translation>
+        <translation>விருப்பம்</translation>
     </message>
 </context>
 <context>
     <name>QCupsJobWidget</name>
     <message>
         <source>Job</source>
-        <translation>Trabajo</translation>
+        <translation>வேலை</translation>
     </message>
     <message>
         <source>End:</source>
-        <translation>Final:</translation>
+        <translation>முடிவு:</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ninguna</translation>
+        <translation>இல்லை</translation>
     </message>
     <message>
         <source>Banner Pages</source>
-        <translation>Páginas de cabecera</translation>
+        <translation>பேனர் பக்கங்கள்</translation>
     </message>
     <message>
         <source>Night (18:00 to 05:59)</source>
-        <translation>Noche (18:00 a 05:59)</translation>
+        <translation>இரவு (18:00 முதல் 05:59 வரை)</translation>
     </message>
     <message>
         <source>Specific Time</source>
-        <translation>Hora específica</translation>
+        <translation>குறிப்பிட்ட நேரம்</translation>
     </message>
     <message>
         <source>Billing information:</source>
-        <translation>Información de facturación:</translation>
+        <translation>பில்லிங் தகவல்:</translation>
     </message>
     <message>
         <source>Scheduled printing:</source>
-        <translation>Impresión programada:</translation>
+        <translation>திட்டமிடப்பட்ட அச்சிடுதல்:</translation>
     </message>
     <message>
         <source>Secret</source>
-        <translation>Secreto</translation>
+        <translation>இரகசியம்</translation>
     </message>
     <message>
         <source>Top Secret</source>
-        <translation>Alto secreto</translation>
+        <translation>முக்கிய ரகசியம்</translation>
     </message>
     <message>
         <source>Start:</source>
-        <translation>Inicial:</translation>
+        <translation>தொடக்கம்:</translation>
     </message>
     <message>
         <source>Day (06:00 to 17:59)</source>
-        <translation>Día (06:00 a 17:59)</translation>
+        <translation>நாள் (06:00 முதல் 17:59 வரை)</translation>
     </message>
     <message>
         <source>Second Shift (16:00 to 23:59)</source>
-        <translation>Segundo cambio (16:00 a 23:59)</translation>
+        <translation>இரண்டாவது ஷிப்ட் (16:00 முதல் 23:59 வரை)</translation>
     </message>
     <message>
         <source>Job Control</source>
-        <translation>Control de Trabajos</translation>
+        <translation>வேலை கட்டுப்பாடு</translation>
     </message>
     <message>
         <source>Weekend (Saturday to Sunday)</source>
-        <translation>Fin de semana (Sábado a Domingo)</translation>
+        <translation>வார இறுதி (சனி முதல் ஞாயிறு வரை)</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation>Estándar</translation>
+        <translation>தரநிலை</translation>
     </message>
     <message>
         <source>Classified</source>
-        <translation>Clasificado</translation>
+        <translation>வகைப்படுத்தப்பட்டுள்ளது</translation>
     </message>
     <message>
         <source>Third Shift (00:00 to 07:59)</source>
-        <translation>Tercer cambio (00:00 a 07:59)</translation>
+        <translation>மூன்றாவது ஷிப்ட் (00:00 முதல் 07:59 வரை)</translation>
     </message>
     <message>
         <source>Hold Indefinitely</source>
-        <translation>Mantener indefinidamente</translation>
+        <translation>காலவரையின்றி பிடி</translation>
     </message>
     <message>
         <source>Print Immediately</source>
-        <translation>Imprimir inmediatamente</translation>
+        <translation>உடனடியாக அச்சிடவும்</translation>
     </message>
     <message>
         <source>Confidential</source>
-        <translation>Confidencial</translation>
+        <translation>இரகசியமானது</translation>
     </message>
     <message>
         <source>Job priority:</source>
-        <translation>Prioridad del trabajo:</translation>
+        <translation>வேலை முன்னுரிமை:</translation>
     </message>
     <message>
         <source>Unclassified</source>
-        <translation>Sin clasificar</translation>
+        <translation>வகைப்படுத்தப்படாதது</translation>
     </message>
 </context>
 <context>
     <name>QScrollBar</name>
     <message>
         <source>Top</source>
-        <translation>Parte superior</translation>
+        <translation>மேல்</translation>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation>Desplazar hacia abajo</translation>
+        <translation>கீழே உருட்டவும்</translation>
     </message>
     <message>
         <source>Scroll here</source>
-        <translation>Desplazar hasta aquí</translation>
+        <translation>இங்கே உருட்டவும்</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation>Desplazar hacia la izquierda</translation>
+        <translation>இடதுபுறமாக உருட்டவும்</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Parte inferior</translation>
+        <translation>கீழே</translation>
     </message>
     <message>
         <source>Page up</source>
-        <translation>Una página hacia arriba</translation>
+        <translation>பக்கம் மேலே</translation>
     </message>
     <message>
         <source>Page right</source>
-        <translation>Una página a la derecha</translation>
+        <translation>பக்கம் வலது</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation>Desplazar hacia arriba</translation>
+        <translation>மேலே உருட்டவும்</translation>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation>Desplazar hacia la derecha</translation>
+        <translation>வலதுபுறமாக உருட்டவும்</translation>
     </message>
     <message>
         <source>Left edge</source>
-        <translation>Borde izquierdo</translation>
+        <translation>இடது விளிம்பு</translation>
     </message>
     <message>
         <source>Page down</source>
-        <translation>Una página hacia abajo</translation>
+        <translation>பக்கம் கீழே</translation>
     </message>
     <message>
         <source>Page left</source>
-        <translation>Una página a la izquierda</translation>
+        <translation>பக்கம் இடது</translation>
     </message>
     <message>
         <source>Right edge</source>
-        <translation>Borde derecho</translation>
+        <translation>வலது விளிம்பு</translation>
     </message>
 </context>
 <context>
     <name>QSpiAccessibleBridge</name>
     <message>
         <source>row</source>
-        <translation>fila</translation>
+        <translation>வரிசை</translation>
     </message>
     <message>
         <source>cell</source>
-        <translation>celda</translation>
+        <translation>செல்</translation>
     </message>
     <message>
         <source>dial</source>
-        <translation>marcador</translation>
+        <translation>டயல்</translation>
     </message>
     <message>
         <source>form</source>
-        <translation>formulario</translation>
+        <translation>வடிவம்</translation>
     </message>
     <message>
         <source>grip</source>
-        <translation>control</translation>
+        <translation>பிடியில்</translation>
     </message>
     <message>
         <source>link</source>
-        <translation>enlace</translation>
+        <translation>இணைப்பு</translation>
     </message>
     <message>
         <source>list</source>
-        <translation>lista</translation>
+        <translation>பட்டியல்</translation>
     </message>
     <message>
         <source>note</source>
-        <translation>nota</translation>
+        <translation>குறிப்பு</translation>
     </message>
     <message>
         <source>text</source>
-        <translation>texto</translation>
+        <translation>உரை</translation>
     </message>
     <message>
         <source>tree</source>
-        <translation>árbol</translation>
+        <translation>மரம்</translation>
     </message>
     <message>
         <source>animation</source>
-        <translation>animación</translation>
+        <translation>அனிமேஷன்</translation>
     </message>
     <message>
         <source>chart</source>
-        <translation>gráfico</translation>
+        <translation>விளக்கப்படம்</translation>
     </message>
     <message>
         <source>clock</source>
-        <translation>reloj</translation>
+        <translation>கடிகாரம்</translation>
     </message>
     <message>
         <source>frame</source>
-        <translation>marco</translation>
+        <translation>சட்டகம்</translation>
     </message>
     <message>
         <source>label</source>
-        <translation>etiqueta</translation>
+        <translation>முத்திரை</translation>
     </message>
     <message>
         <source>panel</source>
-        <translation>panel</translation>
+        <translation>குழு</translation>
     </message>
     <message>
         <source>space</source>
-        <translation>espacio</translation>
+        <translation>விண்வெளி</translation>
     </message>
     <message>
         <source>sound</source>
-        <translation>sonido</translation>
+        <translation>ஒலி</translation>
     </message>
     <message>
         <source>table</source>
-        <translation>tabla</translation>
+        <translation>அட்டவணை</translation>
     </message>
     <message>
         <source>radio button</source>
-        <translation>botón de radio</translation>
+        <translation>ரேடியோ பொத்தான்</translation>
     </message>
     <message>
         <source>page tab list</source>
-        <translation>lista de pestañas</translation>
+        <translation>பக்க தாவல் பட்டியல்</translation>
     </message>
     <message>
         <source>web document</source>
-        <translation>documento web</translation>
+        <translation>வலை ஆவணம்</translation>
     </message>
     <message>
         <source>combo box</source>
-        <translation>caja combinada</translation>
+        <translation>சேர்க்கை பெட்டி</translation>
     </message>
     <message>
         <source>color chooser</source>
-        <translation>selector de color</translation>
+        <translation>வண்ண தேர்வு செய்பவர்</translation>
     </message>
     <message>
         <source>menu item</source>
-        <translation>elemento de menú</translation>
+        <translation>மெனு உருப்படி</translation>
     </message>
     <message>
         <source>document</source>
-        <translation>documento</translation>
+        <translation>ஆவணம்</translation>
     </message>
     <message>
         <source>scroll bar</source>
-        <translation>barra de desplazamiento</translation>
+        <translation>உருள் பட்டை</translation>
     </message>
     <message>
         <source>tool bar</source>
-        <translation>barra de herramientas</translation>
+        <translation>கருவிப்பட்டி</translation>
     </message>
     <message>
         <source>tool tip</source>
-        <translation>información contextual</translation>
+        <translation>கருவி முனை</translation>
     </message>
     <message>
         <source>text caret</source>
-        <translation>símbolo de intercalación de texto</translation>
+        <translation>உரை கேரட்</translation>
     </message>
     <message>
         <source>button menu</source>
-        <translation>botón de menú</translation>
+        <translation>பொத்தான் மெனு</translation>
     </message>
     <message>
         <source>separator</source>
-        <translation>separador</translation>
+        <translation>பிரிப்பான்</translation>
     </message>
     <message>
         <source>canvas</source>
-        <translation>lienzo</translation>
+        <translation>கேன்வாஸ்</translation>
     </message>
     <message>
         <source>column</source>
-        <translation>columna</translation>
+        <translation>நெடுவரிசை</translation>
     </message>
     <message>
         <source>cursor</source>
-        <translation>cursor</translation>
+        <translation>கர்சர்</translation>
     </message>
     <message>
         <source>dialog</source>
-        <translation>diálogo</translation>
+        <translation>உரையாடல்</translation>
     </message>
     <message>
         <source>filler</source>
-        <translation>relleno</translation>
+        <translation>நிரப்பி</translation>
     </message>
     <message>
         <source>footer</source>
-        <translation>pie de página</translation>
+        <translation>அடிக்குறிப்பு</translation>
     </message>
     <message>
         <source>push button</source>
-        <translation>botón pulsable</translation>
+        <translation>பொத்தானை அழுத்தவும்</translation>
     </message>
     <message>
         <source>row header</source>
-        <translation>encabezado de fila</translation>
+        <translation>வரிசை தலைப்பு</translation>
     </message>
     <message>
         <source>spin box</source>
-        <translation>cuadro de giro</translation>
+        <translation>சுழல் பெட்டி</translation>
     </message>
     <message>
         <source>splitter</source>
-        <translation>delimitador</translation>
+        <translation>பிரிப்பான்</translation>
     </message>
     <message>
         <source>slider</source>
-        <translation>deslizador</translation>
+        <translation>ஸ்லைடர்</translation>
     </message>
     <message>
         <source>button with drop down grid</source>
-        <translation>botón con cuadrícula desplegable</translation>
+        <translation>கீழ்தோன்றும் கட்டத்துடன் கூடிய பொத்தான்</translation>
     </message>
     <message>
         <source>page tab</source>
-        <translation>pestaña</translation>
+        <translation>பக்க தாவல்</translation>
     </message>
     <message>
         <source>invalid role</source>
-        <translation>rol inválido</translation>
+        <translation>தவறான பாத்திரம்</translation>
     </message>
     <message>
         <source>paragraph</source>
-        <translation>párrafo</translation>
+        <translation>பத்தி</translation>
     </message>
     <message>
         <source>equation</source>
-        <translation>ecuación</translation>
+        <translation>சமன்பாடு</translation>
     </message>
     <message>
         <source>complementary content</source>
-        <translation>contenido complementario</translation>
+        <translation>நிரப்பு உள்ளடக்கம்</translation>
     </message>
     <message>
         <source>section</source>
-        <translation>sección</translation>
+        <translation>பிரிவு</translation>
     </message>
     <message>
         <source>assistant</source>
-        <translation>asistente</translation>
+        <translation>உதவியாளர்</translation>
     </message>
     <message>
         <source>list item</source>
-        <translation>elementos de lista</translation>
+        <translation>பட்டியல் உருப்படி</translation>
     </message>
     <message>
         <source>indicator</source>
-        <translation>indicador</translation>
+        <translation>காட்டி</translation>
     </message>
     <message>
         <source>title bar</source>
-        <translation>barra de título</translation>
+        <translation>தலைப்புப் பட்டி</translation>
     </message>
     <message>
         <source>tree item</source>
-        <translation>elemento de árbol</translation>
+        <translation>மரம் பொருள்</translation>
     </message>
     <message>
         <source>check box</source>
-        <translation>casilla de verificación</translation>
+        <translation>தேர்வு பெட்டி</translation>
     </message>
     <message>
         <source>status bar</source>
-        <translation>barra de estado</translation>
+        <translation>நிலைப் பட்டி</translation>
     </message>
     <message>
         <source>progress bar</source>
-        <translation>barra de progreso</translation>
+        <translation>progress bar</translation>
     </message>
     <message>
         <source>alert message</source>
-        <translation>mensaje de alerta</translation>
+        <translation>எச்சரிக்கை செய்தி</translation>
     </message>
     <message>
         <source>property page</source>
-        <translation>página de propiedades</translation>
+        <translation>சொத்து பக்கம்</translation>
     </message>
     <message>
         <source>popup menu</source>
-        <translation>menú contextual</translation>
+        <translation>பாப்அப் மெனு</translation>
     </message>
     <message>
         <source>layered pane</source>
-        <translation>panel de capas</translation>
+        <translation>அடுக்கு பலகை</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation>desconocido</translation>
+        <translation>தெரியவில்லை</translation>
     </message>
     <message>
         <source>menu bar</source>
-        <translation>barra de menú</translation>
+        <translation>மெனு பார்</translation>
     </message>
     <message>
         <source>column header</source>
-        <translation>encabezado de columna</translation>
+        <translation>நெடுவரிசை தலைப்பு</translation>
     </message>
     <message>
         <source>button with drop down</source>
-        <translation>botón con desplegable</translation>
+        <translation>கீழ்தோன்றும் பொத்தான்</translation>
     </message>
     <message>
         <source>hotkey field</source>
-        <translation>campo de acceso rápido</translation>
+        <translation>ஹாட்கி புலம்</translation>
     </message>
     <message>
         <source>graphic</source>
-        <translation>gráfico</translation>
+        <translation>வரைகலை</translation>
     </message>
     <message>
         <source>help balloon</source>
-        <translation>globo de ayuda</translation>
+        <translation>உதவி பலூன்</translation>
     </message>
     <message>
         <source>heading</source>
-        <translation>encabezado</translation>
+        <translation>தலைப்பு</translation>
     </message>
     <message>
         <source>application</source>
-        <translation>aplicación</translation>
+        <translation>விண்ணப்பம்</translation>
     </message>
 </context>
 <context>
     <name>QFile</name>
     <message>
         <source>Cannot remove source file</source>
-        <translation>No se puede eliminar el archivo de origen</translation>
+        <translation>மூல கோப்பை அகற்ற முடியாது</translation>
     </message>
     <message>
         <source>Destination file is the same file.</source>
-        <translation>El fichero de destino es el mismo.</translation>
+        <translation>இலக்கு கோப்பு அதே கோப்பு.</translation>
     </message>
     <message>
         <source>Error while renaming.</source>
-        <translation>Error durante el renombrado.</translation>
+        <translation>மறுபெயரிடும்போது பிழை.</translation>
     </message>
     <message>
         <source>Cannot create %1 for output</source>
-        <translation>No se puede crear %1 para escritura</translation>
+        <translation>வெளியீட்டிற்காக %1 ஐ உருவாக்க முடியாது</translation>
     </message>
     <message>
         <source>Failure to write block</source>
-        <translation>Fallo al escribir un bloque</translation>
+        <translation>தொகுதி எழுதுவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Cannot open %1 for input</source>
-        <translation>No se puede abrir %1 para escritura</translation>
+        <translation>உள்ளீட்டிற்காக %1 ஐ திறக்க முடியாது</translation>
     </message>
     <message>
         <source>Destination file exists</source>
-        <translation>El archivo de destino ya existe</translation>
+        <translation>இலக்கு கோப்பு உள்ளது</translation>
     </message>
     <message>
         <source>Cannot open for output</source>
-        <translation>No se puede abrir para salida</translation>
+        <translation>வெளியீட்டிற்கு திறக்க முடியாது</translation>
     </message>
     <message>
         <source>Will not rename sequential file using block copy</source>
-        <translation>No será renombrado el archivo secuencial usando copia por bloques</translation>
+        <translation>Will not rename sequential file using block copy</translation>
     </message>
     <message>
         <source>Source file does not exist.</source>
-        <translation>El archivo de origen no existe.</translation>
+        <translation>மூல கோப்பு இல்லை.</translation>
     </message>
     <message>
         <source>Unable to restore from %1: %2</source>
-        <translation>No fue posible restaurar desde %1: %2</translation>
+        <translation>%1 இலிருந்து மீட்டெடுக்க முடியவில்லை: %2</translation>
     </message>
 </context>
 <context>
     <name>QFileDialog</name>
     <message>
         <source>Back</source>
-        <translation>Atrás</translation>
+        <translation>மீண்டும்</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Archivo</translation>
+        <translation>கோப்பு</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Abrir</translation>
+        <translation>திற</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;Abrir</translation>
+        <translation>&amp;திற</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;Guardar</translation>
+        <translation>&amp;சேமி</translation>
     </message>
     <message>
         <source>Alias</source>
-        <translation>Alias</translation>
+        <translation>மாற்றுப்பெயர்</translation>
     </message>
     <message>
         <source>Drive</source>
-        <translation>Unidad</translation>
+        <translation>ஓட்டு</translation>
     </message>
     <message>
         <source>Files</source>
-        <translation>Archivos</translation>
+        <translation>கோப்புகள்</translation>
     </message>
     <message>
         <source>Show </source>
-        <translation>Mostrar </translation>
+        <translation>காட்டு</translation>
     </message>
     <message>
-        <source>&apos;%1&apos; is write protected.
+        <source>'%1' is write protected.
 Do you want to delete it anyway?</source>
-        <translation>«%1» está protegido contra escritura.
-¿Desea borrarlo de todas formas?</translation>
+        <translation>'%1' எழுதப் பாதுகாக்கப்பட்டது.
+எப்படியும் அதை நீக்க வேண்டுமா?</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation>¿Está seguro de que quiere borrar «%1»?</translation>
+        <source>Are you sure you want to delete '%1'?</source>
+        <translation>'%1' ஐ நிச்சயமாக நீக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <source>List of places and bookmarks</source>
-        <translation>Lista de lugares y marcadores</translation>
+        <translation>இடங்கள் மற்றும் புக்மார்க்குகளின் பட்டியல்</translation>
     </message>
     <message>
         <source>File &amp;name:</source>
-        <translation>&amp;Nombre de fichero:</translation>
+        <translation>கோப்பு &amp;பெயர்:</translation>
     </message>
     <message>
         <source>Alt+Left</source>
-        <translation>Alt+Izquierda</translation>
+        <translation>Alt+இடது</translation>
     </message>
     <message>
         <source>Alt+Up</source>
-        <translation>Alt+Arriba</translation>
+        <translation>Alt+Up</translation>
     </message>
     <message>
         <source>File Folder</source>
-        <translation>Nueva carpeta</translation>
+        <translation>கோப்பு கோப்புறை</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>நீக்கு</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Nueva carpeta</translation>
+        <translation>புதிய கோப்புறை</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Carpeta</translation>
+        <translation>கோப்புறை</translation>
     </message>
     <message>
         <source>Parent Directory</source>
-        <translation>Directorio superior</translation>
+        <translation>பெற்றோர் கோப்பகம்</translation>
     </message>
     <message>
         <source>&amp;New Folder</source>
-        <translation>&amp;Nueva carpeta</translation>
+        <translation>&amp;புதிய கோப்புறை</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eliminar</translation>
+        <translation>அகற்று</translation>
     </message>
     <message>
         <source>My Computer</source>
-        <translation>Mi equipo</translation>
+        <translation>என் கணினி</translation>
     </message>
     <message>
         <source>Look in:</source>
-        <translation>Ver en:</translation>
+        <translation>உள்ளே பார்:</translation>
     </message>
     <message>
         <source>Alt+Right</source>
-        <translation>Alt+Derecha</translation>
+        <translation>Alt+வலது</translation>
     </message>
     <message>
         <source>Create a New Folder</source>
-        <translation>Crear una nueva carpeta</translation>
+        <translation>புதிய கோப்புறையை உருவாக்கவும்</translation>
     </message>
     <message>
         <source>%1 File</source>
-        <translation>Archivo %1</translation>
+        <translation>%1 கோப்பு</translation>
     </message>
     <message>
         <source>Files of type:</source>
-        <translation>Ficheros de tipo:</translation>
+        <translation>வகை கோப்புகள்:</translation>
     </message>
     <message>
         <source>Find Directory</source>
-        <translation>Buscar directorio</translation>
+        <translation>கோப்பகத்தைக் கண்டுபிடி</translation>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
-        <translation>Mostrar los fic&amp;heros ocultos</translation>
+        <translation>&amp;மறைக்கப்பட்ட கோப்புகளைக் காட்டு</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Guardar como</translation>
+        <translation>என சேமி</translation>
     </message>
     <message>
         <source>%1
 Directory not found.
 Please verify the correct directory name was given.</source>
         <translation>%1
-Directorio no encontrado.
-Verifique que el nombre del directorio es correcto.</translation>
+கோப்பகம் கிடைக்கவில்லை.
+சரியான கோப்பகத்தின் பெயர் கொடுக்கப்பட்டுள்ளதா என சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <source>Sidebar</source>
-        <translation>Barra lateral</translation>
+        <translation>பக்கப்பட்டி</translation>
     </message>
     <message>
         <source>List View</source>
-        <translation>Vista de lista</translation>
+        <translation>பட்டியல் காட்சி</translation>
     </message>
     <message>
         <source>&amp;Choose</source>
-        <translation>&amp;Seleccionar</translation>
+        <translation>&amp;Choose</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Borrar</translation>
+        <translation>&amp;நீக்கு</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation>Todos los archivos (*)</translation>
+        <translation>அனைத்து கோப்புகளும் (*)</translation>
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation>Todos los ficheros (*)</translation>
+        <translation>அனைத்து கோப்புகளும் (*)</translation>
     </message>
     <message>
         <source>Directories</source>
-        <translation>Directorios</translation>
+        <translation>அடைவுகள்</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>Cambia&amp;r de nombre</translation>
+        <translation>&amp;மறுபெயரிடு</translation>
     </message>
     <message>
         <source>Could not delete directory.</source>
-        <translation>No fue posible borrar el directorio.</translation>
+        <translation>கோப்பகத்தை நீக்க முடியவில்லை.</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation>Directorio:</translation>
+        <translation>அடைவு:</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Desconocido</translation>
+        <translation>தெரியவில்லை</translation>
     </message>
     <message>
         <source>%1 already exists.
 Do you want to replace it?</source>
-        <translation>El fichero %1 ya existe.
-¿Desea reemplazarlo?</translation>
+        <translation>%1 ஏற்கனவே உள்ளது.
+அதை மாற்ற விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Siguiente</translation>
+        <translation>முன்னோக்கி</translation>
     </message>
     <message>
         <source>Go forward</source>
-        <translation>Ir hacia delante</translation>
+        <translation>முன்னோக்கி செல்</translation>
     </message>
     <message>
         <source>Go to the parent directory</source>
-        <translation>r al directorio superior</translation>
+        <translation>பெற்றோர் கோப்பகத்திற்குச் செல்லவும்</translation>
     </message>
     <message>
         <source>Recent Places</source>
-        <translation>Lugares recientes</translation>
+        <translation>சமீபத்திய இடங்கள்</translation>
     </message>
     <message>
         <source>Go back</source>
-        <translation>Ir atrás</translation>
+        <translation>Go back</translation>
     </message>
     <message>
         <source>Change to detail view mode</source>
-        <translation>Cambiar a modo de vista detallada</translation>
+        <translation>Change to detail view mode</translation>
     </message>
     <message>
         <source>Create New Folder</source>
-        <translation>Crear nueva carpeta</translation>
+        <translation>புதிய கோப்புறையை உருவாக்கவும்</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation>Acceso directo</translation>
+        <translation>குறுக்குவழி</translation>
     </message>
     <message>
         <source>Detail View</source>
-        <translation>Vista detallada</translation>
+        <translation>Detail View</translation>
     </message>
     <message>
         <source>%1
 File not found.
 Please verify the correct file name was given.</source>
         <translation>%1
-Fichero no encontrado.
-Verifique que el nombre del fichero es correcto.</translation>
+கோப்பு கிடைக்கவில்லை.
+சரியான கோப்பு பெயர் கொடுக்கப்பட்டுள்ளதா என்பதை சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <source>Change to list view mode</source>
-        <translation>Cambiar el modo de vista de la lista</translation>
+        <translation>Change to list view mode</translation>
     </message>
 </context>
 <context>
     <name>QLineEdit</name>
     <message>
         <source>Cu&amp;t</source>
-        <translation>Cor&amp;tar</translation>
+        <translation>Cu&amp;t</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;Copiar</translation>
+        <translation>&amp;நகல்</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>&amp;Rehacer</translation>
+        <translation>&amp;மீண்டும் செய்</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>&amp;Deshacer</translation>
+        <translation>&amp;செயல்தவிர்</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>&amp;Pegar</translation>
+        <translation>&amp;ஒட்டு</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>நீக்கு</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Seleccionar todo</translation>
+        <translation>அனைத்தையும் தேர்ந்தெடுக்கவும்</translation>
     </message>
 </context>
 <context>
     <name>QWidgetTextControl</name>
     <message>
         <source>Cu&amp;t</source>
-        <translation>Cor&amp;tar</translation>
+        <translation>கட்&amp;ட்</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;Copiar</translation>
+        <translation>&amp;நகல்</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>&amp;Rehacer</translation>
+        <translation>&amp;மீண்டும் செய்</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>&amp;Deshacer</translation>
+        <translation>&amp;செயல்தவிர்</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>&amp;Pegar</translation>
+        <translation>&amp;ஒட்டு</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>நீக்கு</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Seleccionar todo</translation>
+        <translation>அனைத்தையும் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <source>Copy &amp;Link Location</source>
-        <translation>Copiar la ubicación del en&amp;lace</translation>
+        <translation>&amp;இணைப்பு இருப்பிடத்தை நகலெடு</translation>
     </message>
 </context>
 <context>
     <name>QWizard</name>
     <message>
         <source>Done</source>
-        <translation>Hecho</translation>
+        <translation>முடிந்தது</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Ayuda</translation>
+        <translation>உதவி</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Ayuda</translation>
+        <translation>&amp;உதவி</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>Siguie&amp;nte</translation>
+        <translation>&amp;அடுத்து</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>ரத்து செய்</translation>
     </message>
     <message>
         <source>Commit</source>
-        <translation>Enviar</translation>
+        <translation>உறுதி</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation>Continuar</translation>
+        <translation>தொடரவும்</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation>&amp;Finalizar</translation>
+        <translation>&amp;முடிக்கவும்</translation>
     </message>
     <message>
         <source>&amp;Next &gt;</source>
-        <translation>Siguie&amp;nte &gt;</translation>
+        <translation>&amp;அடுத்து &gt;</translation>
     </message>
     <message>
         <source>Go Back</source>
-        <translation>Ir atrás</translation>
+        <translation>திரும்பி செல்</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
-        <translation>&lt; &amp;Atrás</translation>
+        <translation>&lt; &amp;மீண்டும்</translation>
     </message>
 </context>
 <context>
     <name>QPrintPropertiesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Formulario</translation>
+        <translation>படிவம்</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation>Página</translation>
+        <translation>பக்கம்</translation>
     </message>
 </context>
 <context>
     <name>QMdiSubWindow</name>
     <message>
         <source>Help</source>
-        <translation>Ayuda</translation>
+        <translation>உதவி</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation>Menú</translation>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>&amp;Move</source>
-        <translation>&amp;Mover</translation>
+        <translation>&amp;Move</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation>Redimen&amp;sionar</translation>
+        <translation>&amp;Size</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>மூடு</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation>Minimizar</translation>
+        <translation>Minimize</translation>
     </message>
     <message>
         <source>Shade</source>
-        <translation>Colapsar</translation>
+        <translation>நிழல்</translation>
     </message>
     <message>
         <source>Stay on &amp;Top</source>
-        <translation>Permanecer en &amp;primer plano</translation>
+        <translation>&amp;மேலே இருங்கள்</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Cerrar</translation>
+        <translation>&amp;மூடு</translation>
     </message>
     <message>
         <source>- [%1]</source>
@@ -3282,168 +3281,168 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation>&amp;Restaurar</translation>
+        <translation>&amp;மீட்டெடு</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation>Restaurar</translation>
+        <translation>மீட்டமை</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation>Maximizar</translation>
+        <translation>அதிகப்படுத்து</translation>
     </message>
     <message>
         <source>Unshade</source>
-        <translation>Des-colapsar</translation>
+        <translation>Unshade</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation>Mi&amp;nimizar</translation>
+        <translation>சிறு&amp;குறுக்கு</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation>Ma&amp;ximizar</translation>
+        <translation>அதிகபட்சம்&amp;பெரிதாக்கு</translation>
     </message>
     <message>
         <source>Restore Down</source>
-        <translation>Restaurar abajo</translation>
+        <translation>கீழே மீட்டமை</translation>
     </message>
 </context>
 <context>
     <name>QStandardPaths</name>
     <message>
         <source>Home</source>
-        <translation>Inicio</translation>
+        <translation>வீடு</translation>
     </message>
     <message>
         <source>Cache</source>
-        <translation>Caché</translation>
+        <translation>தற்காலிக சேமிப்பு</translation>
     </message>
     <message>
         <source>Fonts</source>
-        <translation>Fuentes</translation>
+        <translation>எழுத்துருக்கள்</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation>Música</translation>
+        <translation>இசை</translation>
     </message>
     <message>
         <source>Shared Cache</source>
-        <translation>Caché compartida</translation>
+        <translation>Shared Cache</translation>
     </message>
     <message>
         <source>Shared Configuration</source>
-        <translation>Configuración compartida</translation>
+        <translation>பகிரப்பட்ட கட்டமைப்பு</translation>
     </message>
     <message>
         <source>Movies</source>
-        <translation>Películas</translation>
+        <translation>திரைப்படங்கள்</translation>
     </message>
     <message>
         <source>Application Configuration</source>
-        <translation>Configuración de aplicación</translation>
+        <translation>Application Configuration</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>Descargar</translation>
+        <translation>பதிவிறக்கவும்</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation>Configuración</translation>
+        <translation>கட்டமைப்பு</translation>
     </message>
     <message>
         <source>Application Data</source>
-        <translation>Datos de aplicación</translation>
+        <translation>Application Data</translation>
     </message>
     <message>
         <source>Runtime</source>
-        <translation>Tiempo de ejecución</translation>
+        <translation>Runtime</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation>Documentos</translation>
+        <translation>ஆவணங்கள்</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>Escritorio</translation>
+        <translation>Desktop</translation>
     </message>
     <message>
         <source>Temporary Directory</source>
-        <translation>Directorio temporal</translation>
+        <translation>தற்காலிக அடைவு</translation>
     </message>
     <message>
         <source>Shared Data</source>
-        <translation>Datos compartidos</translation>
+        <translation>பகிரப்பட்ட தரவு</translation>
     </message>
     <message>
         <source>Applications</source>
-        <translation>Aplicaciones</translation>
+        <translation>விண்ணப்பங்கள்</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>Fotos</translation>
+        <translation>படங்கள்</translation>
     </message>
 </context>
 <context>
     <name>QDirModel</name>
     <message>
         <source>Kind</source>
-        <translation>Clase</translation>
+        <translation>Kind</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nombre</translation>
+        <translation>பெயர்</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Tamaño</translation>
+        <translation>அளவு</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tipo</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation>Última modificación</translation>
+        <translation>Date Modified</translation>
     </message>
 </context>
 <context>
     <name>QFileSystemModel</name>
     <message>
         <source>Kind</source>
-        <translation>Clase</translation>
+        <translation>வகையான</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nombre</translation>
+        <translation>பெயர்</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Tamaño</translation>
+        <translation>Size</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tipo</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation>%1 GiB</translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <source>%1 KB</source>
-        <translation>%1 KiB</translation>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation>%1 MiB</translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <source>%1 TB</source>
-        <translation>%1 TiB</translation>
+        <translation>%1 TB</translation>
     </message>
     <message>
-        <source>&lt;b&gt;The name &quot;%1&quot; can not be used.&lt;/b&gt;&lt;p&gt;Try using another name, with fewer characters or no punctuations marks.</source>
-        <translation>&lt;b&gt;No se puede utilizar el nombre «%1».&lt;/b&gt;&lt;p&gt;Intente usar otro nombre con menos caracteres o sin signos de puntuación.</translation>
+        <source>&lt;b&gt;The name "%1" can not be used.&lt;/b&gt;&lt;p&gt;Try using another name, with fewer characters or no punctuations marks.</source>
+        <translation>&lt;b&gt;"%1" என்ற பெயரைப் பயன்படுத்த முடியாது.&lt;/b&gt;&lt;p&gt;குறைவான எழுத்துகள் அல்லது நிறுத்தற்குறிகள் இல்லாத வேறு பெயரைப் பயன்படுத்தி முயற்சிக்கவும்.</translation>
     </message>
     <message>
         <source>%1 bytes</source>
@@ -3451,730 +3450,730 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>My Computer</source>
-        <translation>Mi Equipo</translation>
+        <translation>என் கணினி</translation>
     </message>
     <message>
         <source>Computer</source>
-        <translation>Equipo</translation>
+        <translation>Computer</translation>
     </message>
     <message>
         <source>Invalid filename</source>
-        <translation>Nombre de fichero no válido</translation>
+        <translation>Invalid filename</translation>
     </message>
     <message>
         <source>%1 byte(s)</source>
-        <translation>%1 byte(s)</translation>
+        <translation>%1 பைட்(கள்)</translation>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation>Última modificación</translation>
+        <translation>தேதி மாற்றப்பட்டது</translation>
     </message>
 </context>
 <context>
     <name>QUndoGroup</name>
     <message>
         <source>Redo</source>
-        <translation>Rehacer</translation>
+        <translation>மீண்டும் செய்</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Deshacer</translation>
+        <translation>Undo</translation>
     </message>
     <message>
         <source>Redo %1</source>
-        <translation>Rehacer %1</translation>
+        <translation>மீண்டும் செய் %1</translation>
     </message>
     <message>
         <source>Undo %1</source>
-        <translation>Deshacer %1</translation>
+        <translation>Undo %1</translation>
     </message>
 </context>
 <context>
     <name>QUndoStack</name>
     <message>
         <source>Redo</source>
-        <translation>Rehacer</translation>
+        <translation>மீண்டும் செய்</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Deshacer</translation>
+        <translation>செயல்தவிர்</translation>
     </message>
     <message>
         <source>Redo %1</source>
-        <translation>Rehacer %1</translation>
+        <translation>மீண்டும் செய் %1</translation>
     </message>
     <message>
         <source>Undo %1</source>
-        <translation>Deshacer %1</translation>
+        <translation>Undo %1</translation>
     </message>
 </context>
 <context>
     <name>QComboBox</name>
     <message>
         <source>True</source>
-        <translation>Verdadero</translation>
+        <translation>உண்மை</translation>
     </message>
     <message>
         <source>False</source>
-        <translation>Falso</translation>
+        <translation>False</translation>
     </message>
     <message>
         <source>Open the combo box selection popup</source>
-        <translation>Abrir el menú desplegable del combo box</translation>
+        <translation>காம்போ பாக்ஸ் தேர்வு பாப்அப்பைத் திறக்கவும்</translation>
     </message>
 </context>
 <context>
     <name>QSslSocket</name>
     <message>
         <source>Error creating SSL session: %1</source>
-        <translation>Error al crear la sesión SSL: %1</translation>
+        <translation>Error creating SSL session: %1</translation>
     </message>
     <message>
         <source>Error creating SSL session, %1</source>
-        <translation>Error al crear la sesión SSL, %1</translation>
+        <translation>SSL அமர்வை உருவாக்குவதில் பிழை, %1</translation>
     </message>
     <message>
         <source>Error when setting the elliptic curves (%1)</source>
-        <translation>Error estableciendo curvas elípticas (%1)</translation>
+        <translation>நீள்வட்ட வளைவுகளை அமைக்கும் போது பிழை (%1)</translation>
     </message>
     <message>
-        <source>The certificate&apos;s notAfter field contains an invalid time</source>
-        <translation>El campo notAfter del certificado contiene una hora inválida</translation>
+        <source>The certificate's notAfter field contains an invalid time</source>
+        <translation>சான்றிதழின் notAfter புலத்தில் தவறான நேரம் உள்ளது</translation>
     </message>
     <message>
         <source>No error</source>
-        <translation>No hay errores</translation>
+        <translation>No error</translation>
     </message>
     <message>
         <source>Cannot provide a certificate with no key, %1</source>
-        <translation>No se puede proporcionar un certificado sin clave, %1</translation>
+        <translation>Cannot provide a certificate with no key, %1</translation>
     </message>
     <message>
         <source>Unable to write data: %1</source>
-        <translation>No es posible escribir los datos: %1</translation>
+        <translation>Unable to write data: %1</translation>
     </message>
     <message>
         <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation>El tamaño del parámetro de ruta basicConstraints ha sido excedido</translation>
+        <translation>அடிப்படைக் கட்டுப்பாடுகள் பாதை நீள அளவுரு மீறப்பட்டது</translation>
     </message>
     <message>
         <source>The certificate has expired</source>
-        <translation>El certificado ha caducado</translation>
+        <translation>The certificate has expired</translation>
     </message>
     <message>
         <source>The TLS/SSL connection has been closed</source>
-        <translation>La conexión TLS/SSL ha sido cerrada</translation>
+        <translation>The TLS/SSL connection has been closed</translation>
     </message>
     <message>
         <source>Error during SSL handshake: %1</source>
-        <translation>Error durante el handshake SSL: %1</translation>
+        <translation>SSL கைகுலுக்கலின் போது பிழை: %1</translation>
     </message>
     <message>
         <source>Error loading local certificate, %1</source>
-        <translation>Error al cargar el certificado local, %1</translation>
+        <translation>உள்ளூர் சான்றிதழை ஏற்றுவதில் பிழை, %1</translation>
     </message>
     <message>
         <source>The certificate is self-signed, and untrusted</source>
-        <translation>El certificado está autofirmado, y es no confiable</translation>
+        <translation>The certificate is self-signed, and untrusted</translation>
     </message>
     <message>
         <source>Unable to init SSL Context: %1</source>
-        <translation>Ha sido imposible iniciar el contexto SSL: %1</translation>
+        <translation>SSL சூழலை துவக்க முடியவில்லை: %1</translation>
     </message>
     <message>
         <source>The peer did not present any certificate</source>
-        <translation>El punto no está presente en ningún certificado</translation>
+        <translation>The peer did not present any certificate</translation>
     </message>
     <message>
         <source>unsupported protocol</source>
-        <translation>protocolo no soportado</translation>
+        <translation>ஆதரிக்கப்படாத நெறிமுறை</translation>
     </message>
     <message>
         <source>The root CA certificate is marked to reject the specified purpose</source>
-        <translation>La raíz del certificado CA está marcado para rechazar el propósito especificado</translation>
+        <translation>The root CA certificate is marked to reject the specified purpose</translation>
     </message>
     <message>
         <source>Invalid or empty cipher list (%1)</source>
-        <translation>Lista de cifras vacía o no válida (%1)</translation>
+        <translation>தவறான அல்லது வெற்று சைபர் பட்டியல் (%1)</translation>
     </message>
     <message>
         <source>No certificates could be verified</source>
-        <translation>Ningún certificado pudo ser verificado</translation>
+        <translation>எந்தச் சான்றிதழ்களையும் சரிபார்க்க முடியவில்லை</translation>
     </message>
     <message>
         <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate</source>
-        <translation>El emisor del candidato actual ha sido rechazado porque el nombre del emisor y su número de serie no está presente y no coincide con la clave de la autoridad identificadora del actual certificado</translation>
+        <translation>தற்போதைய வேட்பாளர் வழங்குநர் சான்றிதழ் நிராகரிக்கப்பட்டது, ஏனெனில் அதன் வழங்குபவரின் பெயர் மற்றும் வரிசை எண் ஆகியவை தற்போதைய சான்றிதழின் அதிகார விசை அடையாளங்காட்டியுடன் பொருந்தவில்லை</translation>
     </message>
     <message>
         <source>The root CA certificate is not trusted for this purpose</source>
-        <translation>La raíz del certificado CA no es confiable para este propósito</translation>
+        <translation>The root CA certificate is not trusted for this purpose</translation>
     </message>
     <message>
         <source>The host name did not match any of the valid hosts for this certificate</source>
-        <translation>El nombre de equipo no coincidió con ninguno de los equipos válidos para este certificado</translation>
+        <translation>The host name did not match any of the valid hosts for this certificate</translation>
     </message>
     <message>
         <source>The root certificate of the certificate chain is self-signed, and untrusted</source>
-        <translation>El certificado raíz de la cadena de certificado está autofirmado, y no es confiable</translation>
+        <translation>The root certificate of the certificate chain is self-signed, and untrusted</translation>
     </message>
     <message>
         <source>The peer certificate is blacklisted</source>
-        <translation>El certificado del punto está en la lista negra</translation>
+        <translation>The peer certificate is blacklisted</translation>
     </message>
     <message>
         <source>The certificate signature could not be decrypted</source>
-        <translation>La firma del certificado no puede ser descifrada</translation>
+        <translation>The certificate signature could not be decrypted</translation>
     </message>
     <message>
         <source>The supplied certificate is unsuitable for this purpose</source>
-        <translation>El certificado suministrado no es adecuado para este propósito</translation>
+        <translation>The supplied certificate is unsuitable for this purpose</translation>
     </message>
     <message>
         <source>Private key does not certify public key, %1</source>
-        <translation>La clave privada no certifica la clave pública, %1</translation>
+        <translation>Private key does not certify public key, %1</translation>
     </message>
     <message>
         <source>Error creating SSL context (%1)</source>
-        <translation>Error al crear el contexto SSL (%1)</translation>
+        <translation>Error creating SSL context (%1)</translation>
     </message>
     <message>
         <source>OpenSSL version too old, need at least v1.0.2</source>
-        <translation>Versión de OpenSSL demasiado vieja, se necesita al menos v1.0.2</translation>
+        <translation>OpenSSL version too old, need at least v1.0.2</translation>
     </message>
     <message>
         <source>The issuer certificate could not be found</source>
-        <translation>El certificado del emisor no puede ser encontrado</translation>
+        <translation>The issuer certificate could not be found</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate</source>
-        <translation>El emisor del candidato actual ha sido rechazado porque el nombre del tema no coincide con el nombre del emisor del actual certificado</translation>
+        <translation>தற்போதைய வேட்பாளர் வழங்குநர் சான்றிதழ் நிராகரிக்கப்பட்டது, ஏனெனில் அதன் பொருள் பெயர் தற்போதைய சான்றிதழின் வழங்குநர் பெயருடன் பொருந்தவில்லை</translation>
     </message>
     <message>
         <source>Error while reading: %1</source>
-        <translation>Error al leer: %1</translation>
+        <translation>படிக்கும் போது பிழை: %1</translation>
     </message>
     <message>
-        <source>The certificate&apos;s notBefore field contains an invalid time</source>
-        <translation>El campo notBefore del certificado contiene una hora no válida</translation>
+        <source>The certificate's notBefore field contains an invalid time</source>
+        <translation>The certificate's notBefore field contains an invalid time</translation>
     </message>
     <message>
         <source>Error loading private key, %1</source>
-        <translation>Error al cargar la clave privada, %1</translation>
+        <translation>Error loading private key, %1</translation>
     </message>
     <message>
         <source>The certificate is not yet valid</source>
-        <translation>El certificado no es todavía válido</translation>
+        <translation>சான்றிதழ் இன்னும் செல்லுபடியாகவில்லை</translation>
     </message>
     <message>
         <source>The public key in the certificate could not be read</source>
-        <translation>La clave pública del certificado no puede ser leída</translation>
+        <translation>சான்றிதழில் உள்ள பொது விசையைப் படிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>One of the CA certificates is invalid</source>
-        <translation>Uno de los certificados CA es inválido</translation>
+        <translation>CA சான்றிதழ்களில் ஒன்று தவறானது</translation>
     </message>
     <message>
         <source>The signature of the certificate is invalid</source>
-        <translation>La firma del certificado es inválida</translation>
+        <translation>சான்றிதழின் கையொப்பம் தவறானது</translation>
     </message>
     <message>
         <source>The issuer certificate of a locally looked up certificate could not be found</source>
-        <translation>El emisor del certificado de un certificado encontrado localmente no ha podido ser hallado</translation>
+        <translation>உள்நாட்டில் தேடப்பட்ட சான்றிதழின் வழங்குநர் சான்றிதழைக் கண்டுபிடிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to decrypt data: %1</source>
-        <translation>No ha sido posible descifrar los datos: %1</translation>
+        <translation>தரவை மறைகுறியாக்க முடியவில்லை: %1</translation>
     </message>
 </context>
 <context>
     <name>QLocalSocket</name>
     <message>
         <source>%1: Connection error</source>
-        <translation>%1: Error de conexión</translation>
+        <translation>%1: இணைப்பு பிழை</translation>
     </message>
     <message>
         <source>%1: Access denied</source>
-        <translation>%1: Acceso denegado</translation>
+        <translation>%1: Access denied</translation>
     </message>
     <message>
         <source>%1: Operation not permitted when socket is in this state</source>
-        <translation>%1: Operación no permitida cuando el socket se encuentra en este estado</translation>
+        <translation>%1: சாக்கெட் இந்த நிலையில் இருக்கும்போது செயல்பாடு அனுமதிக்கப்படாது</translation>
     </message>
     <message>
         <source>%1: Connection refused</source>
-        <translation>%1: Conexión rechazada</translation>
+        <translation>%1: இணைப்பு மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>%1: Unknown error %2</source>
-        <translation>%1: Error desconocido %2</translation>
+        <translation>%1: தெரியாத பிழை %2</translation>
     </message>
     <message>
         <source>%1: Socket access error</source>
-        <translation>%1: Error de acceso al socket</translation>
+        <translation>%1: சாக்கெட் அணுகல் பிழை</translation>
     </message>
     <message>
         <source>%1: Socket resource error</source>
-        <translation>%1: Error en el recurso del socket</translation>
+        <translation>%1: சாக்கெட் ஆதாரப் பிழை</translation>
     </message>
     <message>
         <source>Trying to connect while connection is in progress</source>
-        <translation>Intentando conectar mientras la conexión está en progreso</translation>
+        <translation>Trying to connect while connection is in progress</translation>
     </message>
     <message>
         <source>%1: The socket operation is not supported</source>
-        <translation>%1: La operación con el socket no está soportada</translation>
+        <translation>%1: சாக்கெட் செயல்பாடு ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>%1: Invalid name</source>
-        <translation>%1: Nombre inválido</translation>
+        <translation>%1: தவறான பெயர்</translation>
     </message>
     <message>
         <source>%1: Unknown error</source>
-        <translation>%1: Error desconocido</translation>
+        <translation>%1: தெரியாத பிழை</translation>
     </message>
     <message>
         <source>%1: Socket operation timed out</source>
-        <translation>%1: El tiempo de espera en la operación con el socket ha expirado</translation>
+        <translation>%1: Socket operation timed out</translation>
     </message>
     <message>
         <source>%1: Datagram too large</source>
-        <translation>%1: Datagrama demasiado grande</translation>
+        <translation>%1: டேட்டாகிராம் மிகவும் பெரியது</translation>
     </message>
     <message>
         <source>%1: Remote closed</source>
-        <translation>%1: Conexión cerrada</translation>
+        <translation>%1: ரிமோட் மூடப்பட்டுள்ளது</translation>
     </message>
 </context>
 <context>
     <name>QRegularExpression</name>
     <message>
         <source>digit expected after (?+</source>
-        <translation>se esperaba un dígito tras (?+</translation>
+        <translation>(?+.)க்குப் பிறகு எதிர்பார்க்கப்படும் இலக்கம்</translation>
     </message>
     <message>
         <source>unmatched parentheses</source>
-        <translation>paréntesis sin pareja</translation>
+        <translation>unmatched parentheses</translation>
     </message>
     <message>
         <source>inconsistent NEWLINE options</source>
-        <translation>opciones para NEWLINE inconsistentes</translation>
+        <translation>inconsistent NEWLINE options</translation>
     </message>
     <message>
         <source>(?R or (?[+-]digits must be followed by )</source>
-        <translation>(?R o (?[+-]dígitos deben ser seguidos por )</translation>
+        <translation>(?R or (?[+-]digits must be followed by )</translation>
     </message>
     <message>
         <source>syntax error in subpattern name (missing terminator)</source>
-        <translation>error de sintaxis en el subpatrón (falta el terminador)</translation>
+        <translation>syntax error in subpattern name (missing terminator)</translation>
     </message>
     <message>
         <source>missing terminating ] for character class</source>
-        <translation>falta el terminador ] para la clase carácter</translation>
+        <translation>missing terminating ] for character class</translation>
     </message>
     <message>
         <source>setting UTF is disabled by the application</source>
-        <translation>usar UTF está deshabilitado por la aplicación</translation>
+        <translation>UTF அமைப்பானது பயன்பாட்டால் முடக்கப்பட்டுள்ளது</translation>
     </message>
     <message>
         <source>\k is not followed by a braced, angle-bracketed, or quoted name</source>
-        <translation>\k no está seguido de unas llaves, mayor-que/menor-que o un nombre entre comillas</translation>
+        <translation>\k ஐத் தொடர்ந்து பிரேஸ் செய்யப்பட்ட, கோண அடைப்புக்குறி அல்லது மேற்கோள் பெயர் இல்லை</translation>
     </message>
     <message>
         <source>internal error: unexpected repeat</source>
-        <translation>error interno: repetición inesperada</translation>
+        <translation>அகப் பிழை: எதிர்பாராத மறுமுறை</translation>
     </message>
     <message>
         <source>this version of PCRE is not compiled with PCRE_UCP support</source>
-        <translation>esta versión de PCRE no está compilada con soporte PCRE_UCP</translation>
+        <translation>PCRE இன் இந்தப் பதிப்பு PCRE_UCP ஆதரவுடன் தொகுக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>no error</source>
-        <translation>no hay errores</translation>
+        <translation>no error</translation>
     </message>
     <message>
         <source>POSIX named classes are supported only within a class</source>
-        <translation>nombre POSIX de clases sólo están soportados dentro de una clase</translation>
+        <translation>POSIX என்ற வகுப்புகள் ஒரு வகுப்பிற்குள் மட்டுமே ஆதரிக்கப்படும்</translation>
     </message>
     <message>
         <source>invalid UTF-16 string</source>
-        <translation>cadena de texto UTF-16 inválida</translation>
+        <translation>invalid UTF-16 string</translation>
     </message>
     <message>
         <source>invalid UTF-32 string</source>
-        <translation>cadena de texto UTF-32 inválida</translation>
+        <translation>தவறான UTF-32 சரம்</translation>
     </message>
     <message>
         <source>parentheses are too deeply nested (stack check)</source>
-        <translation>demasiados paréntesis han sido anidados (chequeo de pila)</translation>
+        <translation>அடைப்புக்குறிகள் மிகவும் ஆழமாக உள்ளமைக்கப்பட்டவை (ஸ்டாக் சரிபார்ப்பு)</translation>
     </message>
     <message>
         <source>\g is not followed by a braced, angle-bracketed, or quoted name/number or by a plain number</source>
-        <translation>\g no está seguido por un nombre/número entre llaves, entre símbolos de ángulo o entre comillas o un número simple</translation>
+        <translation>\g ஐப் பின்தொடர்வது பிரேஸ் செய்யப்பட்ட, கோண அடைப்புக்குறி அல்லது மேற்கோள் காட்டப்பட்ட பெயர்/எண் அல்லது சாதாரண எண்ணால் இல்லை</translation>
     </message>
     <message>
         <source>invalid escape sequence in character class</source>
-        <translation>secuencia de escape inválida en clase carácter</translation>
+        <translation>invalid escape sequence in character class</translation>
     </message>
     <message>
         <source>missing opening brace after \o</source>
-        <translation>falta una llave tras \o</translation>
+        <translation>\o க்குப் பிறகு திறப்பு பிரேஸ் இல்லை</translation>
     </message>
     <message>
         <source>range out of order in character class</source>
-        <translation>rango fuera de servicio in clase carácter</translation>
+        <translation>எழுத்து வகுப்பில் வரம்பு ஒழுங்கற்றது</translation>
     </message>
     <message>
         <source>(*MARK) must have an argument</source>
-        <translation>(*MARK) debe tener un argumento</translation>
+        <translation>(*MARK) ஒரு வாதம் இருக்க வேண்டும்</translation>
     </message>
     <message>
         <source>this version of PCRE is not compiled with PCRE_UTF8 support</source>
-        <translation>esta versión de PCRE no está compilada con soporte PCRE_UTF8</translation>
+        <translation>this version of PCRE is not compiled with PCRE_UTF8 support</translation>
     </message>
     <message>
         <source>too many forward references</source>
-        <translation>demasiadas referencias adelantadas</translation>
+        <translation>பல முன்னோக்கிய குறிப்புகள்</translation>
     </message>
     <message>
         <source>a numbered reference must not be zero</source>
-        <translation>una referencia numerada no puede ser cero</translation>
+        <translation>a numbered reference must not be zero</translation>
     </message>
     <message>
         <source>reference to non-existent subpattern</source>
-        <translation>referencia a un subpatrón inexistente</translation>
+        <translation>இல்லாத துணை வடிவத்தைப் பற்றிய குறிப்பு</translation>
     </message>
     <message>
         <source>PCRE does not support \L, \l, \N{name}, \U, or \u</source>
-        <translation>PCRE no soporta \L, \l, \N{nombre}, \U o \u</translation>
+        <translation>PCRE \L, \l, \N{name}, \U அல்லது \u ஐ ஆதரிக்காது</translation>
     </message>
     <message>
         <source>number after (?C is &gt; 255</source>
-        <translation>número mayor que 255 tras (?C</translation>
+        <translation>number after (?C is &gt; 255</translation>
     </message>
     <message>
         <source>two named subpatterns have the same name</source>
-        <translation>dos subpatrones con nombre tienen el mismo nombre</translation>
+        <translation>பெயரிடப்பட்ட இரண்டு துணை வடிவங்கள் ஒரே பெயரைக் கொண்டுள்ளன</translation>
     </message>
     <message>
         <source>internal error: overran compiling workspace</source>
-        <translation>error interno: espacio de trabajo rebasado durante compilación</translation>
+        <translation>internal error: overran compiling workspace</translation>
     </message>
     <message>
         <source>] is an invalid data character in JavaScript compatibility mode</source>
-        <translation>] es un carácter inválido en el modo de compatibilidad con JavaScript</translation>
+        <translation>] என்பது ஜாவாஸ்கிரிப்ட் பொருந்தக்கூடிய பயன்முறையில் தவறான தரவு எழுத்து</translation>
     </message>
     <message>
         <source>unrecognized character follows \</source>
-        <translation>carácter no reconocido tras \</translation>
+        <translation>unrecognized character follows \</translation>
     </message>
     <message>
         <source>octal value is greater than \377 (not in UTF-8 mode)</source>
-        <translation>valor octal es mayor que \377 (no está en modo UTF-8)</translation>
+        <translation>octal value is greater than \377 (not in UTF-8 mode)</translation>
     </message>
     <message>
         <source>unknown option bit(s) set</source>
-        <translation>bit(s) de opción desconocido establecidos</translation>
+        <translation>unknown option bit(s) set</translation>
     </message>
     <message>
         <source>\N is not supported in a class</source>
-        <translation>\N no está soportado en una clase</translation>
+        <translation>\N ஒரு வகுப்பில் ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>non-hex character in \x{} (closing brace missing?)</source>
-        <translation>carácter no hexadecimal en \x{} (¿es posible que se haya olvidado el carácter «}»?)</translation>
+        <translation>non-hex character in \x{} (closing brace missing?)</translation>
     </message>
     <message>
         <source>support for \P, \p, and \X has not been compiled</source>
-        <translation>no se ha compilado el soporte para \P, \p y \X</translation>
+        <translation>support for \P, \p, and \X has not been compiled</translation>
     </message>
     <message>
         <source>character value in \x{...} sequence is too large</source>
-        <translation>valor carácter en \x{...} la secuencia es muy grande</translation>
+        <translation>\x{...} வரிசையில் எழுத்து மதிப்பு மிகப் பெரியது</translation>
     </message>
     <message>
         <source>invalid condition (?(0)</source>
-        <translation>condición inválida (?(0)</translation>
+        <translation>invalid condition (?(0)</translation>
     </message>
     <message>
         <source>regular expression is too large</source>
-        <translation>la expresión regular es muy grande</translation>
+        <translation>வழக்கமான வெளிப்பாடு மிகவும் பெரியது</translation>
     </message>
     <message>
         <source>failed to get memory</source>
-        <translation>fallo al obtener la memoria</translation>
+        <translation>failed to get memory</translation>
     </message>
     <message>
         <source>unknown property name after \P or \p</source>
-        <translation>nombre de propiedad desconocido tras \P o \p</translation>
+        <translation>unknown property name after \P or \p</translation>
     </message>
     <message>
         <source>internal error: code overflow</source>
-        <translation>error interno: código desbordado</translation>
+        <translation>internal error: code overflow</translation>
     </message>
     <message>
         <source>\C not allowed in lookbehind assertion</source>
-        <translation>\C no permitida en afirmaciones lookbehind</translation>
+        <translation>\C not allowed in lookbehind assertion</translation>
     </message>
     <message>
         <source>group name must start with a non-digit</source>
-        <translation>nombre de grupo debe de empezar por un carácter no dígito</translation>
+        <translation>குழுவின் பெயர் இலக்கம் அல்லாதவுடன் தொடங்க வேண்டும்</translation>
     </message>
     <message>
         <source>recursive call could loop indefinitely</source>
-        <translation>llamada recursiva puede entrar en un bucle infinito</translation>
+        <translation>சுழல்நிலை அழைப்பு காலவரையின்றி வளையலாம்</translation>
     </message>
     <message>
         <source>number is too big</source>
-        <translation>el número es muy grande</translation>
+        <translation>எண்ணிக்கை மிகவும் பெரியது</translation>
     </message>
     <message>
         <source>\c at end of pattern</source>
-        <translation>\c al final del patrón</translation>
+        <translation>\c வடிவத்தின் முடிவில்</translation>
     </message>
     <message>
         <source>nothing to repeat</source>
-        <translation>nada que repetir</translation>
+        <translation>மீண்டும் எதுவும் இல்லை</translation>
     </message>
     <message>
         <source>invalid UTF-8 string</source>
-        <translation>cadena de texto UTF-8 inválida</translation>
+        <translation>invalid UTF-8 string</translation>
     </message>
     <message>
         <source>subpattern name expected</source>
-        <translation>se esperaba un nombre de subpatrón</translation>
+        <translation>துணை வடிவ பெயர் எதிர்பார்க்கப்படுகிறது</translation>
     </message>
     <message>
         <source>character value in \u.... sequence is too large</source>
-        <translation>valor de carácter en \u... la secuencia es demasiado larga</translation>
+        <translation>\u.... வரிசையில் எழுத்து மதிப்பு மிகப் பெரியது</translation>
     </message>
     <message>
         <source>invalid range in character class</source>
-        <translation>rango inválido en la clase carácter</translation>
+        <translation>invalid range in character class</translation>
     </message>
     <message>
         <source>internal error: previously-checked referenced subpattern not found</source>
-        <translation>error interno: subpatrón previamente referenciado no encontrado</translation>
+        <translation>அகப் பிழை: முன்பு சரிபார்க்கப்பட்ட குறிப்பு துணை வடிவத்தைக் காணவில்லை</translation>
     </message>
     <message>
         <source>name is too long in (*MARK), (*PRUNE), (*SKIP), or (*THEN)</source>
-        <translation>nombre demasiado grande en (*MARK), (*PRUNE), (*SKIP) o (*THEN)</translation>
+        <translation>பெயர் (*மார்க்), (*ப்ரூன்), (*தவிர்), அல்லது (*பின்) மிக நீளமாக உள்ளது</translation>
     </message>
     <message>
         <source>an argument is not allowed for (*ACCEPT), (*FAIL), or (*COMMIT)</source>
-        <translation>un argumento no está permitido para (*ACCEPT), (*FAIL) o (*COMMIT)</translation>
+        <translation>(*ஏற்றுக்கொள்ள), (*தோல்வி), அல்லது (*COMMIT) க்கு ஒரு வாதம் அனுமதிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>(*VERB) not recognized</source>
-        <translation>(*VERB) no está reconocido</translation>
+        <translation>(*VERB) not recognized</translation>
     </message>
     <message>
         <source>assertion expected after (?(</source>
-        <translation>afirmación esperada tras (?(</translation>
+        <translation>வலியுறுத்தல் (?(?)</translation>
     </message>
     <message>
         <source>missing )</source>
-        <translation>falta un )</translation>
+        <translation>missing )</translation>
     </message>
     <message>
         <source>malformed number or name after (?(</source>
-        <translation>nombre o número mal formado tras (?(</translation>
+        <translation>malformed number or name after (?(</translation>
     </message>
     <message>
         <source>number too big in {} quantifier</source>
-        <translation>número demasiado grande en el cuantificador {}</translation>
+        <translation>number too big in {} quantifier</translation>
     </message>
     <message>
         <source>unrecognized character after (?&lt;</source>
-        <translation>carácter no reconocido tras (?&lt;</translation>
+        <translation>அறியப்படாத எழுத்து (?&lt;</translation>
     </message>
     <message>
         <source>unrecognized character after (?P</source>
-        <translation>carácter nor reconocido tras (?P</translation>
+        <translation>unrecognized character after (?P</translation>
     </message>
     <message>
         <source>parentheses are too deeply nested</source>
-        <translation>paréntesis tiene demasiados elementos anidados</translation>
+        <translation>parentheses are too deeply nested</translation>
     </message>
     <message>
         <source>erroffset passed as NULL</source>
-        <translation>erroffset pasada como NULL</translation>
+        <translation>erroffset passed as NULL</translation>
     </message>
     <message>
         <source>subpattern name is too long (maximum 32 characters)</source>
-        <translation>el nombre de subpatrón es demasiado grande (máximo de 32 caracteres)</translation>
+        <translation>துணைப் பெயர் மிக நீளமாக உள்ளது (அதிகபட்சம் 32 எழுத்துகள்)</translation>
     </message>
     <message>
         <source>non-octal character in \o{} (closing brace missing?)</source>
-        <translation>carácter no octal en \o{} (¿es posible que se haya olvidado el carácter «}»?)</translation>
+        <translation>non-octal character in \o{} (closing brace missing?)</translation>
     </message>
     <message>
         <source>closing ) for (?C expected</source>
-        <translation>cierre de paréntesis ) esperado para (?C</translation>
+        <translation>மூடுவது ) க்கு (?C எதிர்பார்க்கப்படுகிறது</translation>
     </message>
     <message>
         <source>disallowed Unicode code point (&gt;= 0xd800 &amp;&amp; &lt;= 0xdfff)</source>
-        <translation>código Unicode no permitido (&gt;= 0xd800 &amp;&amp; &lt;= 0xdfff)</translation>
+        <translation>அனுமதிக்கப்படாத யூனிகோட் குறியீடு புள்ளி (&gt;= 0xd800 &amp;&amp; &lt;= 0xdfff)</translation>
     </message>
     <message>
         <source>malformed \P or \p sequence</source>
-        <translation>secuencia \P o \p mal formada</translation>
+        <translation>தவறான \P அல்லது \p வரிசை</translation>
     </message>
     <message>
         <source>\ at end of pattern</source>
-        <translation>\ al final del patrón</translation>
+        <translation>\ வடிவத்தின் முடிவில்</translation>
     </message>
     <message>
         <source>POSIX collating elements are not supported</source>
-        <translation>elementos de clasificación POSIX no están soportados</translation>
+        <translation>POSIX collating elements are not supported</translation>
     </message>
     <message>
         <source>repeating a DEFINE group is not allowed</source>
-        <translation>la repetición de un grupo DEFINE no está permitida</translation>
+        <translation>DEFINE குழுவை மீண்டும் செய்வது அனுமதிக்கப்படாது</translation>
     </message>
     <message>
         <source>unrecognized character after (? or (?-</source>
-        <translation>carácter no reconocido tras (? o (?-</translation>
+        <translation>unrecognized character after (? or (?-</translation>
     </message>
     <message>
         <source>numbers out of order in {} quantifier</source>
-        <translation>números no ordenados en el cuantificador {}</translation>
+        <translation>numbers out of order in {} quantifier</translation>
     </message>
     <message>
         <source>DEFINE group contains more than one branch</source>
-        <translation>el grupo DEFINE contiene más de una bifurcación</translation>
+        <translation>DEFINE குழு ஒன்றுக்கு மேற்பட்ட கிளைகளைக் கொண்டுள்ளது</translation>
     </message>
     <message>
         <source>\c must be followed by an ASCII character</source>
-        <translation>\c debe ser seguido por un carácter ASCII</translation>
+        <translation>\c ஐ தொடர்ந்து ASCII எழுத்து இருக்க வேண்டும்</translation>
     </message>
     <message>
         <source>unknown POSIX class name</source>
-        <translation>nombre de clase POSIX desconocido</translation>
+        <translation>தெரியாத POSIX வகுப்பு பெயர்</translation>
     </message>
     <message>
         <source>conditional group contains more than two branches</source>
-        <translation>el grupo condicional contiene más de dos ramificaciones</translation>
+        <translation>நிபந்தனை குழுவில் இரண்டுக்கும் மேற்பட்ட கிளைகள் உள்ளன</translation>
     </message>
     <message>
         <source>lookbehind assertion is not fixed length</source>
-        <translation>la aserción lookbehind no tiene tamaño fijo</translation>
+        <translation>lookbehind வலியுறுத்தல் நிலையான நீளம் அல்ல</translation>
     </message>
     <message>
         <source>missing ) after comment</source>
-        <translation>falta ) tras el comentario</translation>
+        <translation>கருத்துக்குப் பிறகு ) காணவில்லை</translation>
     </message>
     <message>
         <source>too many named subpatterns (maximum 10000)</source>
-        <translation>demasiados subpatrones con nombre (el máximo es 10000)</translation>
+        <translation>பல பெயரிடப்பட்ட துணை வடிவங்கள் (அதிகபட்சம் 10000)</translation>
     </message>
     <message>
         <source>digits missing in \x{} or \o{}</source>
-        <translation>faltan dígitos en \x{} o \o{}</translation>
+        <translation>\x{} அல்லது \o{} இல் இலக்கங்கள் இல்லை</translation>
     </message>
     <message>
         <source>internal error: unknown opcode in find_fixedlength()</source>
-        <translation>error interno: código de operación desconocido in find_fixedlength()</translation>
+        <translation>internal error: unknown opcode in find_fixedlength()</translation>
     </message>
     <message>
         <source>different names for subpatterns of the same number are not allowed</source>
-        <translation>no están permitidos los nombres diferentes para subpatrones del mismo número</translation>
+        <translation>ஒரே எண்ணின் துணை வடிவங்களுக்கு வெவ்வேறு பெயர்கள் அனுமதிக்கப்படாது</translation>
     </message>
 </context>
 <context>
     <name>QOCIResult</name>
     <message>
         <source>Unable to get statement type</source>
-        <translation>No se ha podido obtener el tipo de instrucción</translation>
+        <translation>அறிக்கை வகையைப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to alloc statement</source>
-        <translation>No es posible asignar la instrucción</translation>
+        <translation>Unable to alloc statement</translation>
     </message>
     <message>
         <source>Unable to goto next</source>
-        <translation>No es posible pasar al siguiente</translation>
+        <translation>Unable to goto next</translation>
     </message>
     <message>
         <source>Unable to execute statement</source>
-        <translation>No es posible ejecutar la instrucción</translation>
+        <translation>அறிக்கையை செயல்படுத்த முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to bind column for batch execute</source>
-        <translation>No es posible ligar la columna para una ejecución por lotes</translation>
+        <translation>Unable to bind column for batch execute</translation>
     </message>
     <message>
         <source>Unable to prepare statement</source>
-        <translation>No es posible preparar la instrucción</translation>
+        <translation>அறிக்கையைத் தயாரிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to execute batch statement</source>
-        <translation>No es posible ejecutar la instrucción por lotes</translation>
+        <translation>Unable to execute batch statement</translation>
     </message>
     <message>
         <source>Unable to bind value</source>
-        <translation>No es posible ligar el valor</translation>
+        <translation>Unable to bind value</translation>
     </message>
 </context>
 <context>
     <name>QFontDialog</name>
     <message>
         <source>&amp;Font</source>
-        <translation>&amp;Tipo de letra</translation>
+        <translation>&amp;Font</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation>&amp;Tamaño</translation>
+        <translation>&amp;அளவு</translation>
     </message>
     <message>
         <source>Sample</source>
-        <translation>Muestra</translation>
+        <translation>Sample</translation>
     </message>
     <message>
         <source>Font st&amp;yle</source>
-        <translation>&amp;Estilo del tipo de letra</translation>
+        <translation>எழுத்துரு st&amp;yle</translation>
     </message>
     <message>
         <source>Wr&amp;iting System</source>
-        <translation>Sistema de escr&amp;itura</translation>
+        <translation>எழுதுதல் அமைப்பு</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation>Seleccionar un tipo de letra</translation>
+        <translation>எழுத்துருவைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>S&amp;ubrayado</translation>
+        <translation>&amp;Underline</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation>Efectos</translation>
+        <translation>Effects</translation>
     </message>
     <message>
         <source>Stri&amp;keout</source>
-        <translation>&amp;Tachado</translation>
+        <translation>ஸ்ட்ரை&amp;கிஅவுட்</translation>
     </message>
 </context>
 <context>
     <name>QColorDialog</name>
     <message>
         <source>&amp;Red:</source>
-        <translation>&amp;Rojo:</translation>
+        <translation>&amp;Red:</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>&amp;Saturación:</translation>
+        <translation>&amp;சனி:</translation>
     </message>
     <message>
         <source>&amp;Val:</source>
-        <translation>&amp;Valor:</translation>
+        <translation>&amp;Val:</translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation>&amp;Tono:</translation>
+        <translation>Hu&amp;e:</translation>
     </message>
     <message>
         <source>&amp;HTML:</source>
@@ -4182,800 +4181,800 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation>Selecciona color</translation>
+        <translation>வண்ணத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
-        <translation>&amp;Añadir a los colores personalizados</translation>
+        <translation>&amp;தனிப்பயன் வண்ணங்களில் சேர்</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation>Az&amp;ul:</translation>
+        <translation>Bl&amp;ue:</translation>
     </message>
     <message>
         <source>&amp;Pick Screen Color</source>
-        <translation>Tomar un color de la &amp;pantalla</translation>
+        <translation>&amp;Pick Screen Color</translation>
     </message>
     <message>
         <source>Cursor at %1, %2
 Press ESC to cancel</source>
-        <translation>Cursor en %1, %2
-Presiona ESC para cancelar</translation>
+        <translation>Cursor at %1, %2
+Press ESC to cancel</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation>&amp;Verde:</translation>
+        <translation>&amp;பச்சை:</translation>
     </message>
     <message>
         <source>&amp;Basic colors</source>
-        <translation>Colores &amp;básicos</translation>
+        <translation>&amp;Basic colors</translation>
     </message>
     <message>
         <source>&amp;Custom colors</source>
-        <translation>&amp;Colores personalizados</translation>
+        <translation>&amp;Custom colors</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation>Canal a&amp;lfa:</translation>
+        <translation>A&amp;lpha channel:</translation>
     </message>
 </context>
 <context>
     <name>QSharedMemory</name>
     <message>
         <source>%1: system-imposed size restrictions</source>
-        <translation>%1: el sistema ha impuesto restricciones de tamaño</translation>
+        <translation>%1: அமைப்பு விதித்த அளவு கட்டுப்பாடுகள்</translation>
     </message>
     <message>
         <source>%1: key is empty</source>
-        <translation>%1: la clave está vacía</translation>
+        <translation>%1: விசை காலியாக உள்ளது</translation>
     </message>
     <message>
         <source>%1: key error</source>
-        <translation>%1: error de clave</translation>
+        <translation>%1: முக்கிய பிழை</translation>
     </message>
     <message>
         <source>%1: bad name</source>
-        <translation>%1: nombre inválido</translation>
+        <translation>%1: bad name</translation>
     </message>
     <message>
         <source>%1: create size is less then 0</source>
-        <translation>%1: el tamaño de creación is menor que 0</translation>
+        <translation>%1: create size is less then 0</translation>
     </message>
     <message>
         <source>%1: already exists</source>
-        <translation>%1: ya existe</translation>
+        <translation>%1: ஏற்கனவே உள்ளது</translation>
     </message>
     <message>
         <source>%1: unknown error %2</source>
-        <translation>%1: error desconocido %2</translation>
+        <translation>%1: unknown error %2</translation>
     </message>
     <message>
         <source>%1: invalid size</source>
-        <translation>%1: tamaño inválido</translation>
+        <translation>%1: தவறான அளவு</translation>
     </message>
     <message>
         <source>%1: unable to make key</source>
-        <translation>%1: imposible crear clave</translation>
+        <translation>%1: விசையை உருவாக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>%1: unable to set key on lock</source>
-        <translation>%1: no se ha podido poner clave en bloqueo</translation>
+        <translation>%1: unable to set key on lock</translation>
     </message>
     <message>
         <source>%1: unable to unlock</source>
-        <translation>%1: no se ha podido desbloquear</translation>
+        <translation>%1: திறக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation>%1: permiso denegado</translation>
+        <translation>%1: அனுமதி மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
-        <translation>%1: ftok falló</translation>
+        <translation>%1: ftok failed</translation>
     </message>
     <message>
         <source>%1: out of resources</source>
-        <translation>%1: falta de recursos</translation>
+        <translation>%1: ஆதாரங்கள் இல்லை</translation>
     </message>
     <message>
         <source>%1: not attached</source>
-        <translation>%1: no adjuntado</translation>
+        <translation>%1: not attached</translation>
     </message>
     <message>
-        <source>%1: UNIX key file doesn&apos;t exist</source>
-        <translation>%1: el archivo clave UNIX no existe</translation>
+        <source>%1: UNIX key file doesn't exist</source>
+        <translation>%1: UNIX விசைக் கோப்பு இல்லை</translation>
     </message>
     <message>
-        <source>%1: doesn&apos;t exist</source>
-        <translation>%1: no existe</translation>
+        <source>%1: doesn't exist</source>
+        <translation>%1: doesn't exist</translation>
     </message>
     <message>
         <source>%1: size query failed</source>
-        <translation>%1: la consulta del tamaño falló</translation>
+        <translation>%1: அளவு வினவல் தோல்வியடைந்தது</translation>
     </message>
     <message>
         <source>%1: unable to lock</source>
-        <translation>%1: no se ha podido bloquear</translation>
+        <translation>%1: unable to lock</translation>
     </message>
 </context>
 <context>
     <name>QXmlStream</name>
     <message>
-        <source>Reference to unparsed entity &apos;%1&apos;.</source>
-        <translation>Referencia a una entidad no analizada «%1».</translation>
+        <source>Reference to unparsed entity '%1'.</source>
+        <translation>Reference to unparsed entity '%1'.</translation>
     </message>
     <message>
-        <source>Unexpected character &apos;%1&apos; in public id literal.</source>
-        <translation>Carácter «%1» inesperado en un literal de identificación público.</translation>
+        <source>Unexpected character '%1' in public id literal.</source>
+        <translation>Unexpected character '%1' in public id literal.</translation>
     </message>
     <message>
         <source>Illegal namespace declaration.</source>
-        <translation>Declaración de espacio de nombres ilegal.</translation>
+        <translation>Illegal namespace declaration.</translation>
     </message>
     <message>
         <source>Invalid XML character.</source>
-        <translation>Carácter XML no válido.</translation>
+        <translation>Invalid XML character.</translation>
     </message>
     <message>
         <source>Expected character data.</source>
-        <translation>Se esperaban datos de carácter.</translation>
+        <translation>எதிர்பார்க்கப்படும் எழுத்துத் தரவு.</translation>
     </message>
     <message>
         <source>Standalone accepts only yes or no.</source>
-        <translation>«Standalone» sólo acepta «sí» o «no».</translation>
+        <translation>Standalone accepts only yes or no.</translation>
     </message>
     <message>
         <source>Invalid XML version string.</source>
-        <translation>Cadena de versión XML no válida.</translation>
+        <translation>தவறான XML பதிப்பு சரம்.</translation>
     </message>
     <message>
         <source>Invalid processing instruction name.</source>
-        <translation>Nombre de instrucción de procesamiento no válido.</translation>
+        <translation>தவறான செயலாக்க வழிமுறை பெயர்.</translation>
     </message>
     <message>
-        <source>Namespace prefix &apos;%1&apos; not declared</source>
-        <translation>Prefijo de espacio de nombres «%1» no declarado</translation>
+        <source>Namespace prefix '%1' not declared</source>
+        <translation>Namespace prefix '%1' not declared</translation>
     </message>
     <message>
-        <source>Entity &apos;%1&apos; not declared.</source>
-        <translation>Entidad «%1» no declarada.</translation>
+        <source>Entity '%1' not declared.</source>
+        <translation>Entity '%1' not declared.</translation>
     </message>
     <message>
         <source>%1 is an invalid processing instruction name.</source>
-        <translation>%1 es un nombre de instrucción de procesamiento no válido.</translation>
+        <translation>%1 is an invalid processing instruction name.</translation>
     </message>
     <message>
         <source>The standalone pseudo attribute must appear after the encoding.</source>
-        <translation>El pseudoatributo «standalone» debe aparece después de la codificación.</translation>
+        <translation>The standalone pseudo attribute must appear after the encoding.</translation>
     </message>
     <message>
-        <source>Sequence &apos;]]&gt;&apos; not allowed in content.</source>
-        <translation>Secuencia «]]&gt;» no permitida en el contenido.</translation>
+        <source>Sequence ']]&gt;' not allowed in content.</source>
+        <translation>Sequence ']]&gt;' not allowed in content.</translation>
     </message>
     <message>
         <source>%1 is an invalid encoding name.</source>
-        <translation>%1 es un nombre de codificación no válido.</translation>
+        <translation>%1 is an invalid encoding name.</translation>
     </message>
     <message>
-        <source>, but got &apos;</source>
-        <translation>, pero se ha recibido &apos;</translation>
+        <source>, but got '</source>
+        <translation>, but got '</translation>
     </message>
     <message>
         <source>Start tag expected.</source>
-        <translation>Se esperaba etiqueta de inicio.</translation>
+        <translation>Start tag expected.</translation>
     </message>
     <message>
         <source>Invalid character reference.</source>
-        <translation>Referencia un carácter no válido.</translation>
+        <translation>தவறான எழுத்து குறிப்பு.</translation>
     </message>
     <message>
-        <source>Reference to external entity &apos;%1&apos; in attribute value.</source>
-        <translation>Referencia a una entidad externa «%1» en el valor del atributo.</translation>
+        <source>Reference to external entity '%1' in attribute value.</source>
+        <translation>பண்பு மதிப்பில் '%1' என்ற வெளிப்புற உட்பொருளுக்கான குறிப்பு.</translation>
     </message>
     <message>
         <source>Expected </source>
-        <translation>Se esperaba </translation>
+        <translation>Expected </translation>
     </message>
     <message>
         <source>Invalid document.</source>
-        <translation>Documento no válido.</translation>
+        <translation>Invalid document.</translation>
     </message>
     <message>
         <source>Opening and ending tag mismatch.</source>
-        <translation>Las etiquetas de apertura y cierre no coinciden.</translation>
+        <translation>Opening and ending tag mismatch.</translation>
     </message>
     <message>
         <source>Encountered incorrectly encoded content.</source>
-        <translation>Contenido codificado incorrectamente encontrado.</translation>
+        <translation>Encountered incorrectly encoded content.</translation>
     </message>
     <message>
         <source>Invalid attribute in XML declaration.</source>
-        <translation>Atributo no válido en la declaración XML.</translation>
+        <translation>XML அறிவிப்பில் தவறான பண்புக்கூறு.</translation>
     </message>
     <message>
         <source>%1 is an invalid PUBLIC identifier.</source>
-        <translation>%1 no es un identificador PUBLIC válido.</translation>
+        <translation>%1 is an invalid PUBLIC identifier.</translation>
     </message>
     <message>
         <source>Extra content at end of document.</source>
-        <translation>Contenido extra al final del documento.</translation>
+        <translation>Extra content at end of document.</translation>
     </message>
     <message>
-        <source>Attribute &apos;%1&apos; redefined.</source>
-        <translation>El atributo «%1» está redefinido.</translation>
+        <source>Attribute '%1' redefined.</source>
+        <translation>Attribute '%1' redefined.</translation>
     </message>
     <message>
         <source>Invalid XML name.</source>
-        <translation>Nombre XML no válido.</translation>
+        <translation>Invalid XML name.</translation>
     </message>
     <message>
         <source>Premature end of document.</source>
-        <translation>Final prematuro del documento.</translation>
+        <translation>ஆவணத்தின் முன்கூட்டிய முடிவு.</translation>
     </message>
     <message>
         <source>XML declaration not at start of document.</source>
-        <translation>La declaración XML no está al principio del documento.</translation>
+        <translation>எக்ஸ்எம்எல் அறிவிப்பு ஆவணத்தின் தொடக்கத்தில் இல்லை.</translation>
     </message>
     <message>
         <source>Recursive entity detected.</source>
-        <translation>Detectada entidad recursiva.</translation>
+        <translation>சுழல்நிலை பொருள் கண்டறியப்பட்டது.</translation>
     </message>
     <message>
         <source>Unsupported XML version.</source>
-        <translation>Versión XML no soportada.</translation>
+        <translation>ஆதரிக்கப்படாத XML பதிப்பு.</translation>
     </message>
     <message>
-        <source>Unexpected &apos;</source>
-        <translation>No se esperaba &apos;</translation>
+        <source>Unexpected '</source>
+        <translation>எதிர்பாராதது'</translation>
     </message>
     <message>
         <source>Invalid entity value.</source>
-        <translation>Valor de la entidad no válido.</translation>
+        <translation>Invalid entity value.</translation>
     </message>
     <message>
         <source>Encoding %1 is unsupported</source>
-        <translation>No se admite la codificación %1</translation>
+        <translation>%1 என்கோடிங் ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>NDATA in parameter entity declaration.</source>
-        <translation>NDATA en una declaración de entidad parámetro.</translation>
+        <translation>அளவுரு நிறுவன அறிவிப்பில் NDATA.</translation>
     </message>
 </context>
 <context>
     <name>QProcess</name>
     <message>
         <source>Error writing to process</source>
-        <translation>Error escribiendo al proceso</translation>
+        <translation>செயலாக்க எழுதுவதில் பிழை</translation>
     </message>
     <message>
         <source>Resource error (fork failure): %1</source>
-        <translation>Error de recurso (fallo al bifurcar el proceso): %1</translation>
+        <translation>Resource error (fork failure): %1</translation>
     </message>
     <message>
         <source>Error reading from process</source>
-        <translation>Error leyendo del proceso</translation>
+        <translation>செயல்முறையிலிருந்து படிப்பதில் பிழை</translation>
     </message>
     <message>
         <source>Process failed to start</source>
-        <translation>El proceso no se ha podido iniciar</translation>
+        <translation>செயல்முறை தொடங்குவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Process failed to start: %1</source>
-        <translation>El proceso no se ha podido iniciar: %1</translation>
+        <translation>Process failed to start: %1</translation>
     </message>
     <message>
         <source>Could not open input redirection for reading</source>
-        <translation>No se puede abrir la redirección de entrada para lectura</translation>
+        <translation>Could not open input redirection for reading</translation>
     </message>
     <message>
         <source>No program defined</source>
-        <translation>No se ha definido un proceso</translation>
+        <translation>No program defined</translation>
     </message>
     <message>
         <source>Could not open output redirection for writing</source>
-        <translation>No se puede abrir la redirección de salida para escritura</translation>
+        <translation>எழுதுவதற்கான வெளியீட்டு திசைதிருப்பலை திறக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Process operation timed out</source>
-        <translation>Tiempo de espera para la operación con el proceso ha expirado</translation>
+        <translation>செயல்முறை செயல்பாடு நேரம் முடிந்தது</translation>
     </message>
     <message>
         <source>Process crashed</source>
-        <translation>Fallo en el proceso</translation>
+        <translation>Process crashed</translation>
     </message>
 </context>
 <context>
     <name>QNativeSocketEngine</name>
     <message>
         <source>The proxy type is invalid for this operation</source>
-        <translation>El tipo de proxy es inváildo para esta operación</translation>
+        <translation>இந்த செயல்பாட்டிற்கு ப்ராக்ஸி வகை தவறானது</translation>
     </message>
     <message>
         <source>Network operation timed out</source>
-        <translation>La operación de red ha expirado</translation>
+        <translation>நெட்வொர்க் செயல்பாடு நேரம் முடிந்தது</translation>
     </message>
     <message>
         <source>The remote host closed the connection</source>
-        <translation>El equipo remoto ha cerrado la conexión</translation>
+        <translation>ரிமோட் ஹோஸ்ட் இணைப்பை மூடியது</translation>
     </message>
     <message>
         <source>Invalid socket descriptor</source>
-        <translation>Descriptor de socket no válido</translation>
+        <translation>தவறான சாக்கெட் டிஸ்கிரிப்டர்</translation>
     </message>
     <message>
         <source>Host unreachable</source>
-        <translation>Equipo inaccesible</translation>
+        <translation>ஹோஸ்ட் கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>Protocol type not supported</source>
-        <translation>Tipo de protocolo no admitido</translation>
+        <translation>நெறிமுறை வகை ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Datagram was too large to send</source>
-        <translation>El datagrama era demasiado grande para poder ser enviado</translation>
+        <translation>டேட்டாகிராம் அனுப்ப முடியாத அளவுக்கு பெரிதாக இருந்தது</translation>
     </message>
     <message>
         <source>Network dropped connection on reset</source>
-        <translation>La red cerró la conexión al resetear</translation>
+        <translation>மீட்டமைக்கும்போது பிணைய இணைப்பு துண்டிக்கப்பட்டது</translation>
     </message>
     <message>
         <source>Attempt to use IPv6 socket on a platform with no IPv6 support</source>
-        <translation>Intento de usar un socket IPv6 sobre una plataforma que no contempla IPv6</translation>
+        <translation>IPv6 ஆதரவு இல்லாத மேடையில் IPv6 சாக்கெட்டைப் பயன்படுத்த முயற்சிக்கவும்</translation>
     </message>
     <message>
         <source>Unable to receive a message</source>
-        <translation>Imposible recibir un mensaje</translation>
+        <translation>செய்தியைப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation>Permiso denegado</translation>
+        <translation>Permission denied</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation>Conexión rechazada</translation>
+        <translation>இணைப்பு மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>Unable to write</source>
-        <translation>Imposible escribir</translation>
+        <translation>எழுத முடியவில்லை</translation>
     </message>
     <message>
         <source>Another socket is already listening on the same port</source>
-        <translation>Ya hay otro socket escuchando por el mismo puerto</translation>
+        <translation>மற்றொரு சாக்கெட் ஏற்கனவே அதே போர்ட்டில் கேட்கிறது</translation>
     </message>
     <message>
         <source>Unable to send a message</source>
-        <translation>Imposible enviar un mensaje</translation>
+        <translation>Unable to send a message</translation>
     </message>
     <message>
         <source>The bound address is already in use</source>
-        <translation>La dirección enlazada ya está en uso</translation>
+        <translation>The bound address is already in use</translation>
     </message>
     <message>
         <source>Connection timed out</source>
-        <translation>Conexión expirada</translation>
+        <translation>இணைப்பு நேரம் முடிந்தது</translation>
     </message>
     <message>
         <source>Network error</source>
-        <translation>Error de red</translation>
+        <translation>நெட்வொர்க் பிழை</translation>
     </message>
     <message>
         <source>Unsupported socket operation</source>
-        <translation>Operación socket no admitida</translation>
+        <translation>Unsupported socket operation</translation>
     </message>
     <message>
         <source>Operation on non-socket</source>
-        <translation>Operación sobre un no-socket</translation>
+        <translation>Operation on non-socket</translation>
     </message>
     <message>
         <source>Unable to initialize broadcast socket</source>
-        <translation>Imposible inicializar el socket de difusión</translation>
+        <translation>Unable to initialize broadcast socket</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>அறியப்படாத பிழை</translation>
     </message>
     <message>
         <source>Unable to initialize non-blocking socket</source>
-        <translation>Imposible inicializar el socket no bloqueante</translation>
+        <translation>தடுக்காத சாக்கெட்டை துவக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>The address is protected</source>
-        <translation>La dirección está protegida</translation>
+        <translation>The address is protected</translation>
     </message>
     <message>
         <source>Network unreachable</source>
-        <translation>Red inalcanzable</translation>
+        <translation>நெட்வொர்க்கை அணுக முடியவில்லை</translation>
     </message>
     <message>
         <source>The address is not available</source>
-        <translation>La dirección no está disponible</translation>
+        <translation>முகவரி கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>Temporary error</source>
-        <translation>Error temporal</translation>
+        <translation>Temporary error</translation>
     </message>
     <message>
         <source>Out of resources</source>
-        <translation>Insuficientes recursos</translation>
+        <translation>வளங்கள் இல்லை</translation>
     </message>
     <message>
         <source>Connection reset by peer</source>
-        <translation>Conexión reiniciada</translation>
+        <translation>பியர் மூலம் இணைப்பு மீட்டமைக்கப்பட்டது</translation>
     </message>
 </context>
 <context>
     <name>QNetworkAccessFtpBackend</name>
     <message>
         <source>No suitable proxy found</source>
-        <translation>Proxy válido no encontrado</translation>
+        <translation>No suitable proxy found</translation>
     </message>
     <message>
         <source>Error while downloading %1: %2</source>
-        <translation>Error mientras se estaba descargando %1: %2</translation>
+        <translation>%1: %2 பதிவிறக்குவதில் பிழை</translation>
     </message>
     <message>
         <source>Error while uploading %1: %2</source>
-        <translation>Error mientras se mandaba %1: %2</translation>
+        <translation>பதிவேற்றுவதில் பிழை %1: %2</translation>
     </message>
     <message>
         <source>Cannot open %1: is a directory</source>
-        <translation>No se puede abrir %1: es un directorio</translation>
+        <translation>%1: என்பது ஒரு கோப்பகத்தைத் திறக்க முடியாது</translation>
     </message>
     <message>
         <source>Logging in to %1 failed: authentication required</source>
-        <translation>Fallo al hacer login en %1: autenticación requerida</translation>
+        <translation>%1 இல் உள்நுழைவது தோல்வியடைந்தது: அங்கீகாரம் தேவை</translation>
     </message>
 </context>
 <context>
     <name>QNetworkReplyHttpImpl</name>
     <message>
         <source>No suitable proxy found</source>
-        <translation>No se encontró un proxy válido</translation>
+        <translation>பொருத்தமான ப்ராக்ஸி கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>Operation canceled</source>
-        <translation>Operación cancelada</translation>
+        <translation>செயல்பாடு ரத்து செய்யப்பட்டது</translation>
     </message>
 </context>
 <context>
     <name>QDockWidget</name>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>மூடு</translation>
     </message>
     <message>
         <source>Float</source>
-        <translation>Flotante</translation>
+        <translation>மிதவை</translation>
     </message>
     <message>
         <source>Undocks and re-attaches the dock widget</source>
-        <translation>Desacopla y vuelve a adjuntar el widget acoplable</translation>
+        <translation>டாக் விட்ஜெட்டை அன்டாக் செய்து மீண்டும் இணைக்கிறது</translation>
     </message>
     <message>
         <source>Closes the dock widget</source>
-        <translation>Cierra el widget acoplable</translation>
+        <translation>டாக் விட்ஜெட்டை மூடுகிறது</translation>
     </message>
 </context>
 <context>
     <name>QAccessibleActionInterface</name>
     <message>
         <source>Press</source>
-        <translation>Pulsar</translation>
+        <translation>அழுத்தவும்</translation>
     </message>
     <message>
         <source>Shows the menu</source>
-        <translation>Muestra el menú</translation>
+        <translation>மெனுவைக் காட்டுகிறது</translation>
     </message>
     <message>
         <source>Scrolls to the left</source>
-        <translation>Desplazar hacia la izquierda</translation>
+        <translation>இடதுபுறமாக உருட்டுகிறது</translation>
     </message>
     <message>
         <source>Scroll Down</source>
-        <translation>Desplazar hacia abajo</translation>
+        <translation>கீழே உருட்டவும்</translation>
     </message>
     <message>
         <source>Scroll Left</source>
-        <translation>Desplazar hacia la izquierda</translation>
+        <translation>இடதுபுறமாக உருட்டவும்</translation>
     </message>
     <message>
         <source>Goes back a page</source>
-        <translation>Retrocede una página</translation>
+        <translation>ஒரு பக்கம் திரும்புகிறது</translation>
     </message>
     <message>
         <source>Triggers the action</source>
-        <translation>Desencadena la acción</translation>
+        <translation>செயலைத் தூண்டுகிறது</translation>
     </message>
     <message>
         <source>Increase</source>
-        <translation>Incrementar</translation>
+        <translation>அதிகரிக்கவும்</translation>
     </message>
     <message>
         <source>Toggle</source>
-        <translation>Conmutar</translation>
+        <translation>நிலைமாற்று</translation>
     </message>
     <message>
         <source>Toggles the state</source>
-        <translation>Conmuta el estado</translation>
+        <translation>மாநிலத்தை மாற்றுகிறது</translation>
     </message>
     <message>
         <source>Scrolls up</source>
-        <translation>Desplazar hacia arriba</translation>
+        <translation>மேலே உருட்டுகிறது</translation>
     </message>
     <message>
         <source>Scrolls down</source>
-        <translation>Desplazar hacia abajo</translation>
+        <translation>கீழே உருட்டுகிறது</translation>
     </message>
     <message>
         <source>Scroll Up</source>
-        <translation>Desplazar hacia arriba</translation>
+        <translation>மேலே உருட்டவும்</translation>
     </message>
     <message>
         <source>Goes to the next page</source>
-        <translation>Va a la página siguiente</translation>
+        <translation>அடுத்த பக்கத்திற்கு செல்கிறது</translation>
     </message>
     <message>
         <source>Scrolls to the right</source>
-        <translation>Desplazar hacia la derecha</translation>
+        <translation>வலதுபுறமாக உருட்டுகிறது</translation>
     </message>
     <message>
         <source>Increase the value</source>
-        <translation>Incrementa el valor</translation>
+        <translation>மதிப்பை அதிகரிக்கவும்</translation>
     </message>
     <message>
         <source>Decrease the value</source>
-        <translation>Decrementa el valor</translation>
+        <translation>மதிப்பைக் குறைக்கவும்</translation>
     </message>
     <message>
         <source>Decrease</source>
-        <translation>Decrementar</translation>
+        <translation>குறைக்கவும்</translation>
     </message>
     <message>
         <source>Scroll Right</source>
-        <translation>Desplazar hacia la derecha</translation>
+        <translation>வலதுபுறமாக உருட்டவும்</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation>Página anterior</translation>
+        <translation>முந்தைய பக்கம்</translation>
     </message>
     <message>
         <source>Sets the focus</source>
-        <translation>Pone el foco</translation>
+        <translation>கவனத்தை அமைக்கிறது</translation>
     </message>
     <message>
         <source>SetFocus</source>
-        <translation>PonerFoco</translation>
+        <translation>செட்ஃபோகஸ்</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation>Página siguiente</translation>
+        <translation>அடுத்த பக்கம்</translation>
     </message>
     <message>
         <source>ShowMenu</source>
-        <translation>MostrarMenú</translation>
+        <translation>ஷோமெனு</translation>
     </message>
 </context>
 <context>
     <name>QSocks5SocketEngine</name>
     <message>
         <source>Network operation timed out</source>
-        <translation>El tiempo de espera por la operación de red ha expirado</translation>
+        <translation>நெட்வொர்க் செயல்பாடு நேரம் முடிந்தது</translation>
     </message>
     <message>
         <source>Connection to proxy closed prematurely</source>
-        <translation>La conexión con el proxy se cerró prematuramente</translation>
+        <translation>ப்ராக்ஸிக்கான இணைப்பு முன்கூட்டியே மூடப்பட்டது</translation>
     </message>
     <message>
         <source>Proxy authentication failed: %1</source>
-        <translation>La autenticación del proxy falló: %1</translation>
+        <translation>ப்ராக்ஸி அங்கீகாரம் தோல்வியடைந்தது: %1</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation>La autenticación del proxy falló</translation>
+        <translation>Proxy authentication failed</translation>
     </message>
     <message>
         <source>General SOCKSv5 server failure</source>
-        <translation>Fallo general del servidor SOCKSv5</translation>
+        <translation>பொது SOCKSv5 சர்வர் தோல்வி</translation>
     </message>
     <message>
         <source>Unknown SOCKSv5 proxy error code 0x%1</source>
-        <translation>Código de error de SOCKSv5 proxy desconocido 0x%1</translation>
+        <translation>Unknown SOCKSv5 proxy error code 0x%1</translation>
     </message>
     <message>
         <source>Connection not allowed by SOCKSv5 server</source>
-        <translation>Conexión no permitida por el servidor SOCKSv5</translation>
+        <translation>SOCKSv5 சேவையகத்தால் இணைப்பு அனுமதிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>SOCKSv5 command not supported</source>
-        <translation>Comando no soportado por SOCKSv5</translation>
+        <translation>SOCKSv5 கட்டளை ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Connection to proxy timed out</source>
-        <translation>El tiempo de conexión al proxy expiró</translation>
+        <translation>ப்ராக்ஸிக்கான இணைப்பு நேரம் முடிந்தது</translation>
     </message>
     <message>
         <source>Proxy host not found</source>
-        <translation>El servidor no se ha encontrado</translation>
+        <translation>ப்ராக்ஸி ஹோஸ்ட் கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>TTL expired</source>
-        <translation>TTL expirado</translation>
+        <translation>TTL expired</translation>
     </message>
     <message>
         <source>Address type not supported</source>
-        <translation>Tipo de dirección no soportada</translation>
+        <translation>Address type not supported</translation>
     </message>
     <message>
         <source>Connection to proxy refused</source>
-        <translation>Conexión al proxy rechazada</translation>
+        <translation>ப்ராக்ஸிக்கான இணைப்பு மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>SOCKS version 5 protocol error</source>
-        <translation>SOCK versión 5 error de protocolo</translation>
+        <translation>SOCKS பதிப்பு 5 நெறிமுறை பிழை</translation>
     </message>
 </context>
 <context>
     <name>QDnsLookupRunnable</name>
     <message>
         <source>No hostname given</source>
-        <translation>No se dio nombre de equipo</translation>
+        <translation>No hostname given</translation>
     </message>
     <message>
         <source>Server failure</source>
-        <translation>Fallo del Servidor</translation>
+        <translation>Server failure</translation>
     </message>
     <message>
         <source>Invalid text record</source>
-        <translation>Registro de texto inválido</translation>
+        <translation>Invalid text record</translation>
     </message>
     <message>
         <source>Invalid mail exchange record</source>
-        <translation>Registro de intercambio de correo inválido</translation>
+        <translation>தவறான அஞ்சல் பரிமாற்ற பதிவு</translation>
     </message>
     <message>
         <source>Invalid canonical name record</source>
-        <translation>Registro de nombre canónico inválido</translation>
+        <translation>தவறான நியமன பெயர் பதிவு</translation>
     </message>
     <message>
         <source>Invalid service record</source>
-        <translation>Registro de servicio inválido</translation>
+        <translation>தவறான சேவை பதிவு</translation>
     </message>
     <message>
         <source>Non existent domain</source>
-        <translation>Dominio no existente</translation>
+        <translation>Non existent domain</translation>
     </message>
     <message>
         <source>Server could not process query</source>
-        <translation>El Servidor no pudo procesar la consulta</translation>
+        <translation>சேவையகத்தால் வினவலைச் செயல்படுத்த முடியவில்லை</translation>
     </message>
     <message>
         <source>Host %1 could not be found.</source>
-        <translation>Nombre de equipo %1 no pudo ser encontrado.</translation>
+        <translation>ஹோஸ்ட் %1 கண்டுபிடிக்க முடியவில்லை.</translation>
     </message>
     <message>
         <source>IPv6 addresses for nameservers are currently not supported</source>
-        <translation>Las direcciones IPv6 para los servidores de nombres no están actualmente soportadas</translation>
+        <translation>பெயர்செர்வர்களுக்கான IPv6 முகவரிகள் தற்போது ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Not yet supported on Android</source>
-        <translation>No está soportado todavía en Android</translation>
+        <translation>ஆண்ட்ராய்டில் இன்னும் ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Resolver functions not found</source>
-        <translation>Funciones de resolución no encontradas</translation>
+        <translation>தீர்க்கும் செயல்பாடுகள் காணப்படவில்லை</translation>
     </message>
     <message>
         <source>Invalid domain name</source>
-        <translation>Nombre de dominio inválido</translation>
+        <translation>தவறான டொமைன் பெயர்</translation>
     </message>
     <message>
         <source>Invalid pointer record</source>
-        <translation>Registro de puntero inválido</translation>
+        <translation>தவறான சுட்டி பதிவு</translation>
     </message>
     <message>
         <source>Invalid name server record</source>
-        <translation>Registro de servidor de nombres inválido</translation>
+        <translation>தவறான பெயர் சர்வர் பதிவு</translation>
     </message>
     <message>
-        <source>Resolver library can&apos;t be loaded: No runtime library loading support</source>
-        <translation>La biblioteca de resolución no pudo ser cargada: No runtime library loading support</translation>
+        <source>Resolver library can't be loaded: No runtime library loading support</source>
+        <translation>தீர்க்கும் நூலகத்தை ஏற்ற முடியாது: இயக்க நேர நூலகத்தை ஏற்றுவதற்கான ஆதரவு இல்லை</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>அறியப்படாத பிழை</translation>
     </message>
     <message>
         <source>Server refused to answer</source>
-        <translation>El Servidor rechazó contestar</translation>
+        <translation>சேவையகம் பதிலளிக்க மறுத்தது</translation>
     </message>
     <message>
         <source>Invalid hostname</source>
-        <translation>Nombre de equipo inválido</translation>
+        <translation>தவறான ஹோஸ்ட்பெயர்</translation>
     </message>
     <message>
         <source>Could not expand domain name</source>
-        <translation>No se pudo expandir el nombre del dominio</translation>
+        <translation>டொமைன் பெயரை விரிவாக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Resolver initialization failed</source>
-        <translation>Inicialización del Resolver fallada</translation>
+        <translation>தீர்க்கும் துவக்கம் தோல்வியடைந்தது</translation>
     </message>
     <message>
         <source>Invalid reply received</source>
-        <translation>Respuesta inválida recibida</translation>
+        <translation>தவறான பதில் கிடைத்தது</translation>
     </message>
     <message>
         <source>Invalid IPv6 address record</source>
-        <translation>Registro de dirección IPv6 inválida</translation>
+        <translation>தவறான IPv6 முகவரி பதிவு</translation>
     </message>
     <message>
         <source>Invalid IPv4 address record</source>
-        <translation>Registro de dirección IPv4 inválida</translation>
+        <translation>தவறான IPv4 முகவரி பதிவு</translation>
     </message>
 </context>
 <context>
     <name>QRegExp</name>
     <message>
         <source>invalid category</source>
-        <translation>categoría inválida</translation>
+        <translation>தவறான வகை</translation>
     </message>
     <message>
         <source>bad lookahead syntax</source>
-        <translation>sintaxis no válida para lookahead</translation>
+        <translation>மோசமான தோற்றம் தொடரியல்</translation>
     </message>
     <message>
         <source>no error occurred</source>
-        <translation>no se ha producido ningún error</translation>
+        <translation>பிழை ஏற்படவில்லை</translation>
     </message>
     <message>
         <source>missing left delim</source>
-        <translation>falta el delimitador izquierdo</translation>
+        <translation>இடது டெலிம் இல்லை</translation>
     </message>
     <message>
         <source>bad char class syntax</source>
-        <translation>sintaxis no válida para clase de caracteres</translation>
+        <translation>மோசமான சார் கிளாஸ் தொடரியல்</translation>
     </message>
     <message>
         <source>disabled feature used</source>
-        <translation>se ha usado una característica no habilitada</translation>
+        <translation>முடக்கப்பட்ட அம்சம் பயன்படுத்தப்பட்டது</translation>
     </message>
     <message>
         <source>invalid octal value</source>
-        <translation>valor octal no válido</translation>
+        <translation>தவறான எண் மதிப்பு</translation>
     </message>
     <message>
         <source>bad repetition syntax</source>
-        <translation>sintaxis no válida para repetición</translation>
+        <translation>மோசமான மீண்டும் தொடரியல்</translation>
     </message>
     <message>
         <source>met internal limit</source>
-        <translation>se alcanzó el límite interno</translation>
+        <translation>உள் வரம்பை சந்தித்தது</translation>
     </message>
     <message>
         <source>invalid interval</source>
-        <translation>intervalo inválido</translation>
+        <translation>தவறான இடைவெளி</translation>
     </message>
     <message>
         <source>unexpected end</source>
-        <translation>fin inesperado</translation>
+        <translation>unexpected end</translation>
     </message>
     <message>
         <source>lookbehinds not supported, see QTBUG-2371</source>
-        <translation>los lookbehinds no están soportados, mire QTBUG-2371</translation>
+        <translation>lookbehinds ஆதரிக்கப்படவில்லை, QTBUG-2371 ஐப் பார்க்கவும்</translation>
     </message>
 </context>
 <context>
     <name>QDialog</name>
     <message>
-        <source>What&apos;s This?</source>
-        <translation>¿Qué es esto?</translation>
+        <source>What's This?</source>
+        <translation>இது என்ன?</translation>
     </message>
 </context>
 <context>
     <name>QWhatsThisAction</name>
     <message>
-        <source>What&apos;s This?</source>
-        <translation>¿Qué es esto?</translation>
+        <source>What's This?</source>
+        <translation>இது என்ன?</translation>
     </message>
 </context>
 <context>
@@ -4983,1212 +4982,1212 @@ Presiona ESC para cancelar</translation>
     <message>
         <source>Listing directory failed:
 %1</source>
-        <translation>El listado del directorio ha fallado:
+        <translation>Listing directory failed:
 %1</translation>
     </message>
     <message>
         <source>Creating directory failed:
 %1</source>
-        <translation>Fallo de la creación de un directorio:
+        <translation>Creating directory failed:
 %1</translation>
     </message>
     <message>
         <source>Not connected</source>
-        <translation>No conectado</translation>
+        <translation>இணைக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Login failed:
 %1</source>
-        <translation>Identificación fallida:
+        <translation>Login failed:
 %1</translation>
     </message>
     <message>
         <source>Downloading file failed:
 %1</source>
-        <translation>Fallo de la descarga del fichero:
+        <translation>கோப்பைப் பதிவிறக்குவதில் தோல்வி:
 %1</translation>
     </message>
     <message>
         <source>Connection timed out to host %1</source>
-        <translation>Tiempo de espera expirado al conectar al servidor %1</translation>
+        <translation>%1 ஹோஸ்டுக்கான இணைப்பு நேரம் முடிந்தது</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
-        <translation>Conectado al equipo %1</translation>
+        <translation>ஹோஸ்ட் %1 உடன் இணைக்கப்பட்டது</translation>
     </message>
     <message>
         <source>Connecting to host failed:
 %1</source>
-        <translation>La conexión con el equipo ha fallado:
+        <translation>ஹோஸ்டுடன் இணைப்பதில் தோல்வி:
 %1</translation>
     </message>
     <message>
         <source>Host %1 not found</source>
-        <translation>Equipo %1 no encontrado</translation>
+        <translation>ஹோஸ்ட் %1 கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>Uploading file failed:
 %1</source>
-        <translation>El envío del fichero ha fallado:
+        <translation>கோப்பைப் பதிவேற்றுவதில் தோல்வி:
 %1</translation>
     </message>
     <message>
         <source>Changing directory failed:
 %1</source>
-        <translation>Fallo del cambio de directorio:
+        <translation>Changing directory failed:
 %1</translation>
     </message>
     <message>
         <source>Data Connection refused</source>
-        <translation>Conexión de datos denegada</translation>
+        <translation>தரவு இணைப்பு மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>Removing directory failed:
 %1</source>
-        <translation>Eliminación de directorio fallida:
+        <translation>கோப்பகத்தை அகற்றுவதில் தோல்வி:
 %1</translation>
     </message>
     <message>
         <source>Connection refused to host %1</source>
-        <translation>Conexión rechazada al equipo %1</translation>
+        <translation>Connection refused to host %1</translation>
     </message>
     <message>
         <source>Removing file failed:
 %1</source>
-        <translation>Eliminación de fichero fallida:
+        <translation>Removing file failed:
 %1</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>அறியப்படாத பிழை</translation>
     </message>
     <message>
         <source>Connection closed</source>
-        <translation>Conexión cerrada</translation>
+        <translation>இணைப்பு மூடப்பட்டது</translation>
     </message>
 </context>
 <context>
     <name>QDB2Driver</name>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>Incapaz de enviar la transacción</translation>
+        <translation>பரிவர்த்தனை செய்ய முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to set autocommit</source>
-        <translation>Incapaz de activar el envío automático</translation>
+        <translation>தன்னியக்கத்தை அமைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation>Imposible establecer una conexión</translation>
+        <translation>இணைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>Incapaz de anular la transacción</translation>
+        <translation>பரிவர்த்தனையைத் திரும்பப் பெற முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QIBaseDriver</name>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>Incapaz de enviar la transacción</translation>
+        <translation>பரிவர்த்தனை செய்ய முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not start transaction</source>
-        <translation>No fue posible iniciar la transacción</translation>
+        <translation>பரிவர்த்தனையைத் தொடங்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Error opening database</source>
-        <translation>Error al abrir la base de datos</translation>
+        <translation>தரவுத்தளத்தைத் திறப்பதில் பிழை</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>Incapaz de anular la transacción</translation>
+        <translation>பரிவர்த்தனையைத் திரும்பப் பெற முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QIBaseResult</name>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>Incapaz de enviar la transacción</translation>
+        <translation>பரிவர்த்தனை செய்ய முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to open BLOB</source>
-        <translation>Imposible abrir el BLOB</translation>
+        <translation>BLOB ஐ திறக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not describe statement</source>
-        <translation>No fue posible describir la instrucción</translation>
+        <translation>அறிக்கையை விவரிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not describe input statement</source>
-        <translation>No fue posible describir la instrucción de entrada</translation>
+        <translation>உள்ளீட்டு அறிக்கையை விவரிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not allocate statement</source>
-        <translation>No fue posible asignar la instrucción</translation>
+        <translation>Could not allocate statement</translation>
     </message>
     <message>
         <source>Unable to write BLOB</source>
-        <translation>Imposible escribir el BLOB</translation>
+        <translation>BLOB எழுத முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not start transaction</source>
-        <translation>No fue posible iniciar la transacción</translation>
+        <translation>பரிவர்த்தனையைத் தொடங்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to close statement</source>
-        <translation>No fue posible cerrar la instrucción</translation>
+        <translation>Unable to close statement</translation>
     </message>
     <message>
         <source>Could not get query info</source>
-        <translation>No fue posible obtener información sobre la consulta</translation>
+        <translation>Could not get query info</translation>
     </message>
     <message>
         <source>Could not find array</source>
-        <translation>No fue posible encontrar la tabla</translation>
+        <translation>வரிசையைக் கண்டுபிடிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not get array data</source>
-        <translation>No fue posible obtener los datos de la tabla</translation>
+        <translation>வரிசை தரவைப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to execute query</source>
-        <translation>No fue posible ejecutar la consulta</translation>
+        <translation>வினவலை இயக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not prepare statement</source>
-        <translation>No fue posible preparar la instrucción</translation>
+        <translation>அறிக்கையைத் தயாரிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not fetch next item</source>
-        <translation>No fue posible obtener el elemento siguiente</translation>
+        <translation>அடுத்த உருப்படியைப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not get statement info</source>
-        <translation>No fue posible obtener información sobre la instrucción</translation>
+        <translation>அறிக்கை தகவலைப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to create BLOB</source>
-        <translation>Imposible crear un BLOB</translation>
+        <translation>BLOB ஐ உருவாக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to read BLOB</source>
-        <translation>Imposible leer el BLOB</translation>
+        <translation>BLOB ஐப் படிக்க முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QMYSQLDriver</name>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>No es posible enviar la transacción</translation>
+        <translation>பரிவர்த்தனை செய்ய முடியவில்லை</translation>
     </message>
     <message>
-        <source>Unable to open database &apos;%1&apos;</source>
-        <translation>No se puede abrir la base de datos «%1»</translation>
+        <source>Unable to open database '%1'</source>
+        <translation>'%1' தரவுத்தளத்தைத் திறக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to allocate a MYSQL object</source>
-        <translation>No ha sido posible reservar un objeto MYSQL</translation>
+        <translation>MYSQL பொருளை ஒதுக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation>No es posible establecer una conexión</translation>
+        <translation>இணைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>No es posible anular la transacción</translation>
+        <translation>பரிவர்த்தனையைத் திரும்பப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation>No es posible iniciar la transacción</translation>
+        <translation>பரிவர்த்தனையைத் தொடங்க முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QOCIDriver</name>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>No es posible enviar la transacción</translation>
+        <translation>பரிவர்த்தனை செய்ய முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to initialize</source>
-        <translation>La inicialización ha fallado</translation>
+        <translation>துவக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to logon</source>
-        <translation>No es posible abrir sesión</translation>
+        <translation>உள்நுழைய முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>No se puede revertir la transacción</translation>
+        <translation>Unable to rollback transaction</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation>No es posible iniciar la transacción</translation>
+        <translation>பரிவர்த்தனையைத் தொடங்க முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QODBCDriver</name>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>No es posible enviar la transacción</translation>
+        <translation>பரிவர்த்தனை செய்ய முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to enable autocommit</source>
-        <translation>No es posible habilitar el envío automático</translation>
+        <translation>தன்னியக்கத்தை இயக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to disable autocommit</source>
-        <translation>No es posible inhabilitar el envío automático</translation>
+        <translation>தன்னியக்கத்தை முடக்க முடியவில்லை</translation>
     </message>
     <message>
-        <source>Unable to connect - Driver doesn&apos;t support all functionality required</source>
-        <translation>No se puede conectar - El driver no soporta toda la funcionalidad requerida</translation>
+        <source>Unable to connect - Driver doesn't support all functionality required</source>
+        <translation>இணைக்க முடியவில்லை - தேவையான அனைத்து செயல்பாடுகளையும் இயக்கி ஆதரிக்கவில்லை</translation>
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation>No es posible establecer una conexión</translation>
+        <translation>இணைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>No es posible anular la transacción</translation>
+        <translation>பரிவர்த்தனையைத் திரும்பப் பெற முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QSQLite2Driver</name>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>No es posible enviar la transacción</translation>
+        <translation>பரிவர்த்தனை செய்ய முடியவில்லை</translation>
     </message>
     <message>
         <source>Error opening database</source>
-        <translation>Error al abrir la base de datos</translation>
+        <translation>தரவுத்தளத்தைத் திறப்பதில் பிழை</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>No es posible anular la transacción</translation>
+        <translation>பரிவர்த்தனையைத் திரும்பப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation>No es posible iniciar la transacción</translation>
+        <translation>பரிவர்த்தனையைத் தொடங்க முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QSQLiteDriver</name>
     <message>
         <source>Unable to commit transaction</source>
-        <translation>No es posible enviar la transacción</translation>
+        <translation>பரிவர்த்தனை செய்ய முடியவில்லை</translation>
     </message>
     <message>
         <source>Error closing database</source>
-        <translation>Error al cerrar la base de datos</translation>
+        <translation>தரவுத்தளத்தை மூடுவதில் பிழை</translation>
     </message>
     <message>
         <source>Error opening database</source>
-        <translation>Error al abrir la base de datos</translation>
+        <translation>தரவுத்தளத்தைத் திறப்பதில் பிழை</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
-        <translation>No se ha podido revertir la transacción</translation>
+        <translation>பரிவர்த்தனையைத் திரும்பப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to begin transaction</source>
-        <translation>No es posible iniciar la transacción</translation>
+        <translation>பரிவர்த்தனையைத் தொடங்க முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QAbstractSocket</name>
     <message>
         <source>Host not found</source>
-        <translation>Equipo no encontrado</translation>
+        <translation>ஹோஸ்ட் கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation>Conexión rechazada</translation>
+        <translation>இணைப்பு மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>Connection timed out</source>
-        <translation>Tiempo de espera por la conexión expirado</translation>
+        <translation>இணைப்பு நேரம் முடிந்தது</translation>
     </message>
     <message>
         <source>Trying to connect while connection is in progress</source>
-        <translation>Intentando conectar mientras la conexión está en progreso</translation>
+        <translation>இணைப்பு செயல்பாட்டில் இருக்கும்போது இணைக்க முயற்சிக்கிறது</translation>
     </message>
     <message>
         <source>Socket is not connected</source>
-        <translation>El socket no está conectado</translation>
+        <translation>சாக்கெட் இணைக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Socket operation timed out</source>
-        <translation>Operación socket expirada</translation>
+        <translation>சாக்கெட் செயல்பாட்டின் நேரம் முடிந்தது</translation>
     </message>
     <message>
         <source>Network unreachable</source>
-        <translation>Red no disponible</translation>
+        <translation>நெட்வொர்க்கை அணுக முடியவில்லை</translation>
     </message>
     <message>
         <source>Operation on socket is not supported</source>
-        <translation>La operación no está soportada por el socket</translation>
+        <translation>சாக்கெட்டில் செயல்பாடு ஆதரிக்கப்படவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QHostInfoAgent</name>
     <message>
         <source>Host not found</source>
-        <translation>Equipo no encontrado</translation>
+        <translation>ஹோஸ்ட் கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>No host name given</source>
-        <translation>No se dio nombre de equipo</translation>
+        <translation>ஹோஸ்ட் பெயர் கொடுக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Unknown address type</source>
-        <translation>Dirección de tipo desconocido</translation>
+        <translation>தெரியாத முகவரி வகை</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>அறியப்படாத பிழை</translation>
     </message>
     <message>
         <source>Invalid hostname</source>
-        <translation>Nombre de equipo inválido</translation>
+        <translation>தவறான ஹோஸ்ட்பெயர்</translation>
     </message>
     <message>
         <source>Unknown error (%1)</source>
-        <translation>Error desconocido (%1)</translation>
+        <translation>அறியப்படாத பிழை (%1)</translation>
     </message>
 </context>
 <context>
     <name>QTgaFile</name>
     <message>
         <source>Image type not supported</source>
-        <translation>El tipo de imagen no está soportado</translation>
+        <translation>பட வகை ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Image header read failed</source>
-        <translation>La lectura de la cabecera de imagen falló</translation>
+        <translation>படத் தலைப்பைப் படிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Seek file/device for image read failed</source>
-        <translation>Falló el acceso aleatorio para lectura imágenes en archivo/dispositivo</translation>
+        <translation>படத்தைப் படிக்க கோப்பு/சாதனத்தைத் தேடுவது தோல்வியடைந்தது</translation>
     </message>
     <message>
         <source>Could not read image data</source>
-        <translation>No se pueden leer los datos de la imagen</translation>
+        <translation>படத் தரவைப் படிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not reset to read data</source>
-        <translation>No se puede reiniciar la lectura de datos</translation>
+        <translation>தரவைப் படிக்க மீட்டமைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Image depth not valid</source>
-        <translation>Profundidad de imagen no válida</translation>
+        <translation>படத்தின் ஆழம் தவறானது</translation>
     </message>
     <message>
         <source>Could not read footer</source>
-        <translation>No se puede leer el pie de página</translation>
+        <translation>அடிக்குறிப்பைப் படிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Sequential device (eg socket) for image read not supported</source>
-        <translation>Los dispositivos secuenciales (por ejemplo socket) no están soportados para lectura de imagen</translation>
+        <translation>பட வாசிப்புக்கான தொடர் சாதனம் (எ.கா. சாக்கெட்) ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Image type (non-TrueVision 2.0) not supported</source>
-        <translation>El tipo de imagen (no TrueVision 2.0) no está soportado</translation>
+        <translation>பட வகை (Non-TrueVision 2.0) ஆதரிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Could not seek to image read footer</source>
-        <translation>No se puede acceder al pie de página de la imagen</translation>
+        <translation>படத்தைப் படிக்க முயல முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QLibrary</name>
     <message>
         <source>not a dynamic library</source>
-        <translation>no es una biblioteca dinámica</translation>
+        <translation>டைனமிக் நூலகம் அல்ல</translation>
     </message>
     <message>
         <source>file too small</source>
-        <translation>archivo demasiado pequeño</translation>
+        <translation>கோப்பு மிகவும் சிறியது</translation>
     </message>
     <message>
         <source>Cannot unload library %1: %2</source>
-        <translation>No se puede descargar la biblioteca %1: %2</translation>
+        <translation>நூலகத்தை இறக்க முடியவில்லை %1: %2</translation>
     </message>
     <message>
-        <source>&apos;%1&apos; is not a valid Mach-O binary (%2)</source>
-        <translation>«%1» es un binario Mach-O inválido (%2)</translation>
+        <source>'%1' is not a valid Mach-O binary (%2)</source>
+        <translation>'%1' என்பது சரியான Mach-O பைனரி அல்ல (%2)</translation>
     </message>
     <message>
         <source>Cannot load library %1: %2</source>
-        <translation>No se puede cargar la biblioteca %1: %2</translation>
+        <translation>நூலகத்தை ஏற்ற முடியவில்லை %1: %2</translation>
     </message>
     <message>
-        <source>&apos;%1&apos; is not a Qt plugin</source>
-        <translation>«%1» no es un plugin de Qt</translation>
+        <source>'%1' is not a Qt plugin</source>
+        <translation>'%1' என்பது Qt செருகுநிரல் அல்ல</translation>
     </message>
     <message>
-        <source>&apos;%1&apos; is not an ELF object (%2)</source>
-        <translation>«%1» no es un objeto ELF (%2)</translation>
+        <source>'%1' is not an ELF object (%2)</source>
+        <translation>'%1' என்பது ELF பொருள் அல்ல (%2)</translation>
     </message>
     <message>
-        <source>The plugin &apos;%1&apos; uses incompatible Qt library. (%2.%3.%4) [%5]</source>
-        <translation>El complemento «%1» usa una biblioteca Qt incompatible. (%2.%3.%4) [%5]</translation>
+        <source>The plugin '%1' uses incompatible Qt library. (%2.%3.%4) [%5]</source>
+        <translation>'%1' செருகுநிரல் பொருந்தாத Qt நூலகத்தைப் பயன்படுத்துகிறது. (%2.%3.%4) [%5]</translation>
     </message>
     <message>
-        <source>Cannot resolve symbol &quot;%1&quot; in %2: %3</source>
-        <translation>No se puede resolver el símbolo %1 en %2: %3</translation>
+        <source>Cannot resolve symbol "%1" in %2: %3</source>
+        <translation>%2 இல் "%1" குறியீட்டைத் தீர்க்க முடியவில்லை</translation>
     </message>
     <message>
-        <source>Plugin verification data mismatch in &apos;%1&apos;</source>
-        <translation>Los datos de verificación del complemento no coinciden en «%1»</translation>
+        <source>Plugin verification data mismatch in '%1'</source>
+        <translation>'%1' இல் செருகுநிரல் சரிபார்ப்பு தரவு பொருந்தவில்லை</translation>
     </message>
     <message>
-        <source>&apos;%1&apos; is an invalid ELF object (%2)</source>
-        <translation>«%1» es un inválido objeto ELF (%2)</translation>
+        <source>'%1' is an invalid ELF object (%2)</source>
+        <translation>'%1' என்பது தவறான ELF பொருள் (%2)</translation>
     </message>
     <message>
-        <source>The plugin &apos;%1&apos; uses incompatible Qt library. (Cannot mix debug and release libraries.)</source>
-        <translation>El complemento «%1» usa una biblioteca Qt incompatible. (No se pueden mezclar las bibliotecas de «depuración» y de «distribución».)</translation>
+        <source>The plugin '%1' uses incompatible Qt library. (Cannot mix debug and release libraries.)</source>
+        <translation>'%1' செருகுநிரல் பொருந்தாத Qt நூலகத்தைப் பயன்படுத்துகிறது. (பிழைத்திருத்தம் மற்றும் வெளியீட்டு நூலகங்களை கலக்க முடியாது.)</translation>
     </message>
     <message>
-        <source>&apos;%1&apos; is not an ELF object</source>
-        <translation>«%1» no es un objeto ELF</translation>
+        <source>'%1' is not an ELF object</source>
+        <translation>'%1' is not an ELF object</translation>
     </message>
     <message>
-        <source>The file &apos;%1&apos; is not a valid Qt plugin.</source>
-        <translation>El fichero «%1» no es un complemento de Qt válido.</translation>
+        <source>The file '%1' is not a valid Qt plugin.</source>
+        <translation>The file '%1' is not a valid Qt plugin.</translation>
     </message>
     <message>
         <source>The shared library was not found.</source>
-        <translation>No se ha encontrado la biblioteca compartida.</translation>
+        <translation>பகிரப்பட்ட நூலகம் கிடைக்கவில்லை.</translation>
     </message>
     <message>
         <source>wrong architecture</source>
-        <translation>arquitectura incorrecta</translation>
+        <translation>தவறான கட்டிடக்கலை</translation>
     </message>
     <message>
         <source>file is corrupt</source>
-        <translation>el archivo está corrupto</translation>
+        <translation>கோப்பு சிதைந்துள்ளது</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>அறியப்படாத பிழை</translation>
     </message>
     <message>
         <source>no suitable architecture in fat binary</source>
-        <translation>no hay una arquitectura válida en el fat binary</translation>
+        <translation>கொழுப்பு பைனரியில் பொருத்தமான கட்டிடக்கலை இல்லை</translation>
     </message>
     <message>
         <source>invalid magic %1</source>
-        <translation>Magic inválido %1</translation>
+        <translation>தவறான மந்திரம் %1</translation>
     </message>
 </context>
 <context>
     <name>QSQLiteResult</name>
     <message>
         <source>Unable to execute multiple statements at a time</source>
-        <translation>No es posible ejecutar múltiples instrucciones al mismo tiempo</translation>
+        <translation>ஒரே நேரத்தில் பல அறிக்கைகளை இயக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to fetch row</source>
-        <translation>No es posible obtener la fila</translation>
+        <translation>வரிசையைப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>No query</source>
-        <translation>Consulta vacía</translation>
+        <translation>வினவல் இல்லை</translation>
     </message>
     <message>
         <source>Unable to execute statement</source>
-        <translation>No es posible ejecutar la instrucción</translation>
+        <translation>Unable to execute statement</translation>
     </message>
     <message>
         <source>Unable to bind parameters</source>
-        <translation>No es posible ligar los parámetros</translation>
+        <translation>அளவுருக்களை பிணைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to reset statement</source>
-        <translation>No es posible reinicializar la instrucción</translation>
+        <translation>அறிக்கையை மீட்டமைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Parameter count mismatch</source>
-        <translation>Número de parámetros incorrecto</translation>
+        <translation>அளவுரு எண்ணிக்கை பொருந்தவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QXml</name>
     <message>
         <source>unparsed entity reference in wrong context</source>
-        <translation>referencia a entidad no analizada en un contexto no válido</translation>
+        <translation>தவறான சூழலில் பாகுபடுத்தப்படாத பொருள் குறிப்பு</translation>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in DTD</source>
-        <translation>no se permiten referencias a entidades externas generales ya analizadas en la DTD</translation>
+        <translation>வெளிப்புற பாகுபடுத்தப்பட்ட பொது உட்பொருள் குறிப்பு DTD இல் அனுமதிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>wrong value for standalone declaration</source>
-        <translation>valor erróneo para la declaración independiente</translation>
+        <translation>தனித்த அறிவிப்புக்கான தவறான மதிப்பு</translation>
     </message>
     <message>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation>se esperaba una declaración de codificación o declaración autónoma al leer la declaración XML</translation>
+        <translation>எக்ஸ்எம்எல் அறிவிப்பைப் படிக்கும் போது குறியாக்க அறிவிப்பு அல்லது தனித்தனி அறிவிப்பு எதிர்பார்க்கப்படுகிறது</translation>
     </message>
     <message>
         <source>no error occurred</source>
-        <translation>no se ha producido ningún error</translation>
+        <translation>பிழை ஏற்படவில்லை</translation>
     </message>
     <message>
         <source>error occurred while parsing reference</source>
-        <translation>se ha producido un error durante el análisis de una referencia</translation>
+        <translation>குறிப்பை பாகுபடுத்தும் போது பிழை ஏற்பட்டது</translation>
     </message>
     <message>
         <source>standalone declaration expected while reading the XML declaration</source>
-        <translation>se esperaba una declaración independiente al leer la declaración XML</translation>
+        <translation>XML பிரகடனத்தைப் படிக்கும் போது தனித்த அறிவிப்பு எதிர்பார்க்கப்படுகிறது</translation>
     </message>
     <message>
         <source>invalid name for processing instruction</source>
-        <translation>nombre de instrucción de tratamiento no válido</translation>
+        <translation>செயலாக்க வழிமுறைக்கான தவறான பெயர்</translation>
     </message>
     <message>
         <source>error triggered by consumer</source>
-        <translation>error debido al consumidor</translation>
+        <translation>நுகர்வோரால் தூண்டப்பட்ட பிழை</translation>
     </message>
     <message>
         <source>error occurred while parsing element</source>
-        <translation>se ha producido un error durante el análisis de un elemento</translation>
+        <translation>உறுப்பைப் பாகுபடுத்தும் போது பிழை ஏற்பட்டது</translation>
     </message>
     <message>
         <source>unexpected character</source>
-        <translation>carácter inesperado</translation>
+        <translation>எதிர்பாராத பாத்திரம்</translation>
     </message>
     <message>
         <source>tag mismatch</source>
-        <translation>etiqueta desequilibrada</translation>
+        <translation>டேக் பொருத்தமின்மை</translation>
     </message>
     <message>
         <source>error occurred while parsing content</source>
-        <translation>se ha producido un error durante el análisis del contenido</translation>
+        <translation>உள்ளடக்கத்தை பாகுபடுத்தும் போது பிழை ஏற்பட்டது</translation>
     </message>
     <message>
         <source>error occurred while parsing comment</source>
-        <translation>se ha producido un error durante el análisis de un comentario</translation>
+        <translation>கருத்தை பாகுபடுத்தும் போது பிழை ஏற்பட்டது</translation>
     </message>
     <message>
         <source>internal general entity reference not allowed in DTD</source>
-        <translation>no se permiten referencias a entidades internas generales en la DTD</translation>
+        <translation>DTD இல் உள் பொது நிறுவன குறிப்பு அனுமதிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>recursive entities</source>
-        <translation>entidades recursivas</translation>
+        <translation>சுழல்நிலை நிறுவனங்கள்</translation>
     </message>
     <message>
         <source>more than one document type definition</source>
-        <translation>más de una definición de tipo de documento</translation>
+        <translation>ஒன்றுக்கு மேற்பட்ட ஆவண வகை வரையறை</translation>
     </message>
     <message>
         <source>version expected while reading the XML declaration</source>
-        <translation>se esperaba la versión al leer la declaración XML</translation>
+        <translation>version expected while reading the XML declaration</translation>
     </message>
     <message>
         <source>letter is expected</source>
-        <translation>se esperaba una letra</translation>
+        <translation>கடிதம் எதிர்பார்க்கப்படுகிறது</translation>
     </message>
     <message>
         <source>unexpected end of file</source>
-        <translation>fin de fichero inesperado</translation>
+        <translation>கோப்பின் எதிர்பாராத முடிவு</translation>
     </message>
     <message>
         <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation>no se permiten referencias a entidades externas generales ya analizadas en el valor de un atributo</translation>
+        <translation>வெளிப்புற பாகுபடுத்தப்பட்ட பொது உட்பொருள் குறிப்பு பண்பு மதிப்பில் அனுமதிக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>error in the text declaration of an external entity</source>
-        <translation>error en la declaración de texto de una entidad externa</translation>
+        <translation>வெளிப்புற நிறுவனத்தின் உரை அறிவிப்பில் பிழை</translation>
     </message>
     <message>
         <source>error occurred while parsing document type definition</source>
-        <translation>se ha producido un error durante el análisis de la definición de tipo de documento</translation>
+        <translation>ஆவண வகை வரையறையை பாகுபடுத்தும் போது பிழை ஏற்பட்டது</translation>
     </message>
 </context>
 <context>
     <name>QSystemSemaphore</name>
     <message>
         <source>%1: does not exist</source>
-        <translation>%1: no existe</translation>
+        <translation>%1: இல்லை</translation>
     </message>
     <message>
         <source>%1: already exists</source>
-        <translation>%1: ya existe</translation>
+        <translation>%1: ஏற்கனவே உள்ளது</translation>
     </message>
     <message>
         <source>%1: unknown error %2</source>
-        <translation>%1: error desconocido %2</translation>
+        <translation>%1: தெரியாத பிழை %2</translation>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation>%1: permiso denegado</translation>
+        <translation>%1: அனுமதி மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>%1: out of resources</source>
-        <translation>%1: falta de recursos</translation>
+        <translation>%1: ஆதாரங்கள் இல்லை</translation>
     </message>
 </context>
 <context>
     <name>QCommandLineParser</name>
     <message>
         <source>Unknown options: %1.</source>
-        <translation>Opciones desconocidas: %1.</translation>
+        <translation>அறியப்படாத விருப்பங்கள்: %1.</translation>
     </message>
     <message>
-        <source>Unknown option &apos;%1&apos;.</source>
-        <translation>Opción desconocida «%1».</translation>
+        <source>Unknown option '%1'.</source>
+        <translation>தெரியாத விருப்பம் '%1'.</translation>
     </message>
     <message>
         <source>[options]</source>
-        <translation>[opciones]</translation>
+        <translation>[விருப்பங்கள்]</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation>Opciones:</translation>
+        <translation>விருப்பங்கள்:</translation>
     </message>
     <message>
         <source>Usage: %1</source>
-        <translation>Uso: %1</translation>
+        <translation>பயன்பாடு: %1</translation>
     </message>
     <message>
-        <source>Unexpected value after &apos;%1&apos;.</source>
-        <translation>Valor inesperado tras «%1».</translation>
+        <source>Unexpected value after '%1'.</source>
+        <translation>'%1'க்குப் பிறகு எதிர்பாராத மதிப்பு.</translation>
     </message>
     <message>
         <source>Displays version information.</source>
-        <translation>Muestra la información de versión.</translation>
+        <translation>பதிப்புத் தகவலைக் காட்டுகிறது.</translation>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation>Argumentos:</translation>
+        <translation>வாதங்கள்:</translation>
     </message>
     <message>
         <source>Displays this help.</source>
-        <translation>Muestra esta ayuda.</translation>
+        <translation>இந்த உதவியைக் காட்டுகிறது.</translation>
     </message>
     <message>
-        <source>Missing value after &apos;%1&apos;.</source>
-        <translation>Falta valor tras «%1».</translation>
+        <source>Missing value after '%1'.</source>
+        <translation>'%1'க்குப் பிறகு மதிப்பு இல்லை.</translation>
     </message>
 </context>
 <context>
     <name>QHttp</name>
     <message>
         <source>Data corrupted</source>
-        <translation>Datos corruptos</translation>
+        <translation>தரவு சிதைந்துள்ளது</translation>
     </message>
     <message>
         <source>Insecure redirect</source>
-        <translation>Redirección insegura</translation>
+        <translation>பாதுகாப்பற்ற வழிமாற்று</translation>
     </message>
     <message>
         <source>Host %1 not found</source>
-        <translation>Equipo %1 no encontrado</translation>
+        <translation>ஹோஸ்ட் %1 கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>Host requires authentication</source>
-        <translation>El servidor requiere autenticación</translation>
+        <translation>ஹோஸ்டுக்கு அங்கீகாரம் தேவை</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation>Conexión rechazada</translation>
+        <translation>இணைப்பு மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>Unknown protocol specified</source>
-        <translation>Protocolo especificado desconocido</translation>
+        <translation>அறியப்படாத நெறிமுறை குறிப்பிடப்பட்டுள்ளது</translation>
     </message>
     <message>
         <source>Proxy requires authentication</source>
-        <translation>El proxy requiere autenticación</translation>
+        <translation>ப்ராக்ஸிக்கு அங்கீகாரம் தேவை</translation>
     </message>
     <message>
         <source>SSL handshake failed</source>
-        <translation>Falló el handshake SSL</translation>
+        <translation>SSL கைகுலுக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Too many redirects</source>
-        <translation>Demasiadas redirecciones</translation>
+        <translation>பல வழிமாற்றுகள்</translation>
     </message>
     <message>
         <source>Connection closed</source>
-        <translation>Conexión cerrada</translation>
+        <translation>இணைப்பு மூடப்பட்டது</translation>
     </message>
 </context>
 <context>
     <name>QUnicodeControlCharacterMenu</name>
     <message>
         <source>RLE Start of right-to-left embedding</source>
-        <translation>RLE Start of right-to-left embedding</translation>
+        <translation>RLE வலமிருந்து இடமாக உட்பொதிக்க ஆரம்பம்</translation>
     </message>
     <message>
         <source>ZWSP Zero width space</source>
-        <translation>ZWSP Zero width space</translation>
+        <translation>ZWSP ஜீரோ அகல இடைவெளி</translation>
     </message>
     <message>
         <source>LRI Left-to-right isolate</source>
-        <translation>LRI Left-to-right isolate</translation>
+        <translation>LRI இடமிருந்து வலமாக தனிமைப்படுத்தப்பட்டது</translation>
     </message>
     <message>
         <source>Insert Unicode control character</source>
-        <translation>Insertar carácter de control Unicode</translation>
+        <translation>யூனிகோட் கட்டுப்பாட்டு எழுத்தைச் செருகவும்</translation>
     </message>
     <message>
         <source>LRO Start of left-to-right override</source>
-        <translation>LRO Start of left-to-right override</translation>
+        <translation>LRO இடமிருந்து வலமாக மேலெழுதலின் தொடக்கம்</translation>
     </message>
     <message>
         <source>LRE Start of left-to-right embedding</source>
-        <translation>LRE Start of left-to-right embedding</translation>
+        <translation>LRE இடமிருந்து வலமாக உட்பொதித்தல் ஆரம்பம்</translation>
     </message>
     <message>
         <source>RLI Right-to-left isolate</source>
-        <translation>RLI Right-to-left isolate</translation>
+        <translation>RLI வலமிருந்து இடமாக தனிமைப்படுத்தப்பட்டது</translation>
     </message>
     <message>
         <source>RLM Right-to-left mark</source>
-        <translation>RLM Marca de-derecha-a-izquierda</translation>
+        <translation>RLM வலது-இடது குறி</translation>
     </message>
     <message>
         <source>PDF Pop directional formatting</source>
-        <translation>PDF Pop directional formatting</translation>
+        <translation>PDF பாப் திசை வடிவமைப்பு</translation>
     </message>
     <message>
         <source>ZWNJ Zero width non-joiner</source>
-        <translation>ZWNJ Zero width non-joiner</translation>
+        <translation>ZWNJ ஜீரோ அகலம் சேராதது</translation>
     </message>
     <message>
         <source>RLO Start of right-to-left override</source>
-        <translation>RLO Start of right-to-left override</translation>
+        <translation>RLO வலமிருந்து இடமாக மேலெழுதலின் தொடக்கம்</translation>
     </message>
     <message>
         <source>PDI Pop directional isolate</source>
-        <translation>PDI Pop directional isolate</translation>
+        <translation>PDI பாப் திசை தனிமைப்படுத்தல்</translation>
     </message>
     <message>
         <source>ZWJ Zero width joiner</source>
-        <translation>ZWJ Zero width joiner</translation>
+        <translation>ZWJ ஜீரோ அகலம் இணைப்பான்</translation>
     </message>
     <message>
         <source>LRM Left-to-right mark</source>
-        <translation>LRM Marca de-izquierda-a-derecha</translation>
+        <translation>LRM இடமிருந்து வலமாக குறி</translation>
     </message>
     <message>
         <source>FSI First strong isolate</source>
-        <translation>FSI First strong isolate</translation>
+        <translation>FSI முதல் வலுவான தனிமைப்படுத்தல்</translation>
     </message>
 </context>
 <context>
     <name>QJsonParseError</name>
     <message>
         <source>invalid UTF8 string</source>
-        <translation>cadena de texto UTF8 inválida</translation>
+        <translation>தவறான UTF8 சரம்</translation>
     </message>
     <message>
         <source>unterminated array</source>
-        <translation>array no terminado</translation>
+        <translation>முடிக்கப்படாத வரிசை</translation>
     </message>
     <message>
         <source>unterminated object</source>
-        <translation>objeto no terminado</translation>
+        <translation>முடிவற்ற பொருள்</translation>
     </message>
     <message>
         <source>no error occurred</source>
-        <translation>no se ha producido ningún error</translation>
+        <translation>பிழை ஏற்படவில்லை</translation>
     </message>
     <message>
         <source>unterminated string</source>
-        <translation>cadena de texto no terminada</translation>
+        <translation>முடிவற்ற சரம்</translation>
     </message>
     <message>
         <source>garbage at the end of the document</source>
-        <translation>basura al final del documento</translation>
+        <translation>ஆவணத்தின் முடிவில் குப்பை</translation>
     </message>
     <message>
         <source>invalid termination by number</source>
-        <translation>terminación inválida por número</translation>
+        <translation>எண் மூலம் தவறான முடிவு</translation>
     </message>
     <message>
         <source>missing value separator</source>
-        <translation>falta separador de valores</translation>
+        <translation>மதிப்பு பிரிப்பான் இல்லை</translation>
     </message>
     <message>
         <source>illegal number</source>
-        <translation>número ilegal</translation>
+        <translation>சட்டவிரோத எண்</translation>
     </message>
     <message>
         <source>invalid escape sequence</source>
-        <translation>secuencia de escape inválida</translation>
+        <translation>தவறான தப்பிக்கும் வரிசை</translation>
     </message>
     <message>
         <source>missing name separator</source>
-        <translation>falta separador de nombre</translation>
+        <translation>பெயர் பிரிப்பான் இல்லை</translation>
     </message>
     <message>
         <source>too large document</source>
-        <translation>documento demasiado grande</translation>
+        <translation>மிகப் பெரிய ஆவணம்</translation>
     </message>
     <message>
         <source>object is missing after a comma</source>
-        <translation>falta el objeto tras la coma</translation>
+        <translation>காற்புள்ளிக்குப் பிறகு பொருள் இல்லை</translation>
     </message>
     <message>
         <source>too deeply nested document</source>
-        <translation>documento con demasiados elementos anidados</translation>
+        <translation>மிகவும் ஆழமாக உள்ளமைக்கப்பட்ட ஆவணம்</translation>
     </message>
     <message>
         <source>illegal value</source>
-        <translation>valor ilegal</translation>
+        <translation>சட்டவிரோத மதிப்பு</translation>
     </message>
 </context>
 <context>
     <name>QImageReader</name>
     <message>
         <source>Unable to read image data</source>
-        <translation>No se puede leer los datos de la imagen</translation>
+        <translation>படத் தரவைப் படிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Invalid device</source>
-        <translation>Dispositivo inválido</translation>
+        <translation>தவறான சாதனம்</translation>
     </message>
     <message>
         <source>Unsupported image format</source>
-        <translation>Formato de imagen no soportado</translation>
+        <translation>ஆதரிக்கப்படாத பட வடிவம்</translation>
     </message>
     <message>
         <source>File not found</source>
-        <translation>Archivo no encontrado</translation>
+        <translation>கோப்பு கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>அறியப்படாத பிழை</translation>
     </message>
 </context>
 <context>
     <name>QHttpSocketEngine</name>
     <message>
         <source>Proxy connection refused</source>
-        <translation>Conexión con proxy rechazada</translation>
+        <translation>ப்ராக்ஸி இணைப்பு மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>Proxy denied connection</source>
-        <translation>El proxy denegó la conexión</translation>
+        <translation>ப்ராக்ஸி இணைப்பு மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>Proxy server not found</source>
-        <translation>Servidor proxy no encontrado</translation>
+        <translation>ப்ராக்ஸி சர்வர் கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>Proxy server connection timed out</source>
-        <translation>El tiempo de conexión con el servidor proxy ha expirado</translation>
+        <translation>ப்ராக்ஸி சர்வர் இணைப்பு நேரம் முடிந்தது</translation>
     </message>
     <message>
         <source>Did not receive HTTP response from proxy</source>
-        <translation>Respuesta HTTP no recibida del proxy</translation>
+        <translation>ப்ராக்ஸியிலிருந்து HTTP பதிலைப் பெறவில்லை</translation>
     </message>
     <message>
         <source>Proxy connection closed prematurely</source>
-        <translation>La conexión con el proxy se cerró prematuramente</translation>
+        <translation>ப்ராக்ஸி இணைப்பு முன்கூட்டியே மூடப்பட்டது</translation>
     </message>
     <message>
         <source>Error communicating with HTTP proxy</source>
-        <translation>Error comunicando con el proxy HTTP</translation>
+        <translation>HTTP ப்ராக்ஸியுடன் தொடர்புகொள்வதில் பிழை</translation>
     </message>
     <message>
         <source>Authentication required</source>
-        <translation>Se precisa autenticación</translation>
+        <translation>அங்கீகாரம் தேவை</translation>
     </message>
     <message>
         <source>Error parsing authentication request from proxy</source>
-        <translation>Error durante el análisis sintáctico de la petición de autenticación del proxy</translation>
+        <translation>ப்ராக்ஸியிடமிருந்து அங்கீகாரக் கோரிக்கையை அலசுவதில் பிழை</translation>
     </message>
 </context>
 <context>
     <name>QSaveFile</name>
     <message>
         <source>Filename refers to a directory</source>
-        <translation>El nombre de archivo se refiere a un directorio</translation>
+        <translation>கோப்பு பெயர் ஒரு கோப்பகத்தைக் குறிக்கிறது</translation>
     </message>
     <message>
         <source>Writing canceled by application</source>
-        <translation>Escritura cancelada por la aplicación</translation>
+        <translation>விண்ணப்பத்தால் எழுதுவது ரத்து செய்யப்பட்டது</translation>
     </message>
     <message>
         <source>Existing file %1 is not writable</source>
-        <translation>El archivo existente %1 no es grabable</translation>
+        <translation>தற்போதுள்ள கோப்பு %1 எழுதக்கூடியது அல்ல</translation>
     </message>
 </context>
 <context>
     <name>QNetworkAccessManager</name>
     <message>
         <source>Network access is disabled.</source>
-        <translation>Acceso a la red deshabilitado.</translation>
+        <translation>நெட்வொர்க் அணுகல் முடக்கப்பட்டுள்ளது.</translation>
     </message>
 </context>
 <context>
     <name>QAbstractSpinBox</name>
     <message>
         <source>Step &amp;down</source>
-        <translation>Re&amp;ducir</translation>
+        <translation>படி &amp; கீழே</translation>
     </message>
     <message>
         <source>&amp;Step up</source>
-        <translation>&amp;Aumentar</translation>
+        <translation>&amp;படி மேலே</translation>
     </message>
     <message>
         <source>&amp;Select All</source>
-        <translation>&amp;Seleccionar todo</translation>
+        <translation>&amp;அனைத்தையும் தேர்ந்தெடு</translation>
     </message>
 </context>
 <context>
     <name>QDB2Result</name>
     <message>
         <source>Unable to bind variable</source>
-        <translation>No es posible ligar la variable</translation>
+        <translation>மாறியை பிணைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to execute statement</source>
-        <translation>Imposible ejecutar la instrucción</translation>
+        <translation>அறிக்கையை செயல்படுத்த முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to fetch next</source>
-        <translation>Imposible recuperar el siguiente</translation>
+        <translation>அடுத்து எடுக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to prepare statement</source>
-        <translation>Imposible preparar la instrucción</translation>
+        <translation>அறிக்கையைத் தயாரிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to fetch record %1</source>
-        <translation>Imposible obtener el registro %1</translation>
+        <translation>பதிவைப் பெற முடியவில்லை %1</translation>
     </message>
     <message>
         <source>Unable to fetch first</source>
-        <translation>Imposible recuperar el primero</translation>
+        <translation>முதலில் எடுக்க முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QODBCResult</name>
     <message>
         <source>Unable to bind variable</source>
-        <translation>No es posible ligar la variable</translation>
+        <translation>மாறியை பிணைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to execute statement</source>
-        <translation>No es posible ejecutar la instrucción</translation>
+        <translation>அறிக்கையை செயல்படுத்த முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to fetch next</source>
-        <translation>No es posible obtener el siguiente</translation>
+        <translation>அடுத்து எடுக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to fetch last</source>
-        <translation>No se ha podido recuperar el último</translation>
+        <translation>கடைசியாக எடுக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to prepare statement</source>
-        <translation>No es posible preparar la instrucción</translation>
+        <translation>அறிக்கையைத் தயாரிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to fetch previous</source>
-        <translation>No se ha podido recuperar el previo</translation>
+        <translation>முந்தையதைப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to fetch</source>
-        <translation>No se ha podido recuperar</translation>
+        <translation>எடுக்க முடியவில்லை</translation>
     </message>
     <message>
-        <source>QODBCResult::reset: Unable to set &apos;SQL_CURSOR_STATIC&apos; as statement attribute. Please check your ODBC driver configuration</source>
-        <translation>QODBCResult::reset: No es posible establecer «SQL_CURSOR_STATIC» como atributo de instrucción. Compruebe la configuración de su controlador ODBC</translation>
+        <source>QODBCResult::reset: Unable to set 'SQL_CURSOR_STATIC' as statement attribute. Please check your ODBC driver configuration</source>
+        <translation>QODBCResult::reset: அறிக்கை பண்புக்கூறாக 'SQL_CURSOR_STATIC' ஐ அமைக்க முடியவில்லை. உங்கள் ODBC இயக்கி உள்ளமைவைச் சரிபார்க்கவும்</translation>
     </message>
     <message>
         <source>Unable to fetch first</source>
-        <translation>No se ha podido recuperar el primero</translation>
+        <translation>முதலில் எடுக்க முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QPSQLDriver</name>
     <message>
         <source>Unable to subscribe</source>
-        <translation>No se ha podido dar de subscribir</translation>
+        <translation>குழுசேர முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not begin transaction</source>
-        <translation>No fue posible iniciar la transacción</translation>
+        <translation>பரிவர்த்தனையைத் தொடங்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not rollback transaction</source>
-        <translation>No fue posible anular la transacción</translation>
+        <translation>பரிவர்த்தனையைத் திரும்பப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>Could not commit transaction</source>
-        <translation>No fue posible enviar la transacción</translation>
+        <translation>பரிவர்த்தனை செய்ய முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to connect</source>
-        <translation>No es posible establecer conexión</translation>
+        <translation>இணைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to unsubscribe</source>
-        <translation>No se ha podido de-subscribir</translation>
+        <translation>குழுவிலக முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QInputDialog</name>
     <message>
         <source>Enter a value:</source>
-        <translation>Introduzca un valor:</translation>
+        <translation>மதிப்பை உள்ளிடவும்:</translation>
     </message>
 </context>
 <context>
     <name>QCoreApplication</name>
     <message>
         <source>%1: key is empty</source>
-        <translation>%1: la clave está vacía</translation>
+        <translation>%1: விசை காலியாக உள்ளது</translation>
     </message>
     <message>
         <source>%1: unable to make key</source>
-        <translation>%1: no se puede crear la clave</translation>
+        <translation>%1: விசையை உருவாக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
-        <translation>%1: ftok ha fallado</translation>
+        <translation>%1: ftok தோல்வியடைந்தது</translation>
     </message>
 </context>
 <context>
     <name>QIODevice</name>
     <message>
         <source>No such file or directory</source>
-        <translation>No hay ningún fichero o directorio con ese nombre</translation>
+        <translation>அத்தகைய கோப்பு அல்லது அடைவு இல்லை</translation>
     </message>
     <message>
         <source>Permission denied</source>
-        <translation>Permiso denegado</translation>
+        <translation>அனுமதி மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>file to open is a directory</source>
-        <translation>el archivo a abrir es un directorio</translation>
+        <translation>திறக்க வேண்டிய கோப்பு ஒரு அடைவு</translation>
     </message>
     <message>
         <source>No space left on device</source>
-        <translation>No queda espacio en el dispositivo</translation>
+        <translation>சாதனத்தில் இடமில்லை</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>அறியப்படாத பிழை</translation>
     </message>
     <message>
         <source>Too many open files</source>
-        <translation>Demasiados ficheros abiertos simultáneamente</translation>
+        <translation>திறந்த கோப்புகள் அதிகம்</translation>
     </message>
 </context>
 <context>
     <name>QTabBar</name>
     <message>
         <source>Scroll Left</source>
-        <translation>Desplazar hacia la izquierda</translation>
+        <translation>இடதுபுறமாக உருட்டவும்</translation>
     </message>
     <message>
         <source>Scroll Right</source>
-        <translation>Desplazar hacia la derecha</translation>
+        <translation>வலதுபுறமாக உருட்டவும்</translation>
     </message>
 </context>
 <context>
     <name>QUndoModel</name>
     <message>
         <source>&lt;empty&gt;</source>
-        <translation>&lt;vacío&gt;</translation>
+        <translation>&lt;காலி&gt;</translation>
     </message>
 </context>
 <context>
     <name>QNetworkAccessCacheBackend</name>
     <message>
         <source>Error opening %1</source>
-        <translation>Error abriendo %1</translation>
+        <translation>%1 திறப்பதில் பிழை</translation>
     </message>
 </context>
 <context>
     <name>QMYSQLResult</name>
     <message>
         <source>Unable to execute statement</source>
-        <translation>No es posible ejecutar la instrucción</translation>
+        <translation>அறிக்கையை செயல்படுத்த முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to store statement results</source>
-        <translation>No es posible almacenar los resultados de la instrucción</translation>
+        <translation>அறிக்கை முடிவுகளைச் சேமிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to execute next query</source>
-        <translation>No se puede ejecutar la siguiente consulta</translation>
+        <translation>அடுத்த வினவலை இயக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to bind outvalues</source>
-        <translation>No es posible ligar los valores de salida</translation>
+        <translation>விலைமதிப்பீடுகளை பிணைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to store next result</source>
-        <translation>No se puede almacenar el siguiente resultado</translation>
+        <translation>அடுத்த முடிவைச் சேமிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to fetch data</source>
-        <translation>No es posible obtener los datos</translation>
+        <translation>தரவைப் பெற முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to prepare statement</source>
-        <translation>No es posible preparar la instrucción</translation>
+        <translation>அறிக்கையைத் தயாரிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to store result</source>
-        <translation>No es posible almacenar el resultado</translation>
+        <translation>முடிவைச் சேமிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to bind value</source>
-        <translation>No es posible ligar el valor</translation>
+        <translation>மதிப்பை பிணைக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to execute query</source>
-        <translation>No es posible ejecutar la consulta</translation>
+        <translation>வினவலை இயக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to reset statement</source>
-        <translation>No es posible reinicializar la instrucción</translation>
+        <translation>அறிக்கையை மீட்டமைக்க முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QSQLite2Result</name>
     <message>
         <source>Unable to execute statement</source>
-        <translation>No es posible ejecutar la instrucción</translation>
+        <translation>அறிக்கையை செயல்படுத்த முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to fetch results</source>
-        <translation>No es posible obtener los resultados</translation>
+        <translation>முடிவுகளைப் பெற முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QNetworkSessionPrivateImpl</name>
     <message>
         <source>The session was aborted by the user or system.</source>
-        <translation>La sesión fue abortada por el usuario o el sistema.</translation>
+        <translation>பயனர் அல்லது அமைப்பால் அமர்வு நிறுத்தப்பட்டது.</translation>
     </message>
     <message>
         <source>The requested operation is not supported by the system.</source>
-        <translation>La operación solicitada no está soportada por el sistema.</translation>
+        <translation>கோரப்பட்ட செயல்பாடு கணினியால் ஆதரிக்கப்படவில்லை.</translation>
     </message>
     <message>
         <source>Roaming was aborted or is not possible.</source>
-        <translation>El Roaming fue abortado o no es posible.</translation>
+        <translation>ரோமிங் நிறுத்தப்பட்டது அல்லது சாத்தியமில்லை.</translation>
     </message>
     <message>
         <source>The specified configuration cannot be used.</source>
-        <translation>La configuración especificada no puede ser usada.</translation>
+        <translation>The specified configuration cannot be used.</translation>
     </message>
     <message>
         <source>Unknown session error.</source>
-        <translation>Error de sesión desconocido.</translation>
+        <translation>Unknown session error.</translation>
     </message>
 </context>
 <context>
@@ -6197,209 +6196,209 @@ Presiona ESC para cancelar</translation>
         <source>Qt cannot load the direct2d platform plugin because the Direct2D version on this system is too old. The minimum system requirement for this platform plugin is Windows 7 SP1 with Platform Update.
 
 The minimum Direct2D version required is %1.%2.%3.%4. The Direct2D version on this system is %5.%6.%7.%8.</source>
-        <translation>Qt no puede cargar el plugin de plataforma direct2d porque la versión de Direct2D es demasiado antigua. El requisito mínimo de para este plugin de plataforma es Windows 7 SP1 con la Actualización de plataforma.
+        <translation>இந்த கணினியில் உள்ள Direct2D பதிப்பு மிகவும் பழையதாக இருப்பதால், Qt ஆல் direct2d இயங்குதள செருகுநிரலை ஏற்ற முடியாது. இந்த பிளாட்ஃபார்ம் சொருகிக்கான குறைந்தபட்ச சிஸ்டம் பிளாட்ஃபார்ம் புதுப்பித்தலுடன் Windows 7 SP1 ஆகும்.
 
-La versión mínima de Direct2D requerida es %1.%2.%3.%4. Y la versión de Direct2D instalada en el sistema es %5.%6.%7.%8.</translation>
+குறைந்தபட்ச Direct2D பதிப்பு %1.%2.%3.%4 ஆகும். இந்த அமைப்பில் உள்ள Direct2D பதிப்பு %5.%6.%7.%8.</translation>
     </message>
     <message>
         <source>Cannot load direct2d platform plugin</source>
-        <translation>No se puede cargar el plugin de plataforma direct2d</translation>
+        <translation>Direct2d இயங்குதள செருகுநிரலை ஏற்ற முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QLocalServer</name>
     <message>
         <source>%1: Name error</source>
-        <translation>%1: Error de nombre</translation>
+        <translation>%1: Name error</translation>
     </message>
     <message>
         <source>%1: Unknown error %2</source>
-        <translation>%1: Error desconocido %2</translation>
+        <translation>%1: தெரியாத பிழை %2</translation>
     </message>
     <message>
         <source>%1: Permission denied</source>
-        <translation>%1: Permiso denegado</translation>
+        <translation>%1: அனுமதி மறுக்கப்பட்டது</translation>
     </message>
     <message>
         <source>%1: Address in use</source>
-        <translation>%1: Dirección en uso</translation>
+        <translation>%1: முகவரி பயன்பாட்டில் உள்ளது</translation>
     </message>
 </context>
 <context>
     <name>QNetworkReply</name>
     <message>
         <source>Network session error.</source>
-        <translation>Error de sesión de red.</translation>
+        <translation>நெட்வொர்க் அமர்வு பிழை.</translation>
     </message>
     <message>
-        <source>Protocol &quot;%1&quot; is unknown</source>
-        <translation>Protocolo %1 desconocido</translation>
+        <source>Protocol "%1" is unknown</source>
+        <translation>"%1" நெறிமுறை தெரியவில்லை</translation>
     </message>
     <message>
         <source>backend start error.</source>
-        <translation>error de iniciación de backend.</translation>
+        <translation>பின்தளத்தில் தொடக்கப் பிழை.</translation>
     </message>
     <message>
         <source>Background request not allowed.</source>
-        <translation>Petición en segundo plano no permitida.</translation>
+        <translation>பின்னணி கோரிக்கை அனுமதிக்கப்படவில்லை.</translation>
     </message>
     <message>
         <source>Error transferring %1 - server replied: %2</source>
-        <translation>Error transfiriendo %1- el servidor respondió: %2</translation>
+        <translation>%1 ஐ மாற்றுவதில் பிழை - சேவையகம் பதிலளித்தது: %2</translation>
     </message>
     <message>
         <source>Temporary network failure.</source>
-        <translation>Fallo temporal de red.</translation>
+        <translation>தற்காலிக நெட்வொர்க் தோல்வி.</translation>
     </message>
 </context>
 <context>
     <name>QGuiApplication</name>
     <message>
         <source>QT_LAYOUT_DIRECTION</source>
-        <translation>LTR</translation>
+        <translation>QT_LAYOUT_DIRECTION</translation>
     </message>
 </context>
 <context>
     <name>QProgressDialog</name>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
     <name>QImageWriter</name>
     <message>
         <source>Unsupported image format</source>
-        <translation>Formato de imagen no soportado</translation>
+        <translation>ஆதரிக்கப்படாத பட வடிவம்</translation>
     </message>
     <message>
         <source>Device not writable</source>
-        <translation>Dispositivo no escribible</translation>
+        <translation>சாதனம் எழுத முடியாதது</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>அறியப்படாத பிழை</translation>
     </message>
     <message>
         <source>Device is not set</source>
-        <translation>El dispositivo no está listo</translation>
+        <translation>சாதனம் அமைக்கப்படவில்லை</translation>
     </message>
 </context>
 <context>
     <name>MAC_APPLICATION_MENU</name>
     <message>
         <source>Hide Others</source>
-        <translation>Ocultar otros</translation>
+        <translation>மற்றவர்களை மறை</translation>
     </message>
     <message>
         <source>Quit %1</source>
-        <translation>Salir de %1</translation>
+        <translation>வெளியேறு %1</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation>Acerca de %1</translation>
+        <translation>%1 பற்றி</translation>
     </message>
     <message>
         <source>Preferences...</source>
-        <translation>Preferencias…</translation>
+        <translation>விருப்பத்தேர்வுகள்...</translation>
     </message>
     <message>
         <source>Services</source>
-        <translation>Servicios</translation>
+        <translation>சேவைகள்</translation>
     </message>
     <message>
         <source>Hide %1</source>
-        <translation>Ocultar %1</translation>
+        <translation>மறை %1</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>Mostrar todo</translation>
+        <translation>அனைத்தையும் காட்டு</translation>
     </message>
 </context>
 <context>
     <name>QTDSDriver</name>
     <message>
         <source>Unable to open connection</source>
-        <translation>No es posible abrir la conexión</translation>
+        <translation>இணைப்பைத் திறக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to use database</source>
-        <translation>No es posible utilizar la base de datos</translation>
+        <translation>தரவுத்தளத்தைப் பயன்படுத்த முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QPrintPropertiesDialog</name>
     <message>
         <source>Job Options</source>
-        <translation>Opciones de trabajo</translation>
+        <translation>வேலை விருப்பங்கள்</translation>
     </message>
     <message>
         <source>Printer Properties</source>
-        <translation>Propiedades de impresora</translation>
+        <translation>அச்சுப்பொறி பண்புகள்</translation>
     </message>
 </context>
 <context>
     <name>QPluginLoader</name>
     <message>
         <source>The plugin was not loaded.</source>
-        <translation>El complemento no fue cargado.</translation>
+        <translation>செருகுநிரல் ஏற்றப்படவில்லை.</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>அறியப்படாத பிழை</translation>
     </message>
 </context>
 <context>
     <name>QQnxFilePicker</name>
     <message>
         <source>Pick a file</source>
-        <translation>Seleccione un archivo</translation>
+        <translation>ஒரு கோப்பைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
 </context>
 <context>
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation>Cerrar pestaña</translation>
+        <translation>தாவலை மூடு</translation>
     </message>
 </context>
 <context>
     <name>QPSQLResult</name>
     <message>
         <source>Unable to prepare statement</source>
-        <translation>No se ha podido preparar la instrucción</translation>
+        <translation>அறிக்கையைத் தயாரிக்க முடியவில்லை</translation>
     </message>
     <message>
         <source>Unable to create query</source>
-        <translation>No es posible crear la consulta</translation>
+        <translation>வினவலை உருவாக்க முடியவில்லை</translation>
     </message>
 </context>
 <context>
     <name>QFileDevice</name>
     <message>
         <source>No file engine available or engine does not support UnMapExtension</source>
-        <translation>No hay un motor de archivos disponible o el motor no soporta UnMapExtension</translation>
+        <translation>கோப்பு இயந்திரம் இல்லை அல்லது இயந்திரம் UnMapExtension ஐ ஆதரிக்காது</translation>
     </message>
 </context>
 <context>
     <name>QNetworkSession</name>
     <message>
         <source>Invalid configuration.</source>
-        <translation>Configuración inválida.</translation>
+        <translation>தவறான கட்டமைப்பு.</translation>
     </message>
 </context>
 <context>
     <name>QNetworkAccessDataBackend</name>
     <message>
         <source>Invalid URI: %1</source>
-        <translation>URI inválida: %1</translation>
+        <translation>தவறான URI: %1</translation>
     </message>
 </context>
 <context>
     <name>QKeySequenceEdit</name>
     <message>
         <source>Press shortcut</source>
-        <translation>Presione el atajo de teclado</translation>
+        <translation>குறுக்குவழியை அழுத்தவும்</translation>
     </message>
     <message>
         <source>%1, ...</source>
@@ -6410,121 +6409,121 @@ La versión mínima de Direct2D requerida es %1.%2.%3.%4. Y la versión de Direc
     <name>QNetworkAccessDebugPipeBackend</name>
     <message>
         <source>Socket error on %1: %2</source>
-        <translation>Error de socket en %1: %2</translation>
+        <translation>%1 இல் சாக்கெட் பிழை: %2</translation>
     </message>
     <message>
         <source>Remote host closed the connection prematurely on %1</source>
-        <translation>El equipo remoto cerró la conexión prematuramente en %1</translation>
+        <translation>ரிமோட் ஹோஸ்ட் %1 இல் முன்கூட்டியே இணைப்பை மூடியது</translation>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation>Error de escritura escribiendo en %1: %2</translation>
+        <translation>Write error writing to %1: %2</translation>
     </message>
 </context>
 <context>
     <name>QNetworkAccessFileBackend</name>
     <message>
         <source>Request for opening non-local file %1</source>
-        <translation>Petición para abrir el archivo no local %1</translation>
+        <translation>உள்ளூர் அல்லாத கோப்பைத் திறப்பதற்கான கோரிக்கை %1</translation>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
-        <translation>Error de lectura leyendo de %1: %2</translation>
+        <translation>%1 இலிருந்து படிக்கும் பிழை: %2</translation>
     </message>
     <message>
         <source>Cannot open %1: Path is a directory</source>
-        <translation>No se puede abrir %1: La ruta es un directorio</translation>
+        <translation>%1 ஐ திறக்க முடியாது: பாதை என்பது ஒரு கோப்பகம்</translation>
     </message>
     <message>
         <source>Error opening %1: %2</source>
-        <translation>Error abriendo %1: %2</translation>
+        <translation>%1: %2 திறப்பதில் பிழை</translation>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation>Error de escritura al escribir en %1: %2</translation>
+        <translation>Write error writing to %1: %2</translation>
     </message>
 </context>
 <context>
     <name>QHostInfo</name>
     <message>
         <source>No host name given</source>
-        <translation>No se dio nombre de equipo</translation>
+        <translation>ஹோஸ்ட் பெயர் கொடுக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>அறியப்படாத பிழை</translation>
     </message>
 </context>
 <context>
     <name>QNetworkReplyImpl</name>
     <message>
         <source>Operation canceled</source>
-        <translation>Operación cancelada</translation>
+        <translation>செயல்பாடு ரத்து செய்யப்பட்டது</translation>
     </message>
 </context>
 <context>
     <name>QStateMachine</name>
     <message>
-        <source>Missing default state in history state &apos;%1&apos;</source>
-        <translation>Falta el estado por defecto en el estado de historia «%1»</translation>
+        <source>Missing default state in history state '%1'</source>
+        <translation>வரலாற்றில் இயல்பு நிலை காணவில்லை '%1'</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>அறியப்படாத பிழை</translation>
     </message>
     <message>
-        <source>Missing initial state in compound state &apos;%1&apos;</source>
-        <translation>Falta el el estado inicial en el campo compuesto «%1»</translation>
+        <source>Missing initial state in compound state '%1'</source>
+        <translation>'%1' கூட்டு நிலையில் ஆரம்ப நிலை இல்லை</translation>
     </message>
     <message>
-        <source>No common ancestor for targets and source of transition from state &apos;%1&apos;</source>
-        <translation>No hay un antepasado común para los destinos y origen de la transición desde el estado «%1»</translation>
+        <source>No common ancestor for targets and source of transition from state '%1'</source>
+        <translation>'%1' மாநிலத்திலிருந்து இலக்குகள் மற்றும் மாற்றத்திற்கான பொதுவான மூதாதையர் இல்லை</translation>
     </message>
 </context>
 <context>
     <name>QMdiArea</name>
     <message>
         <source>(Untitled)</source>
-        <translation>(Sin título)</translation>
+        <translation>(பெயரிடப்படாத)</translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
-        <source>Executable &apos;%1&apos; requires Qt %2, found Qt %3.</source>
-        <translation>El ejecutable «%1» requiere Qt %2 (se encontró Qt %3).</translation>
+        <source>Executable '%1' requires Qt %2, found Qt %3.</source>
+        <translation>இயங்கக்கூடிய '%1'க்கு Qt %2 தேவை, Qt %3 கண்டறியப்பட்டது.</translation>
     </message>
     <message>
         <source>Incompatible Qt Library Error</source>
-        <translation>Error: Biblioteca Qt incompatible</translation>
+        <translation>பொருந்தாத Qt நூலகப் பிழை</translation>
     </message>
 </context>
 <context>
     <name>QQnxFileDialogHelper</name>
     <message>
         <source>All files (*.*)</source>
-        <translation>Todos los archivos (*.*)</translation>
+        <translation>அனைத்து கோப்புகளும் (*.*)</translation>
     </message>
 </context>
 <context>
     <name>QCocoaTheme</name>
     <message>
-        <source>Don&apos;t Save</source>
-        <translation>No guardar</translation>
+        <source>Don't Save</source>
+        <translation>சேமிக்க வேண்டாம்</translation>
     </message>
 </context>
 <context>
     <name>QDnsLookup</name>
     <message>
         <source>Operation cancelled</source>
-        <translation>Operación cancelada</translation>
+        <translation>செயல்பாடு ரத்து செய்யப்பட்டது</translation>
     </message>
 </context>
 <context>
     <name>QTcpServer</name>
     <message>
         <source>Operation on socket is not supported</source>
-        <translation>Operación en el socket no soportada</translation>
+        <translation>சாக்கெட்டில் செயல்பாடு ஆதரிக்கப்படவில்லை</translation>
     </message>
 </context>
 </TS>
