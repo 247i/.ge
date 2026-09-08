@@ -3852,21 +3852,21 @@ Examples
     <name>RefreshButton</name>
     <message>
         <source>Refresh</source>
-        <translation>புதுப்பிக்கவும்</translation>
+        <translation>புதுப்பி</translation>
     </message>
 </context>
 <context>
     <name>EditTool</name>
     <message>
         <source>Edit in External Editor</source>
-        <translation>Edit in External Editor</translation>
+        <translation>வெளிப்புற திருத்தியில் திருத்து</translation>
     </message>
 </context>
 <context>
     <name>DiffView</name>
     <message>
         <source>Add new file</source>
-        <translation>Add new file</translation>
+        <translation>புதிய கோப்பு சேர்</translation>
     </message>
     <message>
         <source>Or drag files here to copy into the repository</source>
@@ -3881,18 +3881,18 @@ Examples
     </message>
     <message>
         <source>Detach HEAD</source>
-        <translation>Detach HEAD</translation>
+        <translation>துண்டிக்கப்பட்ட தலை</translation>
     </message>
     <message>
         <source>Checkout</source>
-        <translation>Checkout</translation>
+        <translation>சரிபார்</translation>
     </message>
 </context>
 <context>
     <name>AdvancedButton</name>
     <message>
         <source>Advanced Search</source>
-        <translation>Advanced Search</translation>
+        <translation>மேம்பட்ட தேடல்</translation>
     </message>
 </context>
 <context>
@@ -3913,14 +3913,14 @@ Examples
     <name>PathspecWidget</name>
     <message>
         <source>Filter by Path</source>
-        <translation>Filter by Path</translation>
+        <translation>பாதையால் வடிகட்டு</translation>
     </message>
 </context>
 <context>
     <name>DiffTool</name>
     <message>
         <source>External Diff</source>
-        <translation>External Diff</translation>
+        <translation>வெளிபுற வேறுபாடு</translation>
     </message>
 </context>
 <context>
