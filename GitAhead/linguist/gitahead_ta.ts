@@ -149,7 +149,7 @@
     </message>
     <message>
         <source>View</source>
-        <translation>View</translation>
+        <translation>காண்க</translation>
     </message>
     <message>
         <source>Amend Commit</source>
@@ -321,7 +321,7 @@
     </message>
     <message>
         <source>Stage All</source>
-        <translation>Stage All</translation>
+        <translation>அனைத்து நிலை</translation>
     </message>
     <message>
         <source>Log Credential Helper</source>
@@ -541,7 +541,7 @@
     </message>
     <message>
         <source>Hide Log</source>
-        <translation>Hide Log</translation>
+        <translation>பதிவை மறை</translation>
     </message>
 </context>
 <context>
@@ -568,11 +568,11 @@
     </message>
     <message>
         <source>Search</source>
-        <translation>Search</translation>
+        <translation>தேடு</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Plugins</translation>
+        <translation>செருகுநிரல்கள்</translation>
     </message>
     <message>
         <source>Branches</source>
@@ -709,11 +709,11 @@
     </message>
     <message>
         <source>Push</source>
-        <translation>Push</translation>
+        <translation>தள்ளு</translation>
     </message>
     <message>
         <source>file</source>
-        <translation>file</translation>
+        <translation>கோப்பு</translation>
     </message>
     <message>
         <source>%1/%2</source>
@@ -733,7 +733,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation>Apply</translation>
+        <translation>விண்ணப்பிக்கவும்</translation>
     </message>
     <message>
         <source>Fetch</source>
@@ -741,7 +741,7 @@
     </message>
     <message>
         <source>Git LFS was not found on the PATH. &lt;a href='https://git-lfs.github.com'&gt;Install Git LFS&lt;/a&gt; to use LFS integration.</source>
-        <translation>Git LFS was not found on the PATH. &lt;a href='https://git-lfs.github.com'&gt;Install Git LFS&lt;/a&gt; to use LFS integration.</translation>
+        <translation>PATH இல் Git LFS காணப்படவில்லை. LFS ஒருங்கிணைப்பைப் பயன்படுத்த &lt;a href='https://git-lfs.github.com'&gt;Git LFS ஐ நிறுவவும்&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -789,7 +789,7 @@
     </message>
     <message>
         <source>Stop prompting to stage directories</source>
-        <translation>Stop prompting to stage directories</translation>
+        <translation>மேடை கோப்பகங்களுக்குத் தூண்டுவதை நிறுத்து</translation>
     </message>
     <message>
         <source>&lt;i&gt;no branch&lt;/i&gt;</source>
@@ -809,7 +809,7 @@
     </message>
     <message>
         <source>Drop Stash</source>
-        <translation>Drop Stash</translation>
+        <translation>ஸ்டாஷை கைவிடவும்</translation>
     </message>
     <message>
         <source>pop stash</source>
@@ -901,7 +901,7 @@
     </message>
     <message>
         <source>Create</source>
-        <translation>Create</translation>
+        <translation>உருவாக்கு</translation>
     </message>
     <message>
         <source>3. Use an external merge tool. Right-click on the files in the list and choose 'External Merge'.</source>
@@ -1033,7 +1033,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>push to</source>
-        <translation>push to</translation>
+        <translation>தள்ளு</translation>
     </message>
     <message>
         <source>After all conflicted files are staged, commit to conclude the %1.</source>
@@ -1045,7 +1045,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Unable to fetch. No upstream is configured for the current branch, and there isn't a remote called 'origin'.</source>
-        <translation>Unable to fetch. No upstream is configured for the current branch, and there isn't a remote called 'origin'.</translation>
+        <translation>எடுக்க முடியவில்லை. தற்போதைய கிளைக்கு அப்ஸ்ட்ரீம் எதுவும் உள்ளமைக்கப்படவில்லை, மேலும் 'ஆரிஜின்' எனப்படும் ரிமோட் இல்லை.</translation>
     </message>
     <message>
         <source>Push canceled.</source>
@@ -1057,7 +1057,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Unable to fast-forward.</source>
-        <translation>Unable to fast-forward.</translation>
+        <translation>வேகமாக முன்னோக்கிச் செல்ல முடியவில்லை.</translation>
     </message>
     <message>
         <source>The tag update may cause the remote to lose commits.</source>
@@ -1105,11 +1105,11 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>fetch from</source>
-        <translation>fetch from</translation>
+        <translation>இருந்து எடுக்க</translation>
     </message>
     <message>
         <source>Fast-forward</source>
-        <translation>Fast-forward</translation>
+        <translation>வேகமாக முன்னோக்கி</translation>
     </message>
     <message>
         <source>(no branch)</source>
@@ -1233,11 +1233,11 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>The remote will lose any commits that are reachable only from the overwritten reference. Dropped commits may be unexpectedly reintroduced by clones that already contain those commits locally.</source>
-        <translation>The remote will lose any commits that are reachable only from the overwritten reference. Dropped commits may be unexpectedly reintroduced by clones that already contain those commits locally.</translation>
+        <translation>மேலெழுதப்பட்ட குறிப்பிலிருந்து மட்டுமே அடையக்கூடிய எந்தவொரு கமிட்களையும் ரிமோட் இழக்கும். கைவிடப்பட்ட கமிட்கள் எதிர்பாராமல் உள்நாட்டில் ஏற்கனவே உள்ள க்ளோன்களால் மீண்டும் அறிமுகப்படுத்தப்படலாம்.</translation>
     </message>
     <message>
         <source>%1 from %2</source>
-        <translation>%1 from %2</translation>
+        <translation>%1 இலிருந்து %2</translation>
     </message>
     <message>
         <source>Pull Request</source>
@@ -1245,7 +1245,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>You may want to integrate remote commits first by &lt;a href='action:pull'&gt;pulling&lt;/a&gt;. Then &lt;a href='action:push'&gt;push&lt;/a&gt; again.</source>
-        <translation>You may want to integrate remote commits first by &lt;a href='action:pull'&gt;pulling&lt;/a&gt;. Then &lt;a href='action:push'&gt;push&lt;/a&gt; again.</translation>
+        <translation>&lt;a href='action:pull'&gt;இழுத்தல்&lt;/a&gt; மூலம் முதலில் ரிமோட் கமிட்களை ஒருங்கிணைக்க விரும்பலாம். பிறகு மீண்டும் &lt;a href='action:push'&gt;தள்ளு&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Create a local branch to start tracking remote changes and make new commits. Check out the detached HEAD to temporarily put your working directory into the state of the remote branch.</source>
@@ -1269,7 +1269,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Are you sure you want to amend '%1'?</source>
-        <translation>Are you sure you want to amend '%1'?</translation>
+        <translation>'%1' ஐ நிச்சயமாகத் திருத்த விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <source>Deinitialize</source>
@@ -1301,7 +1301,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Checkout</source>
-        <translation>Checkout</translation>
+        <translation>வெளியேறு</translation>
     </message>
     <message>
         <source>untracked file</source>
@@ -1364,7 +1364,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Tools</translation>
+        <translation>கருவிகள்</translation>
     </message>
     <message>
         <source>Edit Config File...</source>
@@ -1388,7 +1388,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Plugins</translation>
+        <translation>செருகுநிரல்கள்</translation>
     </message>
     <message>
         <source>Terminal</source>
@@ -1434,7 +1434,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Edit File</source>
-        <translation>Edit File</translation>
+        <translation>கோப்பைத் திருத்தவும்</translation>
     </message>
     <message>
         <source>Discard Changes</source>
@@ -1533,7 +1533,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Reset</translation>
+        <translation>மீட்டமை</translation>
     </message>
     <message>
         <source>This is a bare repository</source>
@@ -1588,7 +1588,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>பெயர்</translation>
     </message>
 </context>
 <context>
@@ -1701,7 +1701,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>owner/repository</source>
-        <translation>owner/repository</translation>
+        <translation>உரிமையாளர் / களஞ்சியம்</translation>
     </message>
     <message>
         <source>Maintainer can modify</source>
@@ -1760,7 +1760,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Installer failed to start</source>
-        <translation>Installer failed to start</translation>
+        <translation>நிறுவி தொடங்குவதில் தோல்வி</translation>
     </message>
 </context>
 <context>
@@ -1862,7 +1862,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>edit</source>
-        <translation>edit</translation>
+        <translation>திருத்த</translation>
     </message>
     <message>
         <source>next</source>
@@ -1970,7 +1970,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Bash is required to execute external tools.</source>
-        <translation>Bash is required to execute external tools.</translation>
+        <translation>வெளிப்புற கருவிகளை இயக்க பாஷ் தேவை.</translation>
     </message>
     <message>
         <source>Checkout</source>
@@ -2005,7 +2005,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Create Theme</source>
-        <translation>Create Theme</translation>
+        <translation>தீம் உருவாக்கவும்</translation>
     </message>
     <message>
         <source>Open submodules in tabs</source>
@@ -2013,7 +2013,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Open all repositories in tabs</source>
-        <translation>Open all repositories in tabs</translation>
+        <translation>அனைத்து களஞ்சியங்களையும் தாவல்களில் திறக்கவும்</translation>
     </message>
     <message>
         <source>Theme:</source>
@@ -2072,7 +2072,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Upstream</source>
-        <translation>Upstream</translation>
+        <translation>அப்ஸ்ட்ரீம்</translation>
     </message>
 </context>
 <context>
@@ -2134,11 +2134,11 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Deleted</source>
-        <translation>Deleted</translation>
+        <translation>நீக்கப்பட்டது</translation>
     </message>
     <message>
         <source>Unreadable</source>
-        <translation>Unreadable</translation>
+        <translation>படிக்க முடியாதது</translation>
     </message>
     <message>
         <source>Untracked</source>
@@ -2196,19 +2196,19 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Push</source>
-        <translation>Push</translation>
+        <translation>தள்ளு</translation>
     </message>
     <message>
         <source>Fetch</source>
-        <translation>Fetch</translation>
+        <translation>எடுக்கவும்</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation>Merge</translation>
+        <translation>ஒன்றிணைக்கவும்</translation>
     </message>
     <message>
         <source>Stash</source>
-        <translation>Stash</translation>
+        <translation>ஸ்டாஷ்</translation>
     </message>
     <message>
         <source>Pop Stash</source>
@@ -2220,11 +2220,11 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Configure Settings</source>
-        <translation>Configure Settings</translation>
+        <translation>அமைப்புகளை உள்ளமைக்கவும்</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Previous</translation>
+        <translation>முந்தைய</translation>
     </message>
     <message>
         <source>Tree View</source>
@@ -2248,7 +2248,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Hide Log</source>
-        <translation>Hide Log</translation>
+        <translation>பதிவை மறை</translation>
     </message>
     <message>
         <source>Show Starred Commits</source>
@@ -2267,7 +2267,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Understand your history!</source>
-        <translation>Understand your history!</translation>
+        <translation>உங்கள் வரலாற்றைப் புரிந்து கொள்ளுங்கள்!</translation>
     </message>
     <message>
         <source>Clone Repository</source>
@@ -2283,7 +2283,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remove</translation>
+        <translation>அகற்று</translation>
     </message>
     <message>
         <source>&lt;p&gt;Are you sure you want to remove the remote repository association for %1?&lt;/p&gt;&lt;p&gt;The local clone itself will not be affected.&lt;/p&gt;</source>
@@ -2366,7 +2366,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Set upstream</source>
-        <translation>Set upstream</translation>
+        <translation>அப்ஸ்ட்ரீம் அமைக்கவும்</translation>
     </message>
     <message>
         <source>Merge (Fast-forward Only)</source>
@@ -2386,11 +2386,11 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Action:</source>
-        <translation>Action:</translation>
+        <translation>செயல்:</translation>
     </message>
     <message>
         <source>Remote:</source>
-        <translation>Remote:</translation>
+        <translation>ரிமோட்:</translation>
     </message>
     <message>
         <source>Prune references</source>
@@ -2398,7 +2398,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Advanced:</source>
-        <translation>Advanced:</translation>
+        <translation>மேம்பட்ட:</translation>
     </message>
     <message>
         <source>Reference:</source>
@@ -2406,7 +2406,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Merge (No Fast-forward)</source>
-        <translation>Merge (No Fast-forward)</translation>
+        <translation>மெர்ஜ் (ஃபாஸ்ட்-ஃபார்வர்டு இல்லை)</translation>
     </message>
     <message>
         <source>Update existing tags</source>
@@ -2433,11 +2433,11 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Push canceled.</source>
-        <translation>Push canceled.</translation>
+        <translation>புஷ் ரத்து செய்யப்பட்டது.</translation>
     </message>
     <message>
         <source>Unable to push to %1 - %2</source>
-        <translation>Unable to push to %1 - %2</translation>
+        <translation>%1 - %2 க்கு தள்ள முடியவில்லை</translation>
     </message>
     <message>
         <source>Also delete the upstream branch from its remote</source>
@@ -2456,7 +2456,7 @@ This reverts commit %2.</source>
     <name>DeleteTagDialog</name>
     <message>
         <source>Push</source>
-        <translation>Push</translation>
+        <translation>தள்ளு</translation>
     </message>
     <message>
         <source>Are you sure you want to delete tag '%1'?</source>
@@ -2464,11 +2464,11 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation>நீக்கு</translation>
     </message>
     <message>
         <source>Push canceled.</source>
-        <translation>Push canceled.</translation>
+        <translation>புஷ் ரத்து செய்யப்பட்டது.</translation>
     </message>
     <message>
         <source>Delete Tag?</source>
@@ -2476,7 +2476,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Unable to push to %1 - %2</source>
-        <translation>Unable to push to %1 - %2</translation>
+        <translation>%1 - %2 க்கு தள்ள முடியவில்லை</translation>
     </message>
     <message>
         <source>delete tag</source>
@@ -2519,7 +2519,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation>Replace</translation>
+        <translation>மாற்றவும்</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -2527,7 +2527,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Replace?</source>
-        <translation>Replace?</translation>
+        <translation>மாற்றவா?</translation>
     </message>
     <message>
         <source>Advanced:</source>
@@ -2535,15 +2535,15 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Username:</source>
-        <translation>Username:</translation>
+        <translation>பயனர் பெயர்:</translation>
     </message>
     <message>
         <source>An account of this type already exists.</source>
-        <translation>An account of this type already exists.</translation>
+        <translation>இந்த வகை கணக்கு ஏற்கனவே உள்ளது.</translation>
     </message>
     <message>
         <source>Connection Failed</source>
-        <translation>Connection Failed</translation>
+        <translation>இணைப்பு தோல்வியடைந்தது</translation>
     </message>
 </context>
 <context>
@@ -2565,7 +2565,7 @@ This reverts commit %2.</source>
     <name>EditorPanel</name>
     <message>
         <source>Tabs</source>
-        <translation>Tabs</translation>
+        <translation>தாவல்கள்</translation>
     </message>
     <message>
         <source>Font:</source>
@@ -2573,7 +2573,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Show heat map</source>
-        <translation>Show heat map</translation>
+        <translation>வெப்ப வரைபடத்தைக் காட்டு</translation>
     </message>
     <message>
         <source>Spaces</source>
@@ -2585,30 +2585,30 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Indent using:</source>
-        <translation>Indent using:</translation>
+        <translation>உள்தள்ளலைப் பயன்படுத்தி:</translation>
     </message>
     <message>
         <source>Indent width:</source>
-        <translation>Indent width:</translation>
+        <translation>உள்தள்ளல் அகலம்:</translation>
     </message>
     <message>
         <source>Tab width:</source>
-        <translation>Tab width:</translation>
+        <translation>தாவல் அகலம்:</translation>
     </message>
     <message>
         <source>Blame margin:</source>
-        <translation>Blame margin:</translation>
+        <translation>பழி விளிம்பு:</translation>
     </message>
 </context>
 <context>
     <name>ReferenceModel</name>
     <message>
         <source>Tags</source>
-        <translation>Tags</translation>
+        <translation>குறிச்சொற்கள்</translation>
     </message>
     <message>
         <source>Branches</source>
-        <translation>Branches</translation>
+        <translation>கிளைகள்</translation>
     </message>
     <message>
         <source>Remotes</source>
@@ -2631,7 +2631,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Deinitialize LFS?</source>
-        <translation>Deinitialize LFS?</translation>
+        <translation>LFS ஐ நீக்கவா?</translation>
     </message>
     <message>
         <source>View Environment</source>
@@ -2639,19 +2639,19 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Prune Offset:</source>
-        <translation>Prune Offset:</translation>
+        <translation>ப்ரூன் ஆஃப்செட்:</translation>
     </message>
     <message>
         <source>reference days or</source>
-        <translation>reference days or</translation>
+        <translation>குறிப்பு நாட்கள் அல்லது</translation>
     </message>
     <message>
         <source>Fetch LFS objects from all references for the past</source>
-        <translation>Fetch LFS objects from all references for the past</translation>
+        <translation>கடந்த காலத்திற்கான அனைத்து குறிப்புகளிலிருந்தும் LFS பொருட்களைப் பெறவும்</translation>
     </message>
     <message>
         <source>Fetch Recent:</source>
-        <translation>Fetch Recent:</translation>
+        <translation>சமீபத்திய பெற:</translation>
     </message>
     <message>
         <source>Deinitialize LFS</source>
@@ -2659,7 +2659,7 @@ This reverts commit %2.</source>
     </message>
     <message>
         <source>Initialize LFS</source>
-        <translation>Initialize LFS</translation>
+        <translation>LFS ஐ துவக்கவும்</translation>
     </message>
     <message>
         <source>Specify a glob pattern for tracking large files.
@@ -2673,17 +2673,16 @@ Examples
 *.[pP][nN][gG]
 /images/*
 </source>
-        <translation>Specify a glob pattern for tracking large files.
+        <translation>பெரிய கோப்புகளைக் கண்காணிப்பதற்கான குளோப் பேட்டர்னைக் குறிப்பிடவும்.
 
-Generally, large files are greater than 500kB, change frequently,
-and do not compress well with git. This includes binary or video
-files which are already highly compressed.
+பொதுவாக, பெரிய கோப்புகள் 500kB ஐ விட அதிகமாக இருக்கும், அடிக்கடி மாற்றப்படும்,
+மற்றும் git உடன் நன்றாக சுருக்க வேண்டாம். இதில் பைனரி அல்லது வீடியோ அடங்கும்
+ஏற்கனவே மிகவும் சுருக்கப்பட்ட கோப்புகள்.
 
-Examples
+எடுத்துக்காட்டுகள்
 *.png
 *.[pP][nN][gG]
-/images/*
-</translation>
+/படங்கள்/*</translation>
     </message>
     <message>
         <source>Pattern:</source>
@@ -2691,11 +2690,11 @@ Examples
     </message>
     <message>
         <source>Server URL:</source>
-        <translation>Server URL:</translation>
+        <translation>சேவையக URL:</translation>
     </message>
     <message>
         <source>Advanced:</source>
-        <translation>Advanced:</translation>
+        <translation>மேம்பட்ட:</translation>
     </message>
     <message>
         <source>git-lfs env (read only)</source>
@@ -2707,26 +2706,26 @@ Examples
     </message>
     <message>
         <source>Are you sure you want uninstall LFS from this repository?</source>
-        <translation>Are you sure you want uninstall LFS from this repository?</translation>
+        <translation>இந்த களஞ்சியத்தில் இருந்து LFS ஐ நிச்சயமாக நீக்க வேண்டுமா?</translation>
     </message>
 </context>
 <context>
     <name>RepoModel</name>
     <message>
         <source>none</source>
-        <translation>none</translation>
+        <translation>எதுவும் இல்லை</translation>
     </message>
     <message>
         <source>open</source>
-        <translation>open</translation>
+        <translation>திறந்த</translation>
     </message>
     <message>
         <source>Clone Repository</source>
-        <translation>Clone Repository</translation>
+        <translation>குளோன் களஞ்சியம்</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation>Connecting</translation>
+        <translation>இணைக்கிறது</translation>
     </message>
     <message>
         <source>recent</source>
@@ -2738,38 +2737,38 @@ Examples
     </message>
     <message>
         <source>Initialize New Repository</source>
-        <translation>Initialize New Repository</translation>
+        <translation>புதிய களஞ்சியத்தை துவக்கவும்</translation>
     </message>
     <message>
         <source>Open Existing Repository</source>
-        <translation>Open Existing Repository</translation>
+        <translation>ஏற்கனவே உள்ள களஞ்சியத்தைத் திறக்கவும்</translation>
     </message>
 </context>
 <context>
     <name>ClonePage</name>
     <message>
         <source>Failed to %1 into '%2' - %3</source>
-        <translation>Failed to %1 into '%2' - %3</translation>
+        <translation>%1 இல் '%2' - %3 இல் தோல்வி</translation>
     </message>
     <message>
         <source>Clone</source>
-        <translation>Clone</translation>
+        <translation>குளோன்</translation>
     </message>
     <message>
         <source>clone</source>
-        <translation>clone</translation>
+        <translation>குளோன்</translation>
     </message>
     <message>
         <source>Clone canceled.</source>
-        <translation>Clone canceled.</translation>
+        <translation>குளோன் ரத்து செய்யப்பட்டது.</translation>
     </message>
     <message>
         <source>The new repository will open after the clone finishes.</source>
-        <translation>The new repository will open after the clone finishes.</translation>
+        <translation>குளோன் முடிந்ததும் புதிய களஞ்சியம் திறக்கப்படும்.</translation>
     </message>
     <message>
         <source>Clone Progress</source>
-        <translation>Clone Progress</translation>
+        <translation>குளோன் முன்னேற்றம்</translation>
     </message>
 </context>
 <context>
@@ -2780,7 +2779,7 @@ Examples
     </message>
     <message>
         <source>lines</source>
-        <translation>lines</translation>
+        <translation>வரிகள்</translation>
     </message>
     <message>
         <source>Context lines:</source>
@@ -2788,11 +2787,11 @@ Examples
     </message>
     <message>
         <source>Added files</source>
-        <translation>Added files</translation>
+        <translation>சேர்க்கப்பட்ட கோப்புகள்</translation>
     </message>
     <message>
         <source>Character Encoding:</source>
-        <translation>Character Encoding:</translation>
+        <translation>எழுத்து குறியாக்கம்:</translation>
     </message>
     <message>
         <source>Deleted files</source>
@@ -2804,18 +2803,18 @@ Examples
     </message>
     <message>
         <source>Ignore Whitespace (-w)</source>
-        <translation>Ignore Whitespace (-w)</translation>
+        <translation>வைட்ஸ்பேஸைப் புறக்கணிக்கவும் (-w)</translation>
     </message>
     <message>
         <source>Auto Collapse:</source>
-        <translation>Auto Collapse:</translation>
+        <translation>தானாகச் சரிவு:</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>behind: %1</source>
-        <translation>behind: %1</translation>
+        <translation>பின்னால்: %1</translation>
     </message>
     <message>
         <source>MERGING</source>
@@ -2835,19 +2834,19 @@ Examples
     </message>
     <message>
         <source>REBASING</source>
-        <translation>REBASING</translation>
+        <translation>மறுசீரமைப்பு</translation>
     </message>
     <message>
         <source>%1 does not contain a valid git repository.</source>
-        <translation>%1 does not contain a valid git repository.</translation>
+        <translation>%1 சரியான git களஞ்சியத்தைக் கொண்டிருக்கவில்லை.</translation>
     </message>
     <message>
         <source>REVERTING</source>
-        <translation>REVERTING</translation>
+        <translation>திரும்புதல்</translation>
     </message>
     <message>
         <source>up-to-date</source>
-        <translation>up-to-date</translation>
+        <translation>புதுப்பித்த</translation>
     </message>
     <message>
         <source>ahead: %1</source>
@@ -2862,19 +2861,19 @@ Examples
     <name>CommitDialog</name>
     <message>
         <source>Abort</source>
-        <translation>Abort</translation>
+        <translation>கைவிடு</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation>Merge</translation>
+        <translation>ஒன்றிணைக்கவும்</translation>
     </message>
     <message>
         <source>Stash</source>
-        <translation>Stash</translation>
+        <translation>ஸ்டாஷ்</translation>
     </message>
     <message>
         <source>Stash commit message</source>
-        <translation>Stash commit message</translation>
+        <translation>ஸ்டாஷ் உறுதி செய்தி</translation>
     </message>
     <message>
         <source>Revert</source>
@@ -2882,7 +2881,7 @@ Examples
     </message>
     <message>
         <source>Revert commit message</source>
-        <translation>Revert commit message</translation>
+        <translation>உறுதி செய்தியை மாற்றவும்</translation>
     </message>
     <message>
         <source>Merge commit message</source>
@@ -2894,32 +2893,32 @@ Examples
     </message>
     <message>
         <source>Cherry-pick commit message</source>
-        <translation>Cherry-pick commit message</translation>
+        <translation>செர்ரி-பிக் கமிட் செய்தி</translation>
     </message>
 </context>
 <context>
     <name>PreviewWidget</name>
     <message>
         <source>Added</source>
-        <translation>Added</translation>
+        <translation>சேர்க்கப்பட்டது</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation>Modified</translation>
+        <translation>மாற்றியமைக்கப்பட்டது</translation>
     </message>
 </context>
 <context>
     <name>ClearButton</name>
     <message>
         <source>Clear</source>
-        <translation>Clear</translation>
+        <translation>தெளிவு</translation>
     </message>
 </context>
 <context>
     <name>CloneDialog</name>
     <message>
         <source>Clone</source>
-        <translation>Clone</translation>
+        <translation>குளோன்</translation>
     </message>
     <message>
         <source>Clone Repository</source>
@@ -2927,11 +2926,11 @@ Examples
     </message>
     <message>
         <source>Cloned repository from '%1' into '%2'</source>
-        <translation>Cloned repository from '%1' into '%2'</translation>
+        <translation>'%1' இலிருந்து '%2' ஆக குளோன் செய்யப்பட்ட களஞ்சியம்</translation>
     </message>
     <message>
         <source>Initialized empty repository into '%1'</source>
-        <translation>Initialized empty repository into '%1'</translation>
+        <translation>'%1' இல் வெற்று களஞ்சியத்தை துவக்கியது</translation>
     </message>
     <message>
         <source>Initialize Repository</source>
@@ -2939,18 +2938,18 @@ Examples
     </message>
     <message>
         <source>Initialize</source>
-        <translation>Initialize</translation>
+        <translation>துவக்கவும்</translation>
     </message>
 </context>
 <context>
     <name>SideBar</name>
     <message>
         <source>Close</source>
-        <translation>Close</translation>
+        <translation>மூடு</translation>
     </message>
     <message>
         <source>Clone Repository</source>
-        <translation>Clone Repository</translation>
+        <translation>குளோன் களஞ்சியம்</translation>
     </message>
     <message>
         <source>Filter Non-existent Paths</source>
@@ -2962,11 +2961,11 @@ Examples
     </message>
     <message>
         <source>&lt;p&gt;Are you sure you want to remove the remote repository association for %1?&lt;/p&gt;&lt;p&gt;The local clone itself will not be affected.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Are you sure you want to remove the remote repository association for %1?&lt;/p&gt;&lt;p&gt;The local clone itself will not be affected.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;%1க்கான ரிமோட் ரெபோசிட்டரி சங்கத்தை நிச்சயமாக அகற்ற விரும்புகிறீர்களா?&lt;/p&gt;&lt;p&gt;உள்ளூர் குளோன் பாதிக்கப்படாது.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Remove Repository Association?</source>
-        <translation>Remove Repository Association?</translation>
+        <translation>களஞ்சிய சங்கத்தை அகற்றவா?</translation>
     </message>
     <message>
         <source>Refresh Remote Accounts</source>
@@ -2974,27 +2973,27 @@ Examples
     </message>
     <message>
         <source>Initialize New Repository</source>
-        <translation>Initialize New Repository</translation>
+        <translation>புதிய களஞ்சியத்தை துவக்கவும்</translation>
     </message>
     <message>
         <source>Open Repository</source>
-        <translation>Open Repository</translation>
+        <translation>களஞ்சியத்தைத் திற</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation>Authorize</translation>
+        <translation>அங்கீகரிக்கவும்</translation>
     </message>
     <message>
         <source>Open Existing Repository</source>
-        <translation>Open Existing Repository</translation>
+        <translation>ஏற்கனவே உள்ள களஞ்சியத்தைத் திறக்கவும்</translation>
     </message>
     <message>
         <source>&lt;p&gt;Are you sure you want to remove the %1 account for '%2'?&lt;/p&gt;&lt;p&gt;Only the account association will be removed. Remote configurations and local clones will not be affected.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Are you sure you want to remove the %1 account for '%2'?&lt;/p&gt;&lt;p&gt;Only the account association will be removed. Remote configurations and local clones will not be affected.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;'%2'க்கான %1 கணக்கை நிச்சயமாக அகற்ற விரும்புகிறீர்களா?&lt;/p&gt;&lt;p&gt;கணக்கு இணைப்பு மட்டும் அகற்றப்படும். தொலைநிலை உள்ளமைவுகள் மற்றும் உள்ளூர் குளோன்கள் பாதிக்கப்படாது.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Show Full Path</source>
-        <translation>Show Full Path</translation>
+        <translation>முழு பாதையைக் காட்டு</translation>
     </message>
     <message>
         <source>Show Full Name</source>
@@ -3006,30 +3005,30 @@ Examples
     </message>
     <message>
         <source>Add %1 Account</source>
-        <translation>Add %1 Account</translation>
+        <translation>%1 கணக்கைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <source>Remove Account?</source>
-        <translation>Remove Account?</translation>
+        <translation>கணக்கை அகற்றவா?</translation>
     </message>
 </context>
 <context>
     <name>AdvancedSearchWidget</name>
     <message>
         <source>Date:</source>
-        <translation>Date:</translation>
+        <translation>தேதி:</translation>
     </message>
     <message>
         <source>File:</source>
-        <translation>File:</translation>
+        <translation>கோப்பு:</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation>Path:</translation>
+        <translation>பாதை:</translation>
     </message>
     <message>
         <source>Author email</source>
-        <translation>Author email</translation>
+        <translation>ஆசிரியர் மின்னஞ்சல்</translation>
     </message>
     <message>
         <source>Hunk header text</source>
@@ -3037,27 +3036,27 @@ Examples
     </message>
     <message>
         <source>File name</source>
-        <translation>File name</translation>
+        <translation>கோப்பு பெயர்</translation>
     </message>
     <message>
         <source>File path</source>
-        <translation>File path</translation>
+        <translation>கோப்பு பாதை</translation>
     </message>
     <message>
         <source>Diff addition (green)</source>
-        <translation>Diff addition (green)</translation>
+        <translation>வேறுபாடு சேர்த்தல் (பச்சை)</translation>
     </message>
     <message>
         <source>Deletion:</source>
-        <translation>Deletion:</translation>
+        <translation>நீக்குதல்:</translation>
     </message>
     <message>
         <source>Diff deletion (red)</source>
-        <translation>Diff deletion (red)</translation>
+        <translation>வேறுபாடு நீக்கம் (சிவப்பு)</translation>
     </message>
     <message>
         <source>Commits after date</source>
-        <translation>Commits after date</translation>
+        <translation>தேதிக்குப் பிறகு உறுதியளிக்கிறது</translation>
     </message>
     <message>
         <source>Specific commit date</source>
@@ -3065,19 +3064,19 @@ Examples
     </message>
     <message>
         <source>After:</source>
-        <translation>After:</translation>
+        <translation>பின்:</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation>Email:</translation>
+        <translation>மின்னஞ்சல்:</translation>
     </message>
     <message>
         <source>Source code comment</source>
-        <translation>Source code comment</translation>
+        <translation>மூல குறியீடு கருத்து</translation>
     </message>
     <message>
         <source>Return</source>
-        <translation>Return</translation>
+        <translation>திரும்பு</translation>
     </message>
     <message>
         <source>Commit message</source>
@@ -3085,7 +3084,7 @@ Examples
     </message>
     <message>
         <source>Scope:</source>
-        <translation>Scope:</translation>
+        <translation>நோக்கம்:</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3093,11 +3092,11 @@ Examples
     </message>
     <message>
         <source>Diff context (white)</source>
-        <translation>Diff context (white)</translation>
+        <translation>மாறுபட்ட சூழல் (வெள்ளை)</translation>
     </message>
     <message>
         <source>Author name</source>
-        <translation>Author name</translation>
+        <translation>ஆசிரியர் பெயர்</translation>
     </message>
     <message>
         <source>Comment:</source>
@@ -3105,7 +3104,7 @@ Examples
     </message>
     <message>
         <source>Context:</source>
-        <translation>Context:</translation>
+        <translation>சூழல்:</translation>
     </message>
     <message>
         <source>Source code identifier</source>
@@ -3121,19 +3120,19 @@ Examples
     </message>
     <message>
         <source>Author:</source>
-        <translation>Author:</translation>
+        <translation>ஆசிரியர்:</translation>
     </message>
     <message>
         <source>Source code string literal</source>
-        <translation>Source code string literal</translation>
+        <translation>மூல குறியீடு சரம் எழுத்து</translation>
     </message>
     <message>
         <source>Identifier:</source>
-        <translation>Identifier:</translation>
+        <translation>அடையாளங்காட்டி:</translation>
     </message>
     <message>
         <source>String:</source>
-        <translation>String:</translation>
+        <translation>சரம்:</translation>
     </message>
     <message>
         <source>Addition:</source>
@@ -3141,7 +3140,7 @@ Examples
     </message>
     <message>
         <source>Message:</source>
-        <translation>Message:</translation>
+        <translation>செய்தி:</translation>
     </message>
 </context>
 <context>
@@ -3156,7 +3155,7 @@ Examples
     </message>
     <message>
         <source>Rebase</source>
-        <translation>Rebase</translation>
+        <translation>மறுதளம்</translation>
     </message>
     <message>
         <source>No commit</source>
@@ -3164,7 +3163,7 @@ Examples
     </message>
     <message>
         <source>Action:</source>
-        <translation>Action:</translation>
+        <translation>செயல்:</translation>
     </message>
     <message>
         <source>Reference:</source>
@@ -3183,7 +3182,7 @@ Examples
     </message>
     <message>
         <source>Start Point:</source>
-        <translation>Start Point:</translation>
+        <translation>தொடக்க புள்ளி:</translation>
     </message>
     <message>
         <source>Upstream:</source>
@@ -3191,11 +3190,11 @@ Examples
     </message>
     <message>
         <source>Advanced:</source>
-        <translation>Advanced:</translation>
+        <translation>மேம்பட்ட:</translation>
     </message>
     <message>
         <source>Checkout branch</source>
-        <translation>Checkout branch</translation>
+        <translation>செக்அவுட் கிளை</translation>
     </message>
     <message>
         <source>Create Branch</source>
@@ -3210,11 +3209,11 @@ Examples
     </message>
     <message>
         <source>Install</source>
-        <translation>Install</translation>
+        <translation>நிறுவவும்</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation>Uninstall</translation>
+        <translation>நிறுவல் நீக்கவும்</translation>
     </message>
     <message>
         <source>Location:</source>
@@ -3225,11 +3224,11 @@ Examples
     <name>RemoteCallbacks</name>
     <message>
         <source>To %1</source>
-        <translation>To %1</translation>
+        <translation>%1க்கு</translation>
     </message>
     <message>
         <source>authentication canceled</source>
-        <translation>authentication canceled</translation>
+        <translation>அங்கீகாரம் ரத்து செய்யப்பட்டது</translation>
     </message>
     <message>
         <source>failed to execute pre-push hook: %1</source>
@@ -3241,15 +3240,15 @@ Examples
     </message>
     <message>
         <source>remote: %1</source>
-        <translation>remote: %1</translation>
+        <translation>ரிமோட்: %1</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Password:</translation>
+        <translation>கடவுச்சொல்:</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation>Username:</translation>
+        <translation>பயனர் பெயர்:</translation>
     </message>
     <message>
         <source>From %1</source>
@@ -3257,11 +3256,11 @@ Examples
     </message>
     <message>
         <source>SSH Passphrase</source>
-        <translation>SSH Passphrase</translation>
+        <translation>SSH கடவுச்சொற்றொடர்</translation>
     </message>
     <message>
         <source>failed to execute pre-push hook: bash not found</source>
-        <translation>failed to execute pre-push hook: bash not found</translation>
+        <translation>ப்ரீ-புஷ் ஹூக்கை இயக்க முடியவில்லை: பாஷ் கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>HTTPS Credentials</source>
@@ -3272,11 +3271,11 @@ Examples
     <name>UpdateDialog</name>
     <message>
         <source>Install Update</source>
-        <translation>Install Update</translation>
+        <translation>புதுப்பிப்பை நிறுவவும்</translation>
     </message>
     <message>
         <source>Remind Me Later</source>
-        <translation>Remind Me Later</translation>
+        <translation>எனக்கு பிறகு நினைவூட்டு</translation>
     </message>
     <message>
         <source>Skip This Version</source>
@@ -3292,18 +3291,18 @@ Examples
     </message>
     <message>
         <source>&lt;h3&gt;A new version of %1 is available!&lt;/h3&gt;&lt;p&gt;%1 %2 is now available - you have %3. Would you like to download it now?&lt;/p&gt;&lt;b&gt;Release Notes:&lt;/b&gt;</source>
-        <translation>&lt;h3&gt;A new version of %1 is available!&lt;/h3&gt;&lt;p&gt;%1 %2 is now available - you have %3. Would you like to download it now?&lt;/p&gt;&lt;b&gt;Release Notes:&lt;/b&gt;</translation>
+        <translation>&lt;h3&gt;%1 இன் புதிய பதிப்பு உள்ளது!&lt;/h3&gt;&lt;p&gt;%1 %2 இப்போது கிடைக்கிறது - உங்களிடம் %3 உள்ளது. அதை இப்போது பதிவிறக்க விரும்புகிறீர்களா?&lt;/p&gt;&lt;b&gt;வெளியீட்டுக் குறிப்புகள்:&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
     <name>SearchPanel</name>
     <message>
         <source>lines</source>
-        <translation>lines</translation>
+        <translation>வரிகள்</translation>
     </message>
     <message>
         <source>terms</source>
-        <translation>terms</translation>
+        <translation>விதிமுறைகள்</translation>
     </message>
     <message>
         <source>Diff context:</source>
@@ -3326,11 +3325,11 @@ Examples
     <name>GeneralPanel</name>
     <message>
         <source>Allow collection of usage data</source>
-        <translation>Allow collection of usage data</translation>
+        <translation>பயன்பாட்டுத் தரவைச் சேகரிக்க அனுமதிக்கவும்</translation>
     </message>
     <message>
         <source>Credentials:</source>
-        <translation>Credentials:</translation>
+        <translation>சான்றுகள்:</translation>
     </message>
     <message>
         <source>Update submodules after pull</source>
@@ -3342,15 +3341,15 @@ Examples
     </message>
     <message>
         <source>User name:</source>
-        <translation>User name:</translation>
+        <translation>பயனர் பெயர்:</translation>
     </message>
     <message>
         <source>&lt;a href='view'&gt;View privacy policy&lt;/a&gt;</source>
-        <translation>&lt;a href='view'&gt;View privacy policy&lt;/a&gt;</translation>
+        <translation>&lt;a href='view'&gt;தனியுரிமைக் கொள்கையைப் பார்க்கவும்&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Automatic actions:</source>
-        <translation>Automatic actions:</translation>
+        <translation>தானியங்கி செயல்கள்:</translation>
     </message>
     <message>
         <source>Prune when fetching</source>
@@ -3358,11 +3357,11 @@ Examples
     </message>
     <message>
         <source>User email:</source>
-        <translation>User email:</translation>
+        <translation>பயனர் மின்னஞ்சல்:</translation>
     </message>
     <message>
         <source>Push after each commit</source>
-        <translation>Push after each commit</translation>
+        <translation>ஒவ்வொரு உறுதிப்பாட்டிற்கும் பிறகு தள்ளுங்கள்</translation>
     </message>
     <message>
         <source>Store credentials in secure storage</source>
@@ -3381,15 +3380,15 @@ Examples
     <name>CommitEditor</name>
     <message>
         <source>Update %1, %2, and %3 more files...</source>
-        <translation>Update %1, %2, and %3 more files...</translation>
+        <translation>%1, %2 மற்றும் %3 மேலும் கோப்புகளைப் புதுப்பிக்கவும்...</translation>
     </message>
     <message>
         <source>%1 of %2 file staged</source>
-        <translation>%1 of %2 file staged</translation>
+        <translation>%1 / %2 கோப்பு அரங்கேற்றப்பட்டது</translation>
     </message>
     <message>
         <source>Nothing staged</source>
-        <translation>Nothing staged</translation>
+        <translation>எதுவும் அரங்கேறவில்லை</translation>
     </message>
     <message>
         <source>&lt;b&gt;Commit Message:&lt;/b&gt;</source>
@@ -3397,11 +3396,11 @@ Examples
     </message>
     <message>
         <source>Commit Merge</source>
-        <translation>Commit Merge</translation>
+        <translation>ஒன்றிணைக்க உறுதி</translation>
     </message>
     <message>
         <source>Commit</source>
-        <translation>Commit</translation>
+        <translation>உறுதி</translation>
     </message>
     <message>
         <source>all conflicts resolved</source>
@@ -3413,11 +3412,11 @@ Examples
     </message>
     <message>
         <source>Unstage All</source>
-        <translation>Unstage All</translation>
+        <translation>அன்ஸ்டேஜ் ஆல்</translation>
     </message>
     <message>
         <source>Stage All</source>
-        <translation>Stage All</translation>
+        <translation>அனைத்து நிலை</translation>
     </message>
     <message>
         <source>%1 files partially staged</source>
@@ -3429,7 +3428,7 @@ Examples
     </message>
     <message>
         <source>%1 unresolved conflict</source>
-        <translation>%1 unresolved conflict</translation>
+        <translation>%1 தீர்க்கப்படாத முரண்பாடு</translation>
     </message>
     <message>
         <source>%1 file partially staged</source>
@@ -3463,11 +3462,11 @@ Examples
     <name>ExternalToolsDialog</name>
     <message>
         <source>Select Executable</source>
-        <translation>Select Executable</translation>
+        <translation>இயங்கக்கூடியதைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <source>User Defined Tools</source>
-        <translation>User Defined Tools</translation>
+        <translation>பயனர் வரையறுக்கப்பட்ட கருவிகள்</translation>
     </message>
     <message>
         <source>Detected Tools</source>
@@ -3475,7 +3474,7 @@ Examples
     </message>
     <message>
         <source>Configure External Tools</source>
-        <translation>Configure External Tools</translation>
+        <translation>வெளிப்புற கருவிகளை உள்ளமைக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -3502,7 +3501,7 @@ Examples
     </message>
     <message>
         <source>Sort Topologically</source>
-        <translation>Sort Topologically</translation>
+        <translation>இடவியல் ரீதியாக வரிசைப்படுத்தவும்</translation>
     </message>
     <message>
         <source>Compact Mode</source>
@@ -3581,8 +3580,8 @@ Examples
 <context>
     <name>RemotesPanel</name>
     <message>
-        <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation>&apos;%1&apos;-ஐ நீக்க விரும்புகிறீர்களா?</translation>
+        <source>Are you sure you want to delete '%1'?</source>
+        <translation>'%1'-ஐ நீக்க விரும்புகிறீர்களா?</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3753,7 +3752,7 @@ Examples
     </message>
     <message>
         <source>&lt;b&gt;Note:&lt;/b&gt; Basic authentication is not supported. Use a &lt;a href='https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html'&gt;personal access token&lt;/a&gt; in the password field instead.</source>
-        <translation>&lt;b&gt;குறிப்பு:&lt;/b&gt; அடிப்படை அங்கீகாரம் ஆதரிக்கப்படாது. அதற்குப் பதிலாக கடவுச்சொல் புலத்தில் &lt;a href=&apos;https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html&apos;&gt;தனிப்பட்ட அணுகல் டோக்கனை&lt;/a&gt; பயன்படுத்தவும்.</translation>
+        <translation>&lt;b&gt;குறிப்பு:&lt;/b&gt; அடிப்படை அங்கீகாரம் ஆதரிக்கப்படாது. அதற்குப் பதிலாக கடவுச்சொல் புலத்தில் &lt;a href='https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html'&gt;தனிப்பட்ட அணுகல் டோக்கனை&lt;/a&gt; பயன்படுத்தவும்.</translation>
     </message>
 </context>
 <context>
